@@ -12,14 +12,6 @@ This website is built with Jekyll and "Affiliates" (a Jekyll Template designed &
 
 <a href="https://gum.co/affiliates-jekyll-template" target="_blank">Download - Affiliates Jekyll Theme</a>
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
-
 #### Features
 
 - Built for Jekyll
@@ -45,18 +37,18 @@ This website is built with Jekyll and "Affiliates" (a Jekyll Template designed &
     - Post right sidebar
     - Page
     - Archive
-    
+
 #### How to Use
 
 If you aren't familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. If you are a beginner we recommend you start with [Jekyll's Docs](https://jekyllrb.com/docs/installation/){:target="_blank"}. Now if you know how to use Jekyll, let's move on to using Affiliates template in Jekyll:
 
-[Download](https://gum.co/affiliates-jekyll-template){:target="_blank"} or Fork *Affiliates for Jekyll*. 
+[Download](https://gum.co/affiliates-jekyll-template){:target="_blank"} or Fork *Affiliates for Jekyll*.
 - In your local project, open <code>_config.yml</code>. If your site is in root, for <code>baseurl</code>, make sure this is set to <code>baseurl: /</code>. Also, change your Google Analytics code, Disqus username, Authors, Mailchimp, ShareThis code (https://www.sharethis.com/) etc.
-- Affiliates requires 2 plugins: 
+- Affiliates requires 2 plugins:
     - <code>$ gem install jekyll-paginate</code>
     - <code>$ gem install jekyll-archives</code>.
 - Locate the files and customize:
-    - header & footer in <code>default.html</code>. 
+    - header & footer in <code>default.html</code>.
     - homepage in <code>index.html</code>
     - contact form in <code>contact.html</code> (https://formspree.io/)
     - post sidebar in <code>includes/sidebar.html</code>
@@ -67,7 +59,7 @@ If you aren't familiar with Jekyll yet, you should know that it is a static site
     - post featured image - <code>image: assets/images/mypic.jpg</code>
     - page comments - <code>comments:true</code>
     - meta description (optional) - <code>description: "this is my meta description"</code>
-    
+
 YAML Post Example:
 <pre class="highlight">
 ---
