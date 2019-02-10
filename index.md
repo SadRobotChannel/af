@@ -4,10 +4,10 @@ feature_text: |
   ## All Faucets
   The full list of cryptocurrency faucets, sorted by the value and reputation.
 feature_image: "http://www.all-faucets.com/b01.jpg"
-excerpt: "Cryptocurrency faucets are reward systems in the form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in exchange for completing a captcha or tasks described by the websites. Here is the list of the best faucet sites."
+excerpt: "We list best cryptocurrency faucets sites."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
+Cryptocurrency faucets are reward systems in the form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in exchange for completing a captcha or tasks described by the websites. Here is the list of the best faucet sites.
 
 ## Features
 
@@ -16,7 +16,6 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 - Solid **typographic framework** from [Sassline](https://sassline.com/)
 - **Contact form** built in using [Formspree](https://formspree.io/)
 - Designed with **[Siteleaf](http://www.siteleaf.com/)** in mind
-
 
 ## Examples
 
