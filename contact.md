@@ -3,25 +3,10 @@ title: Elements
 feature_text: |
   A demo of Markdown and HTML includes
 feature_image: "http://www.all-faucets.com/b02.jpg"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "Contact us to include your faucet website!"
 aside: true
 ---
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-<small>A small element</small>
-
-[A link](https://david.darn.es "A link")
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
@@ -39,7 +24,8 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 4. Item four
 5. Item five
 
-> A simple blockquote
+> “By investing in anonymous
+cryptocurrencies, you are buying 'insurance' against a recession, as the value of the cryptocurrency could increase significantly if the economy falters and the black market grows.” ― Will Martin, Black Market Cryptocurrencies: The Rise of Bitcoin Alternatives That Offer True Anonymity
 
 Some HTML...
 
