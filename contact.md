@@ -25,7 +25,8 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 5. Item five
 
 > “By investing in anonymous
-cryptocurrencies, you are buying 'insurance' against a recession, as the value of the cryptocurrency could increase significantly if the economy falters and the black market grows.” ― Will Martin, Black Market Cryptocurrencies: The Rise of Bitcoin Alternatives That Offer True Anonymity
+cryptocurrencies, you are buying 'insurance' against a recession, as the value of the cryptocurrency could increase significantly if the economy falters and the black market grows.”
+― Will Martin, Black Market Cryptocurrencies: The Rise of Bitcoin Alternatives That Offer True Anonymity
 
 Some HTML...
 
