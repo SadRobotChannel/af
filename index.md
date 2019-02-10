@@ -7,7 +7,7 @@ feature_image: "http://www.all-faucets.com/b01.jpg"
 excerpt: "We list best cryptocurrency faucets sites."
 ---
 
-Cryptocurrency faucets are reward systems in the form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in exchange for completing a captcha or tasks described by the websites. Here is the list of the best faucet sites.
+Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in exchange for completing a captcha or tasks described by the websites. Here is the list of the best faucet sites.
 
 ## Features
 
