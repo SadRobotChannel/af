@@ -1,9 +1,9 @@
 ---
-title: About Alembic
+title: all-faucets.com - your gateway to all crypto faucets
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
+  ## All Faucets
+  The full list of cryptocurrency faucets, sorted by the value and reputation.
+feature_image: "https://pbs.twimg.com/profile_images/1076614341603012608/emJgoXBm_400x400.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
