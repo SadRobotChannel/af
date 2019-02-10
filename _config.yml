@@ -91,14 +91,13 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   Home: /
-  Contact Us: /contact/
-  Blog: /blog/
   Categories: /categories/
+  Discussion: /discussion/
+  Contact Us: /contact/
   Search: /search/
-  FreeBitco.in: http://bit.ly/www-freebitcoin
 
 navigation_footer:
-  Created by David Darnes: https://darn.es
+  www.all-faucets.com: http://www.all-faucets.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
