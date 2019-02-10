@@ -1,11 +1,11 @@
 # Site
-name: Affiliates Theme for Jekyll
-description: Jekyll Theme for Blogging
-meta_description: "Jekyll theme for blogging."
+name: All Faucets
+description: The full list of cryptocurrency faucets, sorted by the value and reputation.
+meta_description: "We list the best cryptocurrency faucets sites."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: 
+baseurl:
 email: 'wowthemesnet@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -31,10 +31,10 @@ authors:
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-paginate
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -42,7 +42,7 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
+
 # Other
 markdown: kramdown
 highlighter: rouge
