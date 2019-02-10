@@ -1,7 +1,8 @@
 ---
-title: Contact Us
+title: Is there anything missing or incomplete?
 feature_text: |
-  A demo of Markdown and HTML includes
+  ## Contact Us
+  The full list of cryptocurrency faucets, sorted by the value and reputation.
 feature_image: "http://www.all-faucets.com/b02.jpg"
 excerpt: "Contact us to include your faucet website!"
 aside: true
