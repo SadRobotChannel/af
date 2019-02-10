@@ -3,7 +3,7 @@ title: all-faucets.com - your gateway to all crypto faucets
 feature_text: |
   ## All Faucets
   The full list of cryptocurrency faucets, sorted by the value and reputation.
-feature_image: "https://pbs.twimg.com/profile_images/1076614341603012608/emJgoXBm_400x400.jpg"
+feature_image: "http://www.all-faucets.com/b01.png"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
