@@ -7,14 +7,13 @@ feature_image: ""
 excerpt: "We list the best cryptocurrency faucets sites."
 ---
 
-## Bitcoin Faucets
+### Bitcoin Faucets
 
-- [bitpodcast.com](https://bitpodcast.com/)
-- [joelcagedesign.com](https://joelcagedesign.com/)
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
+1. [freebitco.in](http://bit.ly/www-freebitcoin)
+2. [bitcoinsfor.me](http://bit.ly/www-bitcoinsfor-me)
+3. [bawejakunal.github.io](http://bit.ly/www-trustbtcfaucet)
 
 Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in an exchange for completing a captcha or tasks described by the websites. Here is the list of the best faucet sites.
-
 
 ## Please Share
 
