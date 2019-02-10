@@ -3,7 +3,7 @@ title: Your gateway to all crypto faucets
 feature_text: |
   ## All Faucets
   The full list of cryptocurrency faucets, sorted by the value and reputation.
-feature_image: "http://www.all-faucets.com/b01.jpg"
+feature_image: ""
 excerpt: "We list the best cryptocurrency faucets sites."
 ---
 
