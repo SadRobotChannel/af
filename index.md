@@ -1,5 +1,5 @@
 ---
-title: all-faucets.com - your gateway to all crypto faucets
+title: Your gateway to all crypto faucets
 feature_text: |
   ## All Faucets
   The full list of cryptocurrency faucets, sorted by the value and reputation.
