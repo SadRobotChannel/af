@@ -11,41 +11,29 @@ This site is an unfinished project. There are over 500 cryptocurrency faucets on
 
 #### Bitcoin Faucets
 
-- <a href="http://bit.ly/www-freebitcoin" target="_blank">freebitco.in</a>
-- <a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">bitcoinsfor.me</a>
-- <a href="http://bit.ly/www-trustbtcfaucet" target="_blank">trustbtcfaucet</a>
-- text
-- text:
-    - text
-    - text
-- text:
-    - text
-    - text
+<table>
+  <tr>
+    <th>#</th>
+    <th>Faucet Name / Link</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><a href="http://bit.ly/www-freebitcoin" target="_blank">freebitco.in</a></td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">bitcoinsfor.me</a></td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">trustbtcfaucet</a><</td>
+    <td>TBD</td>
+  </tr>
+</table>
 
 #### Share
 
 Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms!
-
-
-<table>
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
-</table>
