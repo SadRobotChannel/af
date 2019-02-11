@@ -33,7 +33,7 @@ This site is an unfinished project. There are over 500 cryptocurrency faucets on
     <td>TBD</td>
   </tr>
 </table>
-####
+• • • • • • • • • • • • •
 #### Share
 
 Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms!
