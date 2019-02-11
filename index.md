@@ -20,7 +20,7 @@ This site is an unfinished project. There are over 500 cryptocurrency faucets on
   <tr>
     <td>1</td>
     <td><a href="http://bit.ly/www-freebitcoin" target="_blank">freebitco.in</a></td>
-    <td>TBD</td>
+    <td>One of the oldest and most trusted websites. You get around 0.00000040 BTC per hour, with a possibility to roll more. Also, you earn compounded daily interest on the amount of BTC you keep in your account.</td>
   </tr>
   <tr>
     <td>2</td>
@@ -33,7 +33,7 @@ This site is an unfinished project. There are over 500 cryptocurrency faucets on
     <td>TBD</td>
   </tr>
 </table>
-• • • • • • • • • • • • •
+• • • • • • • • • • • • • • • • • • • • • • • • • •
 #### Share
 
 Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms!
