@@ -13,9 +13,9 @@ This site is an unfinished project. There are over 500 cryptocurrency faucets on
 
 <table>
   <tr>
-    <th>___</th>
-    <th>______________________</th>
-    <th>______________________</th>
+    <th>__#__</th>
+    <th>__faucet__site__</th>
+    <th>__comments__</th>
   </tr>
   <tr>
     <td>1</td>
@@ -35,5 +35,5 @@ This site is an unfinished project. There are over 500 cryptocurrency faucets on
 </table>
 
 #### Share
-
+ 
 Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms!
