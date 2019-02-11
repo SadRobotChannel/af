@@ -13,9 +13,9 @@ This site is an unfinished project. There are over 500 cryptocurrency faucets on
 
 <table>
   <tr>
-    <th>#</th>
-    <th>Faucet Name / Link</th>
-    <th>Description</th>
+    <th>___</th>
+    <th>______________________</th>
+    <th>______________________</th>
   </tr>
   <tr>
     <td>1</td>
@@ -37,67 +37,3 @@ This site is an unfinished project. There are over 500 cryptocurrency faucets on
 #### Share
 
 Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms!
-
-<footer class="footer">
-
-    <div class="container">
-
-        <div class="row">
-            <div class="col-sm-3">
-            <div class="footer-widget">
-            <a href="{{site.baseurl}}/contact">
-            <img src="{{ site.baseurl }}/assets/images/logo-footer.png">
-            </a>
-            </div>
-            </div>
-
-            <div class="col-sm-3">
-            <div class="footer-widget">
-            <h5 class="title">Resources</h5>
-            <ul>
-            <li><a target="_blank" href="https://m.do.co/c/84c9b45d0c47">Digital Ocean</a></li>
-            <li><a target="blank" href="https://www.cloudways.com/en/pricing.php?id=153986&amp;a_bid=005da123">Cloudways</a></li>
-            <li><a target="blank" href="http://shareasale.com/r.cfm?b=875645&amp;u=1087935&amp;m=41388&amp;urllink=&amp;afftrack=">Page Speed Test</a></li>
-            <li><a target="blank" href="https://www.wowthemes.net/affiliate-area/?utm_source=fromjekyllsidebar&utm_campaign=sidebar">Partner with Us</a></li>
-            <li><a target="blank" href="https://www.wowthemes.net/category/jekyll-themes/">Our Jekyll Themes</a></li>
-            </ul>
-            </div>
-            </div>
-
-            <div class="col-sm-3">
-            <div class="footer-widget">
-            <h5 class="title">Author</h5>
-            <ul>
-            <li><a href="https://www.wowthemes.net/premium-themes-templates/">About Us</a></li>
-            <li><a target="_blank" href="https://www.wowthemes.net/affiliate-area/">Affiliates</a></li>
-            <li><a href="https://www.wowthemes.net/terms-and-conditions/">License</a></li>
-            <li><a href="https://www.wowthemes.net/blog/">Blog</a></li>
-            <li><a href="https://www.wowthemes.net/support/">Contact</a></li>
-            </ul>
-            </div>
-            </div>
-
-            <div class="col-sm-3">
-            <div class="footer-widget textwidget">
-                <h5 class="title">Download</h5>
-                <p>Download "Affiliates" theme and use it for your next Jekyll project. If you have a question, a bug report, or if you simply want to say hi, <a href="https://www.wowthemes.net/support/">contact us here</a>.</p>
-                <a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip">Download Theme</a>
-            </div>
-            </div>
-        </div>
-
-        <div class="copyright">
-            <p class="pull-left">
-            Copyright © {{ site.time | date: "%Y" }} {{ site.name }}.
-            </p>
-            <p class="pull-right">
-            <!-- Please, leave credit to author unless you own a commercial license: https://www.wowthemes.net/freebies-license/ -->
-            <a target="_blank" href="https://www.wowthemes.net/free-jekyll-template-affiliates/">"Affiliates Theme"</a> - Design & Code by WowThemes.net
-            </p>
-            <div class="clearfix"></div>
-        </div>
-
-    </div>
-
-</footer>
-<!-- End Footer
