@@ -42,12 +42,17 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 <td><a href="/faucethub.io">Discussion</a></td></tr>
 
 <tr><td>6. <a href="http://bit.ly/sato-host" target="_blank">sato</a></td>
-<td>Wait 10 second for Log-In button to appear. Requires a faucethub Bitcoin wallet address. Facet amount changes weekly, last week offering 0.00000040 BTC per hour.</td>
+<td>Wait 10 second for Log-In button to appear. Requires a faucethub Bitcoin wallet address. Facet amount changes weekly. Clean and minimalistic.</td>
 <td><a href="/sato.host">Discussion</a></td></tr>
 
-<tr><td>Row:7 Cell:1</td><td>Row:7 Cell:2</td><td>Row:7 Cell:3</td></tr>
+<tr><td>7. <a href="http://bit.ly/www-eobot" target="_blank">eobot</a></td>
+<td>Primarily an exchange and mining site, however has a bitcoin faucet. Claim once per day circa 0.00000140 BTC.</td>
+<td><a href="/eobot.com">Discussion</a></td></tr>
+
 <tr><td>Row:8 Cell:1</td><td>Row:8 Cell:2</td><td>Row:8 Cell:3</td></tr>
+
 <tr><td>Row:9 Cell:1</td><td>Row:9 Cell:2</td><td>Row:9 Cell:3</td></tr>
+
 </table>
 ---
 #### Share
