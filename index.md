@@ -42,10 +42,10 @@ Thank you for visiting this site. If you found it helpful, please share it with 
 #### Test
 
 <style type="text/css">
-.tftable {font-size:12px;color:#333333;width:100%;border-width: 1px;border-color: #ebab3a;border-collapse: collapse;}
-.tftable th {font-size:12px;background-color:#e6983b;border-width: 1px;padding: 8px;border-style: solid;border-color: #ebab3a;text-align:left;}
-.tftable tr {background-color:#f0c169;}
-.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: solid;border-color: #ebab3a;}
+.tftable {font-size:12px;color:#333333;width:100%;border-width: 1px;border-color: #fffefc;border-collapse: collapse;}
+.tftable th {font-size:12px;background-color:#fff9f2;border-width: 1px;padding: 8px;border-style: solid;border-color: #ebab3a;text-align:left;}
+.tftable tr {background-color:#fffcf7;}
+.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: solid;border-color: #fffefc;}
 .tftable tr:hover {background-color:#ffffff;}
 </style>
 
