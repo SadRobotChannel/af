@@ -34,10 +34,13 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 <td><a href="/trustbtcfaucet.com">Discussion</a></td></tr>
 
 <tr><td>4. <a href="http://bit.ly/www-bitnyx" target="_blank">bitnyx</a></td>
-<td>Row:Up to 0.00000030 BTC every 30 minutes, randomized. Very clean site, no pop-ups, etc. Also, possibility to win 0.00100000 BTC weekly.</td>
+<td>Up to 0.00000030 BTC every 30 minutes, randomized. Very clean site, no pop-ups, etc. Also, possibility to win 0.00100000 BTC weekly.</td>
 <td><a href="/bitnyx.com">Discussion</a></td></tr>
 
-<tr><td>Row:5 Cell:1</td><td>Row:5 Cell:2</td><td>Row:5 Cell:3</td></tr>
+<tr><td>5. <a href="http://bit.ly/www-faucethub" target="_blank">faucethub</a></td>
+<td>Faucethub is a gateway to many other faucet systems. Registering digital wallets on faucethub is a prerequisite for several faucets sites mentioned here.</td>
+<td><a href="/faucethub.io">Discussion</a></td></tr>
+
 <tr><td>Row:6 Cell:1</td><td>Row:6 Cell:2</td><td>Row:6 Cell:3</td></tr>
 <tr><td>Row:7 Cell:1</td><td>Row:7 Cell:2</td><td>Row:7 Cell:3</td></tr>
 <tr><td>Row:8 Cell:1</td><td>Row:8 Cell:2</td><td>Row:8 Cell:3</td></tr>
