@@ -33,14 +33,17 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 <tr><td>3. <a href="http://bit.ly/www-trustbtcfaucet" target="_blank">trustbtcfaucet</a></td><td>Anywhere from 0.00000003 to 0.0000088 BTC every 5 minutes, randomly. Loyalty Bonus. Compound daily interest.</td>
 <td><a href="/trustbtcfaucet.com">Discussion</a></td></tr>
 
-<tr><td>Row:4 Cell:1</td><td>Row:4 Cell:2</td><td>Row:4 Cell:3</td></tr>
+<tr><td>4. <a href="http://bit.ly/www-bitnyx" target="_blank">bitnyx</a></td>
+<td>Row:Up to 0.00000030 BTC every 30 minutes, randomized. Very clean site, no pop-ups, etc. Also, possibility to win 0.00100000 BTC weekly.</td>
+<td><a href="/bitnyx.com">Discussion</a></td></tr>
+
 <tr><td>Row:5 Cell:1</td><td>Row:5 Cell:2</td><td>Row:5 Cell:3</td></tr>
 <tr><td>Row:6 Cell:1</td><td>Row:6 Cell:2</td><td>Row:6 Cell:3</td></tr>
 <tr><td>Row:7 Cell:1</td><td>Row:7 Cell:2</td><td>Row:7 Cell:3</td></tr>
 <tr><td>Row:8 Cell:1</td><td>Row:8 Cell:2</td><td>Row:8 Cell:3</td></tr>
 <tr><td>Row:9 Cell:1</td><td>Row:9 Cell:2</td><td>Row:9 Cell:3</td></tr>
 </table>
-
+---
 #### Share
 
 Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms!
