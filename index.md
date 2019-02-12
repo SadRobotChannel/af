@@ -41,7 +41,10 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 <td>Faucethub is a gateway to many other faucet systems. Registering digital wallets on faucethub is a prerequisite for several faucets sites mentioned here.</td>
 <td><a href="/faucethub.io">Discussion</a></td></tr>
 
-<tr><td>Row:6 Cell:1</td><td>Row:6 Cell:2</td><td>Row:6 Cell:3</td></tr>
+<tr><td>6. <a href="http://bit.ly/sato-host" target="_blank">sato</a></td>
+<td>Wait 10 second for Log-In button to appear. Requires a faucethub Bitcoin wallet address. Facet amount changes weekly, last week offering 0.00000040 BTC per hour.</td>
+<td><a href="/sato.host">Discussion</a></td></tr>
+
 <tr><td>Row:7 Cell:1</td><td>Row:7 Cell:2</td><td>Row:7 Cell:3</td></tr>
 <tr><td>Row:8 Cell:1</td><td>Row:8 Cell:2</td><td>Row:8 Cell:3</td></tr>
 <tr><td>Row:9 Cell:1</td><td>Row:9 Cell:2</td><td>Row:9 Cell:3</td></tr>
