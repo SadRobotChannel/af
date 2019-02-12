@@ -15,7 +15,7 @@ This site is an unfinished project. There are over 500 cryptocurrency faucets on
   <tr>
     <th>• • • •</th>
     <th>• • • • • • • • • • • • •</th>
-    <th>• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</th>
+    <th>• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</th>
   </tr>
   <tr>
     <td>1</td>
@@ -30,10 +30,10 @@ This site is an unfinished project. There are over 500 cryptocurrency faucets on
   <tr>
     <td>3</td>
     <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">trustbtcfaucet</a></td>
-    <td>Anywhere from 0.00000003 to 0.0000088 BTC  BTC every 5 minutes, randomly</td>
+    <td>Anywhere from 0.00000003 to 0.0000088 BTC every 5 minutes, randomly</td>
   </tr>
 </table>
-• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
+• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 #### Share
 
 Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms!
