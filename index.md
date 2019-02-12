@@ -12,35 +12,6 @@ This site is an unfinished project. There are over 500 cryptocurrency faucets on
 
 #### Bitcoin Faucets
 
-<table>
-  <tr>
-    <th>• • • •</th>
-    <th>• • • • • • • • • • • • •</th>
-    <th>• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td><a href="http://bit.ly/www-freebitcoin" target="_blank">freebitco.in</a></td>
-    <td>Around 0.00000040 BTC per hour, with a possibility to roll more</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">bitcoinsfor.me</a></td>
-    <td>0.00000010 BTC every 5 minutes, up to 40 claims per day</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">trustbtcfaucet</a></td>
-    <td>Anywhere from 0.00000003 to 0.0000088 BTC every 5 minutes, randomly</td>
-  </tr>
-</table>
-• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-#### Share
-
-Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms!
-
-#### Test
-
 <style type="text/css">
 .tftable {font-size:12px;color:#333333;width:100%;border-width: 1px;border-color: #fffefc;border-collapse: collapse;}
 .tftable th {font-size:12px;background-color:#fff9f2;border-width: 1px;padding: 8px;border-style: solid;border-color: #ebab3a;text-align:left;}
@@ -53,10 +24,12 @@ Thank you for visiting this site. If you found it helpful, please share it with 
 
 <tr><th>Faucet</th><th>Value</th><th>Useful Links</th></tr>
 
-<tr><td>1. <a href="http://bit.ly/www-freebitcoin" target="_blank">freebitco.in</a></td><td>Around 0.00000040 BTC per hour, with a possibility to roll more</td><td>Discussion</td></tr>
+<tr><td>1. <a href="http://bit.ly/www-freebitcoin" target="_blank">freebitco.in</a></td><td>Around 0.00000040 BTC per hour, with a possibility to roll more; Lottery.</td><td>Discussion</td></tr>
 
-<tr><td>Row:2 Cell:1</td><td>Row:2 Cell:2</td><td>Row:2 Cell:3</td></tr>
-<tr><td>Row:3 Cell:1</td><td>Row:3 Cell:2</td><td>Row:3 Cell:3</td></tr>
+<tr><td>2. <a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">bitcoinsfor.me</a></td><td>0.00000010 BTC every 5 minutes, up to 40 claims per day. Also, free hourly Slots Roll with a possibility of winning 0.00000500 - 0.00005000 BTC.</td><td>Discussion</td></tr>
+
+<tr><td>3. <a href="http://bit.ly/www-trustbtcfaucet" target="_blank">trustbtcfaucet</a><</td><td>Anywhere from 0.00000003 to 0.0000088 BTC every 5 minutes, randomly. Loyalty Bonus. Compound daily interest.</td><td>Discussion</td></tr>
+
 <tr><td>Row:4 Cell:1</td><td>Row:4 Cell:2</td><td>Row:4 Cell:3</td></tr>
 <tr><td>Row:5 Cell:1</td><td>Row:5 Cell:2</td><td>Row:5 Cell:3</td></tr>
 <tr><td>Row:6 Cell:1</td><td>Row:6 Cell:2</td><td>Row:6 Cell:3</td></tr>
@@ -64,3 +37,7 @@ Thank you for visiting this site. If you found it helpful, please share it with 
 <tr><td>Row:8 Cell:1</td><td>Row:8 Cell:2</td><td>Row:8 Cell:3</td></tr>
 <tr><td>Row:9 Cell:1</td><td>Row:9 Cell:2</td><td>Row:9 Cell:3</td></tr>
 </table>
+
+#### Share
+
+Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms!
