@@ -49,11 +49,13 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 <td>Primarily an exchange and mining site, however has a bitcoin faucet. Claim once per day circa 0.00000140 BTC.</td>
 <td><a href="/eobot.com">Discussion</a></td></tr>
 
-<tr><td><td>8. <a href="http://bit.ly/www-mellowads" target="_blank">mellowads</a></td>
+<tr><td>8. <a href="http://bit.ly/www-mellowads" target="_blank">mellowads</a></td>
 <td>Primarily an advertising platform (buy and sell ads), but gives you a free faucet. Claim once per day 0.00000500 BTC. Use funds for ads.</td>
 <td><a href="/mellowads.com">Discussion</a></td></tr>
 
-<tr><td>Row:9 Cell:1</td><td>Row:9 Cell:2</td><td>Row:9 Cell:3</td></tr>
+<tr><td>9. <a href="http://bit.ly/www-febbit" target="_blank">febbit</a></td>
+<td>A browser-based. You level-up a monster who mines bitcoins. Not real mining, just simulation. After one week I am able to generate 00000100 BTC per hour.</td>
+<td><a href="/febbit.com">Discussion</a></td></tr>
 
 </table>
 ---
