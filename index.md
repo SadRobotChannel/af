@@ -8,7 +8,7 @@ Cryptocurrency faucets are reward systems in a form of a website or an app that 
 
 **Work in Progress**
 
-This site is an unfinished project. There are over 500 cryptocurrency faucets on the Internet today. The list below is growing as we only add the faucets that are verified for their value and reputation.
+This is an unfinished project. There are over 500 cryptocurrency faucets on the Internet today. Our list is growing as we add only the faucets that are verified for their value and reputation.
 
 #### Bitcoin Faucets
 
