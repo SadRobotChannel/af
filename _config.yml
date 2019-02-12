@@ -9,8 +9,7 @@ baseurl:
 email: 'bigaccount@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'all-faucets'
-sharethis: '<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5c634c367056550011c49ec4&product=social-ab' async='async'></script>'
-
+sharethis: '<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5c634c367056550011c49ec4&product=social-analytics' async='async'></script>'
 
 # Authors
 authors:
