@@ -14,5 +14,5 @@ Similarly, after you log in, you will be asked to complete captcha and you will 
 <p> </p>
 <p><img src="/assets/images/sato-02.png" border="0"></p>
 <p> </p>
-The sato faucet changes its payout scheme often. Several weeks ago it was paying 100 satoshi every hour. Now, as you see from screenshot below, it allows you to claim with 0 internal (claim after claim after claim) and pays you 20 satoshi, but you can only 7 times per day. Tomorrow the payout scheme may be different again.
+The sato faucet changes its payout scheme often. Several weeks ago it was paying 100 satoshi every hour. Now, as you see from screenshot below, it allows you to claim with 0 min interval (claim after claim, no wait) and pays you 20 satoshi, but you can only 7 times per day. Tomorrow the payout scheme may be different again.
 <p> </p>
