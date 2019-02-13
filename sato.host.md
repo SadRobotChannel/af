@@ -16,3 +16,6 @@ Similarly, after you log in and complete captcha, you will need to wait for 10 s
 <p> </p>
 The sato faucet changes its payout scheme often. Several weeks ago it was paying 100 satoshi every hour. Now, as you see from the screenshot, it allows you to claim with 0 min interval (claim after claim, no wait) and pays you 20 satoshi, but you can only 7 times per day. Tomorrow the payout scheme may be different again.
 <p> </p>
+The withdrawal is automatic. The amount you earn in sato is withdrawn and deposited every-time you claim. There's no minimum. As mentioned, you must claim into your faucethub account only, since both of these sites are "linked" together.
+<p> </p>
+<p><img src="/assets/images/sato-03.png" border="0"></p>
