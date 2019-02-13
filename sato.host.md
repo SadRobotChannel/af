@@ -9,7 +9,7 @@ The <a href="http://bit.ly/sato-host" target="_blank">sato.host</a> is one of th
 When you arrive to the page you'll need to wait 10 seconds for the Login button to appear, as shown on screenshot below.
 <p> </p>
 <img src="/assets/images/sato-01.png" border="0">
-
+<p> </p>
 Similarly, after you log in, you will be asked to complete captcha. Scroll down and wait for the claim button to appear.
 <p> </p>
 <img src="/assets/images/sato-02.png" border="0">
