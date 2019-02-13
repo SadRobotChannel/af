@@ -4,4 +4,6 @@ title: sato.host
 comments: true
 ---
 
-Description goes here.
+The <a href="http://bit.ly/sato-host" target="_blank">sato.host</a> is one of the simplest and minimalistic faucets. You are not required to register with your email account, but rather you log into the site with your wallet address. Please note that you need to use a bitcoin wallet address that you generate in your <a href="http://bit.ly/www-faucethub" target="_blank">faucethub</a> account.
+<P>
+When you arrive to the page you'll need to wait 10 seconds for the Login button to appear.
