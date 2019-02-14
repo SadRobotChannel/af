@@ -16,6 +16,6 @@ The site allows you to earn bitcoin via a daily interest of the total amount hol
 <p> </p>
 <p><img src="/assets/images/freebitco.in-02.png" border="0"></p>
 <p> </p>
-The daily interest is slowly increasing your total balance, which in turn increases the amounts of the daily interest payments. Note as we went from 107 to 108 satoshi on Feb 7th. The best thing - you do not have to do anything at all for this to happen - it is automated.
+The daily interest is slowly increasing your total balance, which in turn increases the amounts of the daily interest payments. Note as we went from 107 to 108 satoshi on Feb 8. The best thing - you do not have to do anything at all for this to happen - it is automated.
 
 A word of caution, however. There are many sites that offer an interest on the BTC, asking you to deposition various amounts. Many, if not most, are very risky or scam sites, and there's no guarantee that you'll ever see your money back after you deposit with such sites. The freebitco.in is the only "compound interest" site we trust.
