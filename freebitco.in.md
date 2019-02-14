@@ -11,11 +11,11 @@ Once you register an account you can choose to secure it with 2FA. If you're not
 <p><img src="/assets/images/freebitco.in-01.png" border="0"></p>
 <p> </p>
 The screenshot shows that the site offers several other services. Here we'd like to cover only the faucet (i.e.<i>FREE BTC</i>) and the <i>EARN BTC</i>.
-<p> </p>
+
 The site down allow you to earn bitcoin via a daily interest amount on the total amount of bitcoin you hold in your account. You start earning the interest when you reach 30,000 satoshi (0.0003 BTC), and we do recommend using this option. Either deposit this amount when you open an account with freebitco.in or claim the hourly faucet and do not withdraw. Here's the actual daily interest earning from our account:
 <p> </p>
-<p><img src="/assets/images/freebitco.in-01.png" border="0"></p>
+<p><img src="/assets/images/freebitco.in-02.png" border="0"></p>
 <p> </p>
 The daily interest is added to your balance slowly increasing both your total balance as well as the amount of your daily interest. You do not have to do anything at all for this to happen.
-<p> </p>
+
 A word of caution. There are many sites that offer an interest of the BTC, asking you to deposition various amounts. Many, if not most of them are very risky, and there's no gaurantee that you will ever see your money back after you deposit. The freebitco.in is the only "compound interest" site we trust.
