@@ -62,3 +62,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 #### Share
 
 Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms!
+---
+#### Special Offers
+
+<iframe data-aa='1121319' src='//ad.a-ads.com/1121319?size=320x50' scrolling='no' style='width:320px; height:50px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
