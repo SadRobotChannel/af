@@ -390,10 +390,10 @@ span.post-name a,span.post-read-more a:hover {
 .beforefooter {
     background: #fff100;
     color: #111;
-    padding: 10px 0;
+    padding: 1px 0;
     max-width: 100%;
     margin: 0px auto;
-    margin-bottom: 10px; margin-top:10px;
+    margin-bottom: 1px; margin-top:1px;
 }
 .footer a {color:inherit;}
 .footer a:hover {color:#fff; text-decoration:none;}
@@ -851,8 +851,8 @@ iframe {
     }
     .sidebar {max-width:100%;}
     .copyright .pull-left, .copyright .pull-right {float:none;}
-    .beforefooter {text-align:center;}
-    .beforefooter .footersocial { text-align: center !important;    margin-top: 1rem; }
+    . {text-align:center;}
+    . .footersocial { text-align: center !important;    margin-top: 1rem; }
     .form-group .col-md-6:first-child {   margin-bottom: 1rem;}
 
 }
