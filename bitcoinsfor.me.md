@@ -6,7 +6,7 @@ comments: true
 
 Out of many faucet sites, <a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">bitcoinsfor.me</a> stands out for its consistency and simplicity.
 
-While you can complete tasks within site’s <i>Offer Walls</i>, the simplest feature of the site is its faucet. When you start a new account and do not yet have any power-ups, you are allowed to claim every 5 minutes for up to 40 times per day. The menu says <i>Faucet Ready!</i> after the 5 minutes pass and you can click the menu to claim your reward.
+While you can complete tasks within site’s <i>Offer Wall</i>, the simplest feature of the site is its faucet. When you start a new account and do not yet have any power-ups, you are allowed to claim every 5 minutes for up to 40 times per day. The menu says <i>Faucet Ready!</i> after the 5 minutes pass and you can click the menu to claim your reward.
 
 Each claim earns you 10 satoshi consistently, thus resulting in a 0.00000400 BTC reward per day. Note, this is exclusively from the faucet claiming and does not include rewards from any other tasks or games that you could complete. Anything you do in addition will increase your payoff even more.
 
