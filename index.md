@@ -58,7 +58,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 <td><a href="/febbit.com">Discussion</a></td></tr>
 
 <tr><td>10. <a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">bonusbitcoin</a></td>
-<td>Claim every 15 minutes, random number up-to 0.00005000 BTC, however a calculated average is 0.00000024 BTC, which is still very good for 15 min interval.</td>
+<td>Claim every 15 minutes, random reward up-to 0.00005000 BTC, actual average is 0.00000024 BTC, which is still very good for 15 min interval.</td>
 <td><a href="/bonusbitcoin.co">Discussion</a></td></tr>
 
 
