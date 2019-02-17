@@ -2,7 +2,7 @@
 layout: page
 title: sato.host
 comments: true
-img: /assets/images/sato-01.png
+img: http://www.all-faucets.com//assets/images/sato-01.png
 alt: The sato.host is a simple and a minimalistic faucet.
 desc: You are not required to register with your email account, but rather you log into the site with your wallet address. Please note that you need to use a bitcoin wallet address that you generate in your faucethub account. When you arrive to the site you'll need to wait 10 seconds for the login button to appear, as shown on screenshot below.
 ---
