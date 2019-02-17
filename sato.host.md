@@ -1,3 +1,5 @@
+<meta name="twitter:card" content="summary_large_image" />
+
 ---
 layout: page
 title: sato.host
