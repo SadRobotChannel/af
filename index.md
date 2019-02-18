@@ -2,9 +2,9 @@
 layout: page
 title: All Faucets
 comments: false
+---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 <link rel="stylesheet" href="assets/css/a2.css">
----
 
 Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in an exchange for completing a captcha or tasks described by the websites. We list the best faucet sites.
 
@@ -88,7 +88,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
-       <td>tbd</td>
+       <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
     </tr>
 
@@ -96,7 +96,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td><a href="http://bit.ly/www-coinfaucet" target="_blank"><img src="/assets/images/coinfaucet.io-thumb.png" alt="coinfaucet.io"/></a></td>
        <td><a href="http://bit.ly/www-coinfaucet" target="_blank">coinfaucet</a></td>
        <td><a href="/coinfaucet.io.html">Discussion</a></td>
-       <td>tbd</td>
+       <td>1.0 XRP</td>
        <td>One claim per hour, around 0.00092500 per claim. Similar interface and functions as freebitco.in.</td>
     </tr>
 
