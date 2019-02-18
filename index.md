@@ -91,21 +91,27 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 
 #### Dogecoin Faucets
 
-<style type="text/css">
-.tftable {font-size:12px;color:#333333; width:100%;border-width: 1px; border-collapse: collapse;}
-.tftable th {font-size:12px; border-width: 1px;padding: 8px;border-style: solid; text-align:left;}
-.tftable td {font-size:12px; border-width: 1px;padding: 8px;border-style: solid;border-color: #fffefc;}
-</style>
+<div class="table-dogecoin">
 
-<table class="tftable" border="1">
+ <table cellspacing="0">
+    <tr>
+       <th>Faucet</th>
+       <th>Name</th>
+       <th>Discussion</th>
+       <th>Withdrawal</th>
+       <th width="230">Value</th>
+    </tr>
 
-<tr><th>Faucet</th><th>Value</th><th>More Info</th></tr>
+    <tr>
+       <td><img src="http://lorempixel.com/100/100/people/1" alt="" /></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="/freedoge.co.in.html">Discussion</a></td>
+       <td>tbd</td>
+       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+    </tr>
 
-<tr><td>1. <a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
-<td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
-<td><a href="/freedoge.co.in.html">Discussion</a></td></tr>
-
-</table>
+ </table>
+</div>
 
 ---
 #### Share
