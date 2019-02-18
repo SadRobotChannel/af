@@ -75,7 +75,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 
  <table cellspacing="0">
     <tr>
-       <th></th>
+       <th>Site</th>
        <th>Faucet Name</th>
        <th>Discussion</th>
        <th>Withdrawal</th>
@@ -91,7 +91,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-coinfaucet" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="coinfaucet.io"/></a></td>
+       <td><a href="http://bit.ly/www-coinfaucet" target="_blank"><img src="/assets/images/coinfaucet.io-thumb.png" alt="coinfaucet.io"/></a></td>
        <td><a href="http://bit.ly/www-coinfaucet" target="_blank">coinfaucet</a></td>
        <td><a href="/coinfaucet.io.html">Discussion</a></td>
        <td>tbd</td>
