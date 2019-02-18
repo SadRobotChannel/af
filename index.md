@@ -71,14 +71,12 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 
 <p> </p>
 
-#### Other Cryptocurrency
-
 <div class="table-users">
- <div class="header">Users</div>
+ <div class="header">Other Cryptocurrency</div>
 
  <table cellspacing="0">
     <tr>
-       <th>Site</th>
+       <th><center>Site</center></th>
        <th>Faucet Name</th>
        <th>Discussion</th>
        <th>Withdrawal</th>
