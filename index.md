@@ -83,7 +83,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 
 <tr><td>1. <a href="http://bit.ly/www-coinfaucet" target="_blank">coinfaucet</a></td>
 <td>One claim per hour, around 0.00092500 per claim. Similar interface and functions as freebitco.in.</td>
-<td><a href="/coinfaucet.io">Discussion</a></td></tr>
+<td><a href="/coinfaucet.io.html">Discussion</a></td></tr>
 
 </table>
 
