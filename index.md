@@ -103,7 +103,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><img src="http://lorempixel.com/100/100/people/1" alt="" /></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>tbd</td>
