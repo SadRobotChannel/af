@@ -61,6 +61,9 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 <td>Claim every 15 minutes, random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for 15 min interval.</td>
 <td><a href="/bonusbitcoin.co.html">Discussion</a></td></tr>
 
+<tr><td>11. <a href="http://bit.ly/www-cointiply" target="_blank">cointiply</a></td>
+<td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
+<td><a href="/cointiply.com.html">Discussion</a></td></tr>
 
 </table>
 ---
