@@ -66,7 +66,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 <td><a href="/cointiply.com.html">Discussion</a></td></tr>
 
 </table>
-
+<p> </p>
 
 #### Dogecoin Faucets
 
