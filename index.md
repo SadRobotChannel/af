@@ -66,6 +66,30 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 <td><a href="/cointiply.com.html">Discussion</a></td></tr>
 
 </table>
+
+
+#### Dogecoin Faucets
+
+<style type="text/css">
+.tftable {font-size:12px;color:#333333; width:100%;border-width: 1px; border-collapse: collapse;}
+.tftable th {font-size:12px; border-width: 1px;padding: 8px;border-style: solid; text-align:left;}
+.tftable td {font-size:12px; border-width: 1px;padding: 8px;border-style: solid;border-color: #fffefc;}
+</style>
+
+<table class="tftable" border="1">
+
+<tr><th>Faucet</th><th>Value</th><th>More Info</th></tr>
+
+<tr><td>1. <a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+<td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+<td><a href="/freedoge.co.in.html">Discussion</a></td></tr>
+
+<tr><td>2. <a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">bitcoinsfor.me</a></td>
+<td>0.00000010 BTC every 5 minutes, up to 40 claims per day. Also, free hourly Slots Roll with a possibility of winning 0.00000500 - 0.00005000 BTC.</td>
+<td><a href="/bitcoinsfor.me.html">Discussion</a></td></tr>
+
+</table>
+
 ---
 #### Share
 
