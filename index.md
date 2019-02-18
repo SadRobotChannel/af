@@ -75,10 +75,10 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 
  <table cellspacing="0">
     <tr>
-       <th>Site</th>
-       <th>Faucet Name</th>
-       <th>Discussion</th>
-       <th>Withdrawal</th>
+       <th width="300">Site</th>
+       <th width="100">Faucet Name</th>
+       <th width="100">Discussion</th>
+       <th width="100">Withdrawal</th>
        <th width="230">Value</th>
     </tr>
 
