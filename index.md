@@ -80,7 +80,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <th>Faucet Name</th>
        <th>Discussion</th>
        <th>Withdrawal</th>
-       <th>Value</th>
+       <th width="230">Value</th>
     </tr>
 
     <tr>
