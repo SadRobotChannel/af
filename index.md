@@ -73,7 +73,8 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 
 #### Other Cryptocurrency
 
-<div class="table-cryptocurrency">
+<div class="table-users">
+ <div class="header">Users</div>
 
  <table cellspacing="0">
     <tr>
