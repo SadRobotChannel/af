@@ -71,23 +71,27 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 
 #### Ripple (XRP) Faucets
 
-<style type="text/css">
-.tftable {font-size:12px;color:#333333; width:100%;border-width: 1px; border-collapse: collapse;}
-.tftable th {font-size:12px; border-width: 1px;padding: 8px;border-style: solid; text-align:left;}
-.tftable td {font-size:12px; border-width: 1px;padding: 8px;border-style: solid;border-color: #fffefc;}
-</style>
+<div class="table-ripple">
 
-<table class="tftable" border="1">
+ <table cellspacing="0">
+    <tr>
+       <th></th>
+       <th>Faucet Name</th>
+       <th>Discussion</th>
+       <th>Withdrawal</th>
+       <th width="230">Value</th>
+    </tr>
 
-<tr><th>Faucet</th><th>Value</th><th>More Info</th></tr>
+    <tr>
+       <td><a href="http://bit.ly/www-coinfaucet" target="_blank"><img src="/assets/images/coinfaucet.io-thumb.png" alt="coinfaucet.io"/></a></td>
+       <td><a href="http://bit.ly/www-coinfaucet" target="_blank">coinfaucet</a></td>
+       <td><a href="/coinfaucet.io.html">Discussion</a></td>
+       <td>tbd</td>
+       <td>One claim per hour, around 0.00092500 per claim. Similar interface and functions as freebitco.in.</td>
+    </tr>
 
-<tr><td>1. <a href="http://bit.ly/www-coinfaucet" target="_blank">coinfaucet</a></td>
-<td>One claim per hour, around 0.00092500 per claim. Similar interface and functions as freebitco.in.</td>
-<td><a href="/coinfaucet.io.html">Discussion</a></td></tr>
-
-</table>
-
-<p> </p>
+ </table>
+</div>
 
 #### Dogecoin Faucets
 
@@ -95,8 +99,8 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 
  <table cellspacing="0">
     <tr>
-       <th>Faucet</th>
-       <th>Name</th>
+       <th></th>
+       <th>Faucet Name</th>
        <th>Discussion</th>
        <th>Withdrawal</th>
        <th width="230">Value</th>
