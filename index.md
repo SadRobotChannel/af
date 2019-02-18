@@ -69,31 +69,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 
 <p> </p>
 
-#### Ripple (XRP) Faucets
-
-<div class="table-ripple">
-
- <table cellspacing="0">
-    <tr>
-       <th></th>
-       <th>Faucet Name</th>
-       <th>Discussion</th>
-       <th>Withdrawal</th>
-       <th width="230">Value</th>
-    </tr>
-
-    <tr>
-       <td><a href="http://bit.ly/www-coinfaucet" target="_blank"><img src="/assets/images/coinfaucet.io-thumb.png" alt="coinfaucet.io"/></a></td>
-       <td><a href="http://bit.ly/www-coinfaucet" target="_blank">coinfaucet</a></td>
-       <td><a href="/coinfaucet.io.html">Discussion</a></td>
-       <td>tbd</td>
-       <td>One claim per hour, around 0.00092500 per claim. Similar interface and functions as freebitco.in.</td>
-    </tr>
-
- </table>
-</div>
-
-#### Dogecoin Faucets
+#### Other Cryptocurrency
 
 <div class="table-dogecoin">
 
@@ -112,6 +88,14 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>tbd</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+    </tr>
+
+    <tr>
+       <td><a href="http://bit.ly/www-coinfaucet" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="coinfaucet.io"/></a></td>
+       <td><a href="http://bit.ly/www-coinfaucet" target="_blank">coinfaucet</a></td>
+       <td><a href="/coinfaucet.io.html">Discussion</a></td>
+       <td>tbd</td>
+       <td>One claim per hour, around 0.00092500 per claim. Similar interface and functions as freebitco.in.</td>
     </tr>
 
  </table>
