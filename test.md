@@ -14,122 +14,217 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 
 <style type="text/css">
 
+$baseColor: #398B93;
+$borderRadius: 10px;
+$imageBig: 100px;
+$imageSmall: 60px;
+$padding: 10px;
+
 body {
-  font-family: 'lato', sans-serif;
-}
-.container {
-  max-width: 1000px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 10px;
-  padding-right: 10px;
+   background-color: lighten($baseColor, 30%);
+   * { box-sizing: border-box; }
 }
 
-h2 {
-  font-size: 26px;
-  margin: 20px 0;
-  text-align: center;
-  small {
-    font-size: 0.5em;
-  }
+.header {
+   background-color: darken($baseColor, 5%);
+   color: white;
+   font-size: 1.5em;
+   padding: 1rem;
+   text-align: center;
+   text-transform: uppercase;
 }
 
-.responsive-table {
-  li {
-    border-radius: 3px;
-    padding: 25px 30px;
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 25px;
-  }
-  .table-header {
-    background-color: #95A5A6;
-    font-size: 14px;
-    text-transform: uppercase;
-    letter-spacing: 0.03em;
-  }
-  .table-row {
-    background-color: #ffffff;
-    box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.1);
-  }
-  .col-1 {
-    flex-basis: 10%;
-  }
-  .col-2 {
-    flex-basis: 40%;
-  }
-  .col-3 {
-    flex-basis: 25%;
-  }
-  .col-4 {
-    flex-basis: 25%;
-  }
+img {
+   border-radius: 50%;
+   height: $imageSmall;
+   width: $imageSmall;
+}
 
-  @media all and (max-width: 767px) {
-    .table-header {
-      display: none;
-    }
-    .table-row{
+.table-users {
+   border: 1px solid darken($baseColor, 5%);
+   border-radius: $borderRadius;
+   box-shadow: 3px 3px 0 rgba(0,0,0,0.1);
+   max-width: calc(100% - 2em);
+   margin: 1em auto;
+   overflow: hidden;
+   width: 800px;
+}
 
-    }
-    li {
-      display: block;
-    }
-    .col {
+table {
+   width: 100%;
 
-      flex-basis: 100%;
+   td, th {
+      color: darken($baseColor, 10%);
+      padding: $padding;
+   }
 
-    }
-    .col {
-      display: flex;
-      padding: 10px 0;
-      &:before {
-        color: #6C7A89;
-        padding-right: 10px;
-        content: attr(data-label);
-        flex-basis: 50%;
-        text-align: right;
+   td {
+      text-align: center;
+      vertical-align: middle;
+
+      &:last-child {
+         font-size: 0.95em;
+         line-height: 1.4;
+         text-align: left;
       }
-    }
-  }
+   }
+
+   th {
+      background-color: lighten($baseColor, 50%);
+      font-weight: 300;
+   }
+
+   tr {     
+      &:nth-child(2n) { background-color: white; }
+      &:nth-child(2n+1) { background-color: lighten($baseColor, 55%) }
+   }
 }
 
+@media screen and (max-width: 700px) {   
+   table, tr, td { display: block; }
+
+   td {
+      &:first-child {
+         position: absolute;
+         top: 50%;
+         transform: translateY(-50%);
+         width: $imageBig;
+      }
+
+      &:not(:first-child) {
+         clear: both;
+         margin-left: $imageBig;
+         padding: 4px 20px 4px 90px;
+         position: relative;
+         text-align: left;
+
+         &:before {
+            color: lighten($baseColor, 30%);
+            content: '';
+            display: block;
+            left: 0;
+            position: absolute;
+         }
+      }
+
+      &:nth-child(2):before { content: 'Name:'; }
+      &:nth-child(3):before { content: 'Email:'; }
+      &:nth-child(4):before { content: 'Phone:'; }
+      &:nth-child(5):before { content: 'Comments:'; }
+   }
+
+   tr {
+      padding: $padding 0;
+      position: relative;
+      &:first-child { display: none; }
+   }
+}
+
+@media screen and (max-width: 500px) {
+   .header {
+      background-color: transparent;
+      color: lighten($baseColor, 60%);
+      font-size: 2em;
+      font-weight: 700;
+      padding: 0;
+      text-shadow: 2px 2px 0 rgba(0,0,0,0.1);
+   }
+
+   img {
+      border: 3px solid;
+      border-color: lighten($baseColor, 50%);
+      height: $imageBig;
+      margin: 0.5rem 0;
+      width: $imageBig;
+   }
+
+   td {
+      &:first-child {
+         background-color: lighten($baseColor, 45%);
+         border-bottom: 1px solid lighten($baseColor, 30%);
+         border-radius: $borderRadius $borderRadius 0 0;
+         position: relative;   
+         top: 0;
+         transform: translateY(0);
+         width: 100%;
+      }
+
+      &:not(:first-child) {
+         margin: 0;
+         padding: 5px 1em;
+         width: 100%;
+
+         &:before {
+            font-size: .8em;
+            padding-top: 0.3em;
+            position: relative;
+         }
+      }
+
+      &:last-child  { padding-bottom: 1rem !important; }
+   }
+
+   tr {
+      background-color: white !important;
+      border: 1px solid lighten($baseColor, 20%);
+      border-radius: $borderRadius;
+      box-shadow: 2px 2px 0 rgba(0,0,0,0.1);
+      margin: 0.5rem 0;
+      padding: 0;
+   }
+
+   .table-users {
+      border: none;
+      box-shadow: none;
+      overflow: visible;
+   }
+}
 </style>
 
-<div class="container">
-  <h2>Responsive Tables Using LI <small>Triggers on 767px</small></h2>
-  <ul class="responsive-table">
-    <li class="table-header">
-      <div class="col col-1">Job Id</div>
-      <div class="col col-2">Customer Name</div>
-      <div class="col col-3">Amount Due</div>
-      <div class="col col-4">Payment Status</div>
-    </li>
-    <li class="table-row">
-      <div class="col col-1" data-label="Job Id">42235</div>
-      <div class="col col-2" data-label="Customer Name">John Doe</div>
-      <div class="col col-3" data-label="Amount">$350</div>
-      <div class="col col-4" data-label="Payment Status">Pending</div>
-    </li>
-    <li class="table-row">
-      <div class="col col-1" data-label="Job Id">42442</div>
-      <div class="col col-2" data-label="Customer Name">Jennifer Smith</div>
-      <div class="col col-3" data-label="Amount">$220</div>
-      <div class="col col-4" data-label="Payment Status">Pending</div>
-    </li>
-    <li class="table-row">
-      <div class="col col-1" data-label="Job Id">42257</div>
-      <div class="col col-2" data-label="Customer Name">John Smith</div>
-      <div class="col col-3" data-label="Amount">$341</div>
-      <div class="col col-4" data-label="Payment Status">Pending</div>
-    </li>
-    <li class="table-row">
-      <div class="col col-1" data-label="Job Id">42311</div>
-      <div class="col col-2" data-label="Customer Name">John Carpenter</div>
-      <div class="col col-3" data-label="Amount">$115</div>
-      <div class="col col-4" data-label="Payment Status">Pending</div>
-    </li>
-  </ul>
+<div class="table-users">
+   <div class="header">Users</div>
+
+   <table cellspacing="0">
+      <tr>
+         <th>Picture</th>
+         <th>Name</th>
+         <th>Email</th>
+         <th>Phone</th>
+         <th width="230">Comments</th>
+      </tr>
+
+      <tr>
+         <td><img src="http://lorempixel.com/100/100/people/1" alt="" /></td>
+         <td>Jane Doe</td>
+         <td>jane.doe@foo.com</td>
+         <td>01 800 2000</td>
+         <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </td>
+      </tr>
+
+      <tr>
+         <td><img src="http://lorempixel.com/100/100/sports/2" alt="" /></td>
+         <td>John Doe</td>
+         <td>john.doe@foo.com</td>
+         <td>01 800 2000</td>
+         <td>Blanditiis, aliquid numquam iure voluptatibus ut maiores explicabo ducimus neque, nesciunt rerum perferendis, inventore.</td>
+      </tr>
+
+      <tr>
+         <td><img src="http://lorempixel.com/100/100/people/9" alt="" /></td>
+         <td>Jane Smith</td>
+         <td>jane.smith@foo.com</td>
+         <td>01 800 2000</td>
+         <td> Culpa praesentium unde pariatur fugit eos recusandae voluptas.</td>
+      </tr>
+
+      <tr>
+         <td><img src="http://lorempixel.com/100/100/people/3" alt="" /></td>
+         <td>John Smith</td>
+         <td>john.smith@foo.com</td>
+         <td>01 800 2000</td>
+         <td>Aut voluptatum accusantium, eveniet, sapiente quaerat adipisci consequatur maxime temporibus quas, dolorem impedit.</td>
+      </tr>
+   </table>
 </div>
 
 ---
