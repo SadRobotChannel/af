@@ -55,15 +55,15 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td><a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a></td>
        <td><a href="/bitnyx.com.html">Discussion</a></td>
        <td>0.00025000 BTC</td>
-       <td>Up to 0.00000030 BTC every 30 minutes, randomized. Very clean, no pop-ups, etc; Possibility to win 0.00100000 BTC weekly</td>
+       <td>Up to 0.00000030 BTC every 30 minutes, randomized; Possibility to win 0.00100000 BTC weekly</td>
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-faucethub" target="_blank"><img src="/assets/images/bg_logo.png" alt="FaucetHub"/></a></td>
+       <td><a href="http://bit.ly/www-faucethub" target="_blank"><img src="/assets/images/faucethub.io-thumb.png" alt="FaucetHub"/></a></td>
        <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a></td>
        <td><a href="/faucethub.io.html">Discussion</a></td>
        <td>0.00020000 BTC</td>
-       <td>Faucethub is a gateway to many other faucet systems. Registering digital wallets on Faucethub is a prerequisite for many faucets sites.</td>
+       <td>Gateway to other faucets. Registering digital wallets on Faucethub is a prerequisite for many faucets sites.</td>
     </tr>
 
     <tr>
