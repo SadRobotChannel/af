@@ -43,7 +43,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank"><img src="/assets/images/bg_logo.png" alt="TrustBTCFaucet"/></a></td>
+       <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank"><img src="/assets/images/trustbtcfaucet.com-thumb.png" alt="TrustBTCFaucet"/></a></td>
        <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a></td>
        <td><a href="/trustbtcfaucet.com.html">Discussion</a></td>
        <td>0.00015000 BTC</td>
