@@ -24,9 +24,6 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 
 <tr><th>Faucet</th><th>Value</th><th>More Info</th></tr>
 
-<tr><td></td>
-<td>0.00000010 BTC every 5 minutes, up to 40 claims per day. Also, free hourly Slots Roll with a possibility of winning 0.00000500 - 0.00005000 BTC.</td>
-<td><a href="">Discussion</a></td></tr>
 
 <tr><td></td>
 <td>Anywhere from 0.00000003 to 0.0000088 BTC every 5 minutes, randomly. Loyalty Bonus. Compound daily interest.</td>
@@ -92,8 +89,8 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank"><img src="/assets/images/bg_logo.png" alt="BitcoinsFor.me"/></a></td>
        <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">BitcoinsFor.me</a></td>
        <td><a href="/bitcoinsfor.me.html">Discussion</a></td>
-       <td>1.0 XRP</td>
-       <td>One claim per hour, around 0.00092500 per claim. Similar interface and functions as freebitco.in.</td>
+       <td>0.00000500 BTC</td>
+       <td>0.00000010 BTC every 5 minutes, up to 40 claims per day; Free hourly Slots Roll with a possibility of winning 0.00000500 - 0.00005000 BTC</td>
     </tr>
 
     <tr>
