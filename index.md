@@ -39,7 +39,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">BitcoinsFor.me</a></td>
        <td><a href="/bitcoinsfor.me.html">Discussion</a></td>
        <td>0.00000500 BTC</td>
-       <td>0.00000010 BTC every 5 minutes, up to 40 claims per day; Free hourly Slots Roll with a possibility of winning 0.00000500 - 0.00005000 BTC</td>
+       <td>0.00000010 BTC every 5 minutes; Free hourly Slots Roll; Offer Wall, etc</td>
     </tr>
 
     <tr>
