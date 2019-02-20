@@ -117,7 +117,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a><img src="/assets/images/bg_logo.png" alt="FaucetHub"/></a></td>
+       <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub<img src="/assets/images/bg_logo.png" alt="FaucetHub"/></a></td>
        <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a></td>
        <td><a href="/faucethub.io.html">Discussion</a></td>
        <td>50 DOGE</td>
