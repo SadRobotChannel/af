@@ -12,62 +12,118 @@ Cryptocurrency faucets are reward systems in a form of a website or an app that 
 
 This is an unfinished project. There are over 500 cryptocurrency faucets on the Internet today. Our list is growing as we add only the faucets that are verified for their value and reputation.
 
-#### Bitcoin Faucets
+#### Verified Faucet Sites
 
-<style type="text/css">
-.tftable {font-size:12px;color:#333333; width:100%;border-width: 1px; border-collapse: collapse;}
-.tftable th {font-size:12px; border-width: 1px;padding: 8px;border-style: solid; text-align:left;}
-.tftable td {font-size:12px; border-width: 1px;padding: 8px;border-style: solid;border-color: #fffefc;}
-</style>
+<div class="table-users">
+ <div class="header">Bitcoin Faucets</div>
 
-<table class="tftable" border="1">
+ <table cellspacing="0">
+    <tr>
+       <th><center>Site</center></th>
+       <th><center>Faucet Name</center></th>
+       <th><center>Info</center></th>
+       <th><center>Withdrawal</center></th>
+       <th width="230"><center>Value</center></th>
+    </tr>
 
-<tr><th>Faucet</th><th>Value</th><th>More Info</th></tr>
+    <tr>
+       <td><a href="http://bit.ly/www-freebitcoin" target="_blank"><img src="/assets/images/freebitco.in-thumb.png" alt="FreeBitco.in"/></a></td>
+       <td><a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a></td>
+       <td><a href="/freebitco.in.html">Discussion</a></td>
+       <td>0.00003000 BTC</td>
+       <td>0.00000040 BTC per hour, with a possibility to roll more; Lottery</td>
+    </tr>
 
-<tr><td>1. <a href="http://bit.ly/www-freebitcoin" target="_blank">freebitco.in</a></td>
-<td>Around 0.00000040 BTC per hour, with a possibility to roll more; Lottery.</td>
-<td><a href="/freebitco.in.html">Discussion</a></td></tr>
+    <tr>
+       <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank"><img src="/assets/images/bg_logo.png" alt="BitcoinsFor.me"/></a></td>
+       <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">BitcoinsFor.me</a></td>
+       <td><a href="/bitcoinsfor.me.html">Discussion</a></td>
+       <td>0.00000500 BTC</td>
+       <td>0.00000010 BTC every 5 minutes, up to 40 claims per day; Free hourly Slots Roll with a possibility of winning 0.00000500 - 0.00005000 BTC</td>
+    </tr>
 
-<tr><td>2. <a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">bitcoinsfor.me</a></td>
-<td>0.00000010 BTC every 5 minutes, up to 40 claims per day. Also, free hourly Slots Roll with a possibility of winning 0.00000500 - 0.00005000 BTC.</td>
-<td><a href="/bitcoinsfor.me.html">Discussion</a></td></tr>
+    <tr>
+       <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank"><img src="/assets/images/bg_logo.png" alt="TrustBTCFaucet"/></a></td>
+       <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a></td>
+       <td><a href="/trustbtcfaucet.com.html">Discussion</a></td>
+       <td>0.00015000 BTC</td>
+       <td>From 0.00000003 to 0.00000888 BTC every 5 minutes, random; Loyalty Bonus; Compound daily interest</td>
+    </tr>
 
-<tr><td>3. <a href="http://bit.ly/www-trustbtcfaucet" target="_blank">trustbtcfaucet</a></td><td>Anywhere from 0.00000003 to 0.0000088 BTC every 5 minutes, randomly. Loyalty Bonus. Compound daily interest.</td>
-<td><a href="/trustbtcfaucet.com.html">Discussion</a></td></tr>
+    <tr>
+       <td><a href="http://bit.ly/www-bitnyx" target="_blank"><img src="/assets/images/bg_logo.png" alt="Bitnyx"/></a></td>
+       <td><a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a></td>
+       <td><a href="/bitnyx.com.html">Discussion</a></td>
+       <td>0.00025000 BTC</td>
+       <td>Up to 0.00000030 BTC every 30 minutes, randomized. Very clean site, no pop-ups, etc; Possibility to win 0.00100000 BTC weekly</td>
+    </tr>
 
-<tr><td>4. <a href="http://bit.ly/www-bitnyx" target="_blank">bitnyx</a></td>
-<td>Up to 0.00000030 BTC every 30 minutes, randomized. Very clean site, no pop-ups, etc. Also, possibility to win 0.00100000 BTC weekly.</td>
-<td><a href="/bitnyx.com.html">Discussion</a></td></tr>
+    <tr>
+       <td><a href="http://bit.ly/www-faucethub" target="_blank"><img src="/assets/images/bg_logo.png" alt="FaucetHub"/></a></td>
+       <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a></td>
+       <td><a href="/faucethub.io.html">Discussion</a></td>
+       <td>0.00020000 BTC</td>
+       <td>Faucethub is a gateway to many other faucet systems. Registering digital wallets on Faucethub is a prerequisite for many faucets sites.</td>
+    </tr>
 
-<tr><td>5. <a href="http://bit.ly/www-faucethub" target="_blank">faucethub</a></td>
-<td>Faucethub is a gateway to many other faucet systems. Registering digital wallets on faucethub is a prerequisite for several faucets sites mentioned here.</td>
-<td><a href="/faucethub.io.html">Discussion</a></td></tr>
+    <tr>
+       <td><a href="http://bit.ly/sato-host" target="_blank"><img src="/assets/images/bg_logo.png" alt="Sato"/></a></td>
+       <td><a href="http://bit.ly/sato-host" target="_blank">Sato</a></td>
+       <td><a href="/sato.host.html">Discussion</a></td>
+       <td>no min</td>
+       <td>Facet amount changes weekly, circa 0.00000200 BTC; Read more on <a href="/sato.host.html">discussion</a> page</td>
+    </tr>
 
-<tr><td>6. <a href="http://bit.ly/sato-host" target="_blank">sato</a></td>
-<td>Wait 10 second for Log-In button to appear. Requires a faucethub Bitcoin wallet address. Facet amount changes weekly. Clean and minimalistic.</td>
-<td><a href="/sato.host.html">Discussion</a></td></tr>
+    <tr>
+       <td><a href="http://bit.ly/www-eobot" target="_blank"><img src="/assets/images/bg_logo.png" alt="eobot"/></a></td>
+       <td><a href="http://bit.ly/www-eobot" target="_blank">eobot</a></td>
+       <td><a href="/eobot.com.html">Discussion</a></td>
+       <td>0.00200000 BTC</td>
+       <td>Claim once per day circa 0.00000140 BTC; Primarily is an exchange and mining site</td>
+    </tr>
 
-<tr><td>7. <a href="http://bit.ly/www-eobot" target="_blank">eobot</a></td>
-<td>Primarily an exchange and mining site, however has a bitcoin faucet. Claim once per day circa 0.00000140 BTC.</td>
-<td><a href="/eobot.com.html">Discussion</a></td></tr>
+    <tr>
+       <td><a href="http://bit.ly/www-mellowads" target="_blank"><img src="/assets/images/bg_logo.png" alt="MellowAds"/></a></td>
+       <td><a href="http://bit.ly/www-mellowads" target="_blank">MellowAds</a></td>
+       <td><a href="/mellowads.com.html">Discussion</a></td>
+       <td>n/a</td>
+       <td>Claim once per day 0.00000500-0.00003000 BTC; Is an advertising platform (buy and sell ads), but gives you a free faucet; Use funds for ads</td>
+    </tr>
 
-<tr><td>8. <a href="http://bit.ly/www-mellowads" target="_blank">mellowads</a></td>
-<td>Primarily an advertising platform (buy and sell ads), but gives you a free faucet. Claim once per day 0.00000500 BTC. Use funds for ads.</td>
-<td><a href="/mellowads.com.html">Discussion</a></td></tr>
+    <tr>
+       <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/bg_logo.png" alt="Febbit"/></a></td>
+       <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a></td>
+       <td><a href="/febbit.com.html">Discussion</a></td>
+       <td>0.00001000 BTC</td>
+       <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. You generate about 00000100 BTC per hour once you level.</td>
+    </tr>
 
-<tr><td>9. <a href="http://bit.ly/www-febbit" target="_blank">febbit</a></td>
-<td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. You generate about 00000100 BTC per hour once you level.</td>
-<td><a href="/febbit.com.html">Discussion</a></td></tr>
+    <tr>
+       <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank"><img src="/assets/images/bg_logo.png" alt="BonusBitcoin"/></a></td>
+       <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">BonusBitcoin</a></td>
+       <td><a href="/bonusbitcoin.co.html">Discussion</a></td>
+       <td></td>
+       <td>Claim every 15 minutes, random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for 15 min interval.</td>
+    </tr>
 
-<tr><td>10. <a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">bonusbitcoin</a></td>
-<td>Claim every 15 minutes, random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for 15 min interval.</td>
-<td><a href="/bonusbitcoin.co.html">Discussion</a></td></tr>
+    <tr>
+       <td><a href="http://bit.ly/www-cointiply" target="_blank"><img src="/assets/images/bg_logo.png" alt="Cointiply"/></a></td>
+       <td><a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a></td>
+       <td><a href="/cointiply.com.html">Discussion</a></td>
+       <td>0.00100000 BTC</td>
+       <td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
+    </tr>
 
-<tr><td>11. <a href="http://bit.ly/www-cointiply" target="_blank">cointiply</a></td>
-<td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
-<td><a href="/cointiply.com.html">Discussion</a></td></tr>
+    <tr>
+       <td><a href="http://bit.ly/www-allcoins" target="_blank"><img src="/assets/images/bg_logo.png" alt="Allcoins"/></a></td>
+       <td><a href="http://bit.ly/www-allcoins" target="_blank">Allcoins</a></td>
+       <td><a href="">Discussion</a></td>
+       <td></td>
+       <td></td>
+    </tr>
 
-</table>
+ </table>
+</div>
 
 <p> </p>
 
