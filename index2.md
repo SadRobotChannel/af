@@ -26,7 +26,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 
 
 <tr><td></td>
-<td>Anywhere from 0.00000003 to 0.0000088 BTC every 5 minutes, randomly. Loyalty Bonus. Compound daily interest.</td>
+<td></td>
 <td><a href="">Discussion</a></td></tr>
 
 <tr><td></td>
@@ -34,7 +34,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 <td><a href="">Discussion</a></td></tr>
 
 <tr><td></td>
-<td>Faucethub is a gateway to many other faucet systems. Registering digital wallets on faucethub is a prerequisite for several faucets sites mentioned here.</td>
+<td></td>
 <td><a href="">Discussion</a></td></tr>
 
 <tr><td></td>
@@ -97,8 +97,8 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank"><img src="/assets/images/bg_logo.png" alt="TrustBTCFaucet"/></a></td>
        <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a></td>
        <td><a href="/trustbtcfaucet.com.html">Discussion</a></td>
-       <td>50 DOGE</td>
-       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+       <td>0.00015000 BTC</td>
+       <td>Anywhere from 0.00000003 to 0.00000888 BTC every 5 minutes, randomly; Loyalty Bonus; Compound daily interest</td>
     </tr>
 
     <tr>
@@ -113,8 +113,8 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td><a href="http://bit.ly/www-faucethub" target="_blank"><img src="/assets/images/bg_logo.png" alt="FaucetHub"/></a></td>
        <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a></td>
        <td><a href="/faucethub.io.html">Discussion</a></td>
-       <td>50 DOGE</td>
-       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+       <td>0.00020000 BTC</td>
+       <td>Faucethub is a gateway to many other faucet systems. Registering digital wallets on Faucethub is a prerequisite for many faucets sites.</td>
     </tr>
 
     <tr>
@@ -163,6 +163,14 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td><a href="/cointiply.com.html">Discussion</a></td>
        <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+    </tr>
+
+    <tr>
+       <td><a href="http://bit.ly/www-allcoins" target="_blank"><img src="/assets/images/bg_logo.png" alt="Allcoins"/></a></td>
+       <td><a href="http://bit.ly/www-allcoins" target="_blank">Allcoins</a></td>
+       <td><a href="">Discussion</a></td>
+       <td></td>
+       <td></td>
     </tr>
 
  </table>
