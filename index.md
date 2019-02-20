@@ -35,7 +35,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank"><img src="/assets/images/bg_logo.png" alt="BitcoinsFor.me"/></a></td>
+       <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank"><img src="/assets/images/bitcoinsfor.me-thumb.png" alt="BitcoinsFor.me"/></a></td>
        <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">BitcoinsFor.me</a></td>
        <td><a href="/bitcoinsfor.me.html">Discussion</a></td>
        <td>0.00000500 BTC</td>
@@ -140,16 +140,16 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="FreeDoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">FreeDoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-coinfaucet" target="_blank"><img src="/assets/images/coinfaucet.io-thumb.png" alt="coinfaucet.io"/></a></td>
-       <td><a href="http://bit.ly/www-coinfaucet" target="_blank">coinfaucet</a></td>
+       <td><a href="http://bit.ly/www-coinfaucet" target="_blank"><img src="/assets/images/coinfaucet.io-thumb.png" alt="CoinFaucet.io"/></a></td>
+       <td><a href="http://bit.ly/www-coinfaucet" target="_blank">CoinFaucet</a></td>
        <td><a href="/coinfaucet.io.html">Discussion</a></td>
        <td>1.0 XRP</td>
        <td>One claim per hour, around 0.00092500 per claim. Similar interface and functions as freebitco.in.</td>
