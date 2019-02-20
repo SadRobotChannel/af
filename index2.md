@@ -110,7 +110,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td><a href="http://bit.ly/www-cointiply" target="_blank"><img src="/assets/images/bg_logo.png" alt="Cointiply"/></a></td>
        <td><a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a></td>
        <td><a href="/cointiply.com.html">Discussion</a></td>
-       <td>50 DOGE</td>
+       <td>0.00100000 BTC</td>
        <td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
     </tr>
 
