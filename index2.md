@@ -24,7 +24,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 
 <tr><th>Faucet</th><th>Value</th><th>More Info</th></tr>
 
-<tr><td>1. <a href="http://bit.ly/www-freebitcoin" target="_blank">freebitco.in</a></td>
+<tr><td></td>
 <td>Around 0.00000040 BTC per hour, with a possibility to roll more; Lottery.</td>
 <td><a href="/freebitco.in.html">Discussion</a></td></tr>
 
@@ -84,15 +84,15 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="http://bit.ly/www-freebitcoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freebitco.in"/></a></td>
+       <td>1. <a href="http://bit.ly/www-freebitcoin" target="_blank">freebitco.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-coinfaucet" target="_blank"><img src="/assets/images/coinfaucet.io-thumb.png" alt="coinfaucet.io"/></a></td>
+       <td><a href="http://bit.ly/www-coinfaucet" target="_blank"><img src="/assets/images/bg_logo.png" alt="coinfaucet.io"/></a></td>
        <td><a href="http://bit.ly/www-coinfaucet" target="_blank">coinfaucet</a></td>
        <td><a href="/coinfaucet.io.html">Discussion</a></td>
        <td>1.0 XRP</td>
@@ -100,7 +100,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
@@ -108,7 +108,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
@@ -116,7 +116,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
@@ -124,7 +124,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
@@ -132,7 +132,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
@@ -140,7 +140,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
@@ -148,7 +148,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
@@ -156,7 +156,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
