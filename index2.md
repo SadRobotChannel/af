@@ -158,7 +158,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 
     <tr>
        <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank"><img src="/assets/images/bg_logo.png" alt="BonusBitcoin"/></a></td>
-       <td>1<a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">BonusBitcoin</a></td>
+       <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">BonusBitcoin</a></td>
        <td><a href="/bonusbitcoin.co.html">Discussion</a></td>
        <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
