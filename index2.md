@@ -28,14 +28,15 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 <td>Around 0.00000040 BTC per hour, with a possibility to roll more; Lottery.</td>
 <td><a href="/freebitco.in.html">Discussion</a></td></tr>
 
-<tr><td>2. <a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">bitcoinsfor.me</a></td>
+<tr><td></td>
 <td>0.00000010 BTC every 5 minutes, up to 40 claims per day. Also, free hourly Slots Roll with a possibility of winning 0.00000500 - 0.00005000 BTC.</td>
 <td><a href="/bitcoinsfor.me.html">Discussion</a></td></tr>
 
-<tr><td>3. <a href="http://bit.ly/www-trustbtcfaucet" target="_blank">trustbtcfaucet</a></td><td>Anywhere from 0.00000003 to 0.0000088 BTC every 5 minutes, randomly. Loyalty Bonus. Compound daily interest.</td>
+<tr><td></td>
+<td>Anywhere from 0.00000003 to 0.0000088 BTC every 5 minutes, randomly. Loyalty Bonus. Compound daily interest.</td>
 <td><a href="/trustbtcfaucet.com.html">Discussion</a></td></tr>
 
-<tr><td>4. <a href="http://bit.ly/www-bitnyx" target="_blank">bitnyx</a></td>
+<tr><td></td>
 <td>Up to 0.00000030 BTC every 30 minutes, randomized. Very clean site, no pop-ups, etc. Also, possibility to win 0.00100000 BTC weekly.</td>
 <td><a href="/bitnyx.com.html">Discussion</a></td></tr>
 
@@ -92,24 +93,24 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-coinfaucet" target="_blank"><img src="/assets/images/bg_logo.png" alt="coinfaucet.io"/></a></td>
-       <td><a href="http://bit.ly/www-coinfaucet" target="_blank">coinfaucet</a></td>
+       <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank"><img src="/assets/images/bg_logo.png" alt="bitcoinsfor.me"/></a></td>
+       <td>2. <a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">bitcoinsfor.me</a></td>
        <td><a href="/coinfaucet.io.html">Discussion</a></td>
        <td>1.0 XRP</td>
        <td>One claim per hour, around 0.00092500 per claim. Similar interface and functions as freebitco.in.</td>
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank"><img src="/assets/images/bg_logo.png" alt="TrustBTCFaucet"/></a></td>
+       <td>3. <a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="http://bit.ly/www-bitnyx" target="_blank"><img src="/assets/images/bg_logo.png" alt="bitnyx"/></a></td>
+       <td>4. <a href="http://bit.ly/www-bitnyx" target="_blank">bitnyx</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
