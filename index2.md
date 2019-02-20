@@ -40,31 +40,31 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 <td>Up to 0.00000030 BTC every 30 minutes, randomized. Very clean site, no pop-ups, etc. Also, possibility to win 0.00100000 BTC weekly.</td>
 <td><a href="/bitnyx.com.html">Discussion</a></td></tr>
 
-<tr><td>5. <a href="http://bit.ly/www-faucethub" target="_blank">faucethub</a></td>
+<tr><td></td>
 <td>Faucethub is a gateway to many other faucet systems. Registering digital wallets on faucethub is a prerequisite for several faucets sites mentioned here.</td>
 <td><a href="/faucethub.io.html">Discussion</a></td></tr>
 
-<tr><td>6. <a href="http://bit.ly/sato-host" target="_blank">sato</a></td>
+<tr><td></td>
 <td>Wait 10 second for Log-In button to appear. Requires a faucethub Bitcoin wallet address. Facet amount changes weekly. Clean and minimalistic.</td>
 <td><a href="/sato.host.html">Discussion</a></td></tr>
 
-<tr><td>7. <a href="http://bit.ly/www-eobot" target="_blank">eobot</a></td>
+<tr><td></td>
 <td>Primarily an exchange and mining site, however has a bitcoin faucet. Claim once per day circa 0.00000140 BTC.</td>
 <td><a href="/eobot.com.html">Discussion</a></td></tr>
 
-<tr><td>8. <a href="http://bit.ly/www-mellowads" target="_blank">mellowads</a></td>
+<tr><td></td>
 <td>Primarily an advertising platform (buy and sell ads), but gives you a free faucet. Claim once per day 0.00000500 BTC. Use funds for ads.</td>
 <td><a href="/mellowads.com.html">Discussion</a></td></tr>
 
-<tr><td>9. <a href="http://bit.ly/www-febbit" target="_blank">febbit</a></td>
+<tr><td></td>
 <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. You generate about 00000100 BTC per hour once you level.</td>
 <td><a href="/febbit.com.html">Discussion</a></td></tr>
 
-<tr><td>10. <a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">bonusbitcoin</a></td>
+<tr><td></td>
 <td>Claim every 15 minutes, random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for 15 min interval.</td>
 <td><a href="/bonusbitcoin.co.html">Discussion</a></td></tr>
 
-<tr><td>11. <a href="http://bit.ly/www-cointiply" target="_blank">cointiply</a></td>
+<tr><td></td>
 <td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
 <td><a href="/cointiply.com.html">Discussion</a></td></tr>
 
@@ -85,16 +85,16 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freebitcoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freebitco.in"/></a></td>
-       <td>1. <a href="http://bit.ly/www-freebitcoin" target="_blank">freebitco.in</a></td>
+       <td><a href="http://bit.ly/www-freebitcoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="FreeBitco.in"/></a></td>
+       <td>1. <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank"><img src="/assets/images/bg_logo.png" alt="bitcoinsfor.me"/></a></td>
-       <td>2. <a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">bitcoinsfor.me</a></td>
+       <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank"><img src="/assets/images/bg_logo.png" alt="BitcoinsFor.me"/></a></td>
+       <td>2. <a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">BitcoinsFor.me</a></td>
        <td><a href="/coinfaucet.io.html">Discussion</a></td>
        <td>1.0 XRP</td>
        <td>One claim per hour, around 0.00092500 per claim. Similar interface and functions as freebitco.in.</td>
@@ -109,56 +109,64 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-bitnyx" target="_blank"><img src="/assets/images/bg_logo.png" alt="bitnyx"/></a></td>
-       <td>4. <a href="http://bit.ly/www-bitnyx" target="_blank">bitnyx</a></td>
+       <td><a href="http://bit.ly/www-bitnyx" target="_blank"><img src="/assets/images/bg_logo.png" alt="Bitnyx"/></a></td>
+       <td>4. <a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a><img src="/assets/images/bg_logo.png" alt="FaucetHub"/></a></td>
+       <td>5. <a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="http://bit.ly/sato-host" target="_blank"><img src="/assets/images/bg_logo.png" alt="Sato"/></a></td>
+       <td>6. <a href="http://bit.ly/sato-host" target="_blank">Sato</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="http://bit.ly/www-eobot" target="_blank"><img src="/assets/images/bg_logo.png" alt="eobot"/></a></td>
+       <td>7. <a href="http://bit.ly/www-eobot" target="_blank">eobot</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="http://bit.ly/www-mellowads" target="_blank"><img src="/assets/images/bg_logo.png" alt="MellowAds"/></a></td>
+       <td>8. <a href="http://bit.ly/www-mellowads" target="_blank">MellowAds</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a><img src="/assets/images/bg_logo.png" alt="Febbit"/></a></td>
+       <td>9. <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/bg_logo.png" alt="freedoge.co.in"/></a></td>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank"><img src="/assets/images/bg_logo.png" alt="BonusBitcoin"/></a></td>
+       <td>10. <a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">BonusBitcoin</a></td>
+       <td><a href="/freedoge.co.in.html">Discussion</a></td>
+       <td>50 DOGE</td>
+       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+    </tr>
+
+    <tr>
+       <td><a href="http://bit.ly/www-cointiply" target="_blank"><img src="/assets/images/bg_logo.png" alt="Cointiply"/></a></td>
+       <td>11. <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
