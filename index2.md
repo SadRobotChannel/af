@@ -14,35 +14,6 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 
 #### Verified Faucet Sites
 
-<style type="text/css">
-.tftable {font-size:12px;color:#333333; width:100%;border-width: 1px; border-collapse: collapse;}
-.tftable th {font-size:12px; border-width: 1px;padding: 8px;border-style: solid; text-align:left;}
-.tftable td {font-size:12px; border-width: 1px;padding: 8px;border-style: solid;border-color: #fffefc;}
-</style>
-
-<table class="tftable" border="1">
-
-<tr><th>Faucet</th><th>Value</th><th>More Info</th></tr>
-
-
-
-
-<tr><td></td>
-<td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. You generate about 00000100 BTC per hour once you level.</td>
-<td><a href="">Discussion</a></td></tr>
-
-<tr><td></td>
-<td>Claim every 15 minutes, random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for 15 min interval.</td>
-<td><a href="">Discussion</a></td></tr>
-
-<tr><td></td>
-<td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
-<td><a href="">Discussion</a></td></tr>
-
-</table>
-
-<p> </p>
-
 <div class="table-users">
  <div class="header">Bitcoin Faucets</div>
 
@@ -83,7 +54,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td><a href="http://bit.ly/www-bitnyx" target="_blank"><img src="/assets/images/bg_logo.png" alt="Bitnyx"/></a></td>
        <td><a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a></td>
        <td><a href="/bitnyx.com.html">Discussion</a></td>
-       <td>0.00025000 BTC/td>
+       <td>0.00025000 BTC</td>
        <td>Up to 0.00000030 BTC every 30 minutes, randomized. Very clean site, no pop-ups, etc; Possibility to win 0.00100000 BTC weekly</td>
     </tr>
 
@@ -123,16 +94,16 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/bg_logo.png" alt="Febbit"/></a></td>
        <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a></td>
        <td><a href="/febbit.com.html">Discussion</a></td>
-       <td>50 DOGE</td>
-       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+       <td>0.00001000 BTC</td>
+       <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. You generate about 00000100 BTC per hour once you level.</td>
     </tr>
 
     <tr>
        <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank"><img src="/assets/images/bg_logo.png" alt="BonusBitcoin"/></a></td>
        <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">BonusBitcoin</a></td>
        <td><a href="/bonusbitcoin.co.html">Discussion</a></td>
-       <td>50 DOGE</td>
-       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+       <td></td>
+       <td>Claim every 15 minutes, random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for 15 min interval.</td>
     </tr>
 
     <tr>
@@ -140,7 +111,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td><a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a></td>
        <td><a href="/cointiply.com.html">Discussion</a></td>
        <td>50 DOGE</td>
-       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+       <td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
     </tr>
 
     <tr>
