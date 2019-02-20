@@ -99,6 +99,70 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td>One claim per hour, around 0.00092500 per claim. Similar interface and functions as freebitco.in.</td>
     </tr>
 
+    <tr>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="/freedoge.co.in.html">Discussion</a></td>
+       <td>50 DOGE</td>
+       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+    </tr>
+
+    <tr>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="/freedoge.co.in.html">Discussion</a></td>
+       <td>50 DOGE</td>
+       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+    </tr>
+
+    <tr>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="/freedoge.co.in.html">Discussion</a></td>
+       <td>50 DOGE</td>
+       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+    </tr>
+
+    <tr>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="/freedoge.co.in.html">Discussion</a></td>
+       <td>50 DOGE</td>
+       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+    </tr>
+
+    <tr>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="/freedoge.co.in.html">Discussion</a></td>
+       <td>50 DOGE</td>
+       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+    </tr>
+
+    <tr>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="/freedoge.co.in.html">Discussion</a></td>
+       <td>50 DOGE</td>
+       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+    </tr>
+
+    <tr>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="/freedoge.co.in.html">Discussion</a></td>
+       <td>50 DOGE</td>
+       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+    </tr>
+
+    <tr>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="freedoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">freedoge.co.in</a></td>
+       <td><a href="/freedoge.co.in.html">Discussion</a></td>
+       <td>50 DOGE</td>
+       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+    </tr>
+
  </table>
 </div>
 
