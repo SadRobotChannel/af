@@ -67,7 +67,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/sato-host" target="_blank"><img src="/assets/images/bg_logo.png" alt="Sato"/></a></td>
+       <td><a href="http://bit.ly/sato-host" target="_blank"><img src="/assets/images/sato.host-thumb.png" alt="Sato"/></a></td>
        <td><a href="http://bit.ly/sato-host" target="_blank">Sato</a></td>
        <td><a href="/sato.host.html">Discussion</a></td>
        <td>no min</td>
