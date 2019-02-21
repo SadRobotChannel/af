@@ -99,11 +99,11 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank"><img src="/assets/images/bg_logo.png" alt="BonusBitcoin"/></a></td>
+       <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank"><img src="/assets/images/bonusbitcoin.co-thumb.png" alt="BonusBitcoin"/></a></td>
        <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">BonusBitcoin</a></td>
        <td><a href="/bonusbitcoin.co.html">Discussion</a></td>
        <td></td>
-       <td>Claim every 15 minutes, random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for 15 min interval.</td>
+       <td>Claim every 15 minutes, random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for a 15 min interval.</td>
     </tr>
 
     <tr>
