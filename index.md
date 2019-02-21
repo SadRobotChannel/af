@@ -91,7 +91,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/bg_logo.png" alt="Febbit"/></a></td>
+       <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/febbit.com-thumb.png" alt="Febbit"/></a></td>
        <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a></td>
        <td><a href="/febbit.com.html">Discussion</a></td>
        <td>0.00001000 BTC</td>
