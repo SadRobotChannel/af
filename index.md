@@ -75,7 +75,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-eobot" target="_blank"><img src="/assets/images/bg_logo.png" alt="eobot"/></a></td>
+       <td><a href="http://bit.ly/www-eobot" target="_blank"><img src="/assets/images/eobot.com-thumb.png" alt="eobot"/></a></td>
        <td><a href="http://bit.ly/www-eobot" target="_blank">eobot</a></td>
        <td><a href="/eobot.com.html">Discussion</a></td>
        <td>0.00200000 BTC</td>
