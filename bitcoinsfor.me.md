@@ -2,6 +2,10 @@
 layout: page
 title: bitcoinsfor.me
 comments: true
+img: http://www.all-faucets.com/assets/images/bitcoinsfor.me-thumb.png
+alt: With some luck you can roll 10, 50, 100 or even several thousands of satoshi.
+desc: Claim 10 satoshi every 5 minutes consistently. Win hourly with a free Slots Roll. Complete Offer Wall tasks.
+URL: http://www.all-faucets.com/bitcoinsfor.me.html
 ---
 
 Out of many faucet sites, <a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">bitcoinsfor.me</a> stands out for its consistency and simplicity.
