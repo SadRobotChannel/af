@@ -115,11 +115,11 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-allcoins" target="_blank"><img src="/assets/images/bg_logo.png" alt="Allcoins"/></a></td>
+       <td><a href="http://bit.ly/www-allcoins" target="_blank"><img src="/assets/images/allcoins.pw-thumb.png" alt="Allcoins"/></a></td>
        <td><a href="http://bit.ly/www-allcoins" target="_blank">Allcoins</a></td>
-       <td><a href="">Discussion</a></td>
-       <td></td>
-       <td></td>
+       <td><a href="/allcoins.pw.html">Discussion</a></td>
+       <td>no min</td>
+       <td>0.00000005 BTC every 15 minutes; Games; Mining; Offers; Multicurrency support</td>
     </tr>
 
  </table>
