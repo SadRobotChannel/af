@@ -2,7 +2,7 @@
 layout: page
 title: Best Cryptocurrency Faucets
 comments: false
-img: http://www.all-faucets.com/assets/images/bonusbitcoin.co-01.png
+img: http://www.all-faucets.com/assets/images/all-faucets.com-thumb.png
 alt: Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins.
 desc: There are over 500 cryptocurrency faucets on the Internet today. Our list is growing as we add only the faucets that are verified for their value and reputation.
 URL: http://www.all-faucets.com/index.html
