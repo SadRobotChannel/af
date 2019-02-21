@@ -107,7 +107,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-cointiply" target="_blank"><img src="/assets/images/bg_logo.png" alt="Cointiply"/></a></td>
+       <td><a href="http://bit.ly/www-cointiply" target="_blank"><img src="/assets/images/cointiply.com-thumb.png" alt="Cointiply"/></a></td>
        <td><a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a></td>
        <td><a href="/cointiply.com.html">Discussion</a></td>
        <td>0.00100000 BTC</td>
