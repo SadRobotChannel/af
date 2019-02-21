@@ -2,6 +2,10 @@
 layout: page
 title: freebitco.in
 comments: true
+img: http://www.all-faucets.com/assets/images/freebitco.in-thumb.png
+alt: The site allows you to earn bitcoin via a daily interest of the total amount hold in your account.
+desc: One of the oldest faucet sites. It is  intuitive in usage and its reputation had been tested with time and thousands of users.
+URL: http://www.all-faucets.com/freebitco.in.html
 ---
 
 The <a href="http://bit.ly/www-freebitcoin" target="_blank">freebitco.in</a> is one of the oldest faucet sites. It is  intuitive in usage and its reputation had been tested with time and thousands of users.
