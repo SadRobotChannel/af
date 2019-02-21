@@ -83,7 +83,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
     </tr>
 
     <tr>
-       <td><a href="http://bit.ly/www-mellowads" target="_blank"><img src="/assets/images/bg_logo.png" alt="MellowAds"/></a></td>
+       <td><a href="http://bit.ly/www-mellowads" target="_blank"><img src="/assets/images/mellowads.com-thumb.png" alt="MellowAds"/></a></td>
        <td><a href="http://bit.ly/www-mellowads" target="_blank">MellowAds</a></td>
        <td><a href="/mellowads.com.html">Discussion</a></td>
        <td>n/a</td>
