@@ -24,7 +24,7 @@ An important feature of freebitco.in that people often neglect is the daily comp
 </tr>
 </tbody>
 </table>
-
+<p> </p>
 A feature different from freebitco.in is TrustBTCFaucet's <i>Loyalty Bonus</i>. You see it under the same <i>Earn</i> menu. Use the wheel daily to get additional boost to your faucet claims of free goodies such as raffle tickets or more satoshi. Press Santa to spin!
 
 <p> </p>
