@@ -27,3 +27,8 @@ The withdrawal minimum? A very reasonable amount of 0.00000500 BTC, which you co
 #### Make it yours!
 
 <a href="https://www.patreon.com/join/CryptoPayoff?" target="_blank">Own this page!</a> Take control of this page's content, use your ref ID or customize it any other way.
+
+---
+#### Your advertisement
+
+<iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
