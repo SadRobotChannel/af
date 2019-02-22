@@ -22,4 +22,8 @@ For example, there's a free Slots Roll you can do hourly. With some luck you can
 The bitcoinsfor.me is offers two options to withdraw the money you earn: 1) to your coinbase account and 2) to your faucethub.io account. You can change the settings here: <a href="https://bitcoinsfor.me/set_payment_method.php" target="_blank">https://bitcoinsfor.me/set_payment_method.php</a>
 
 The withdrawal minimum? A very reasonable amount of 0.00000500 BTC, which you could send directly to your coinbase.com email address on a weekly basis. Important, you do not put your BTC wallet address but rather email address of your coinbase.com account in the <i>payment method</i> settings. This way you completely avoid miner/transfer/withdrawal fees.
-<p> </p>
+
+---
+#### Make it yours!
+
+<a href="https://www.patreon.com/join/CryptoPayoff?" target="_blank">Own this page!</a> Take control of this page's content, use your ref ID or customize it any other way.
