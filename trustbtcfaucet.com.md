@@ -1,9 +1,12 @@
 ---
-layout: post-right-sidebar
+layout: page
 title: trustbtcfaucet.com
 comments: true
 ---
-
+<table>
+<tbody>
+<tr>
+<td style="width: 500px;">
 If you're looking for websites similar to freebitco.in check out <a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a>. The site had copied a lot of good features from the classic freebitco.in, adapting some of them and adding several new ones.
 
 As you register you'll see <i>Earn</i> on the top menu, and <i>Freebitcoin</i> sub-menu. That will take you to the faucet, which you can claim continuously every 5 minutes. The amount you win varies greatly, and you can get anywhere from 3 to 888 satoshi per roll.
@@ -17,6 +20,14 @@ A feature different from freebitco.in is TrustBTCFaucet's <i>Loyalty Bonus</i>. 
 
 <p> </p>
 <p><img src="/assets/images/trustbtcfaucet.com-02.png" border="0"></p>
+</td>
+<td style="width: 200px;"><center>
+<iframe data-aa='1121328' src='//ad.a-ads.com/1121328?size=120x600' scrolling='no' style='width:120px; height:600px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
 
 ---
 #### Make it yours!
