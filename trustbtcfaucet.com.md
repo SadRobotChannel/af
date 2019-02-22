@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post-right-sidebar
 title: trustbtcfaucet.com
 comments: true
 ---
