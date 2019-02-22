@@ -15,7 +15,7 @@ The cost of ownership is $1/month, and you can subscribe via <a href="https://ww
 We like to keep our site clean and easy-on-the-eyes. And so a few rules are important to maintain so that different authors still contribute in a uniform way.
 
 - Your page can contain only one referral ID, following the practice of one page per faucets
-- You are welcome to have <i>Discussion</i> page, but other types of pages are welcome; We can discuss this!
-- We welcome one ad unit on your page, which will be from your <a target="_blank" href='http://bit.ly/www-a-ads'>a-ads</a> or account. The size and placement of ad unit can be discussed.
+- You are welcome to own a <i>Discussion</i> page, but other types of pages are welcome too; We can discuss this!
+- We welcome one ad unit on your page, which will be from your <a target="_blank" href='http://bit.ly/www-a-ads'>a-ads</a> account. The size and placement of the ad unit can be discussed.
 
-Violating of the rules will result in a warning, and possible termination of our mutual agreement.
+Violating of the rules will result in a warning, and a possible termination of our mutual agreement.
