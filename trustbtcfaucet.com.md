@@ -10,3 +10,15 @@ As you register you'll see <i>Earn</i> on the top menu, and <i>Freebitcoin</i> s
 
 <p> </p>
 <p><img src="/assets/images/trustbtcfaucet.com-01.png" border="0"></p>
+<p> </p>
+An important feature of freebitco.in that people often neglect is the daily compound interest the site pays you after you store a certain amount of BTC on your account, thus encouraging you not to withdraw the funds. The freebitco.in asks for a minimum of 30,000 satoshi (0.00030000 BTC) and awards you with 4.08% annual interest. The TrustBTCFaucet has the same minimum amount and pays 4.24%.
+
+A feature different from freebitco.in is TrustBTCFaucet's <i>Loyalty Bonus</i>. You see it under the same <i>Earn</i> menu. Use the wheel daily to get additional boost to your faucet claims of free goodies such as raffle tickets or more satoshi. Press Santa to spin!
+
+<p> </p>
+<p><img src="/assets/images/trustbtcfaucet.com-02.png" border="0"></p>
+
+---
+#### Make it yours!
+
+<a href="https://www.patreon.com/join/CryptoPayoff?" target="_blank">Own this page!</a> Take control of this page's content, use your ref ID or customize it any other way.
