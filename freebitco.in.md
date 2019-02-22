@@ -27,4 +27,4 @@ A word of caution, however. There are many sites that offer an interest on the B
 ---
 #### Make it yours!
 
-The <a href="https://www.patreon.com/join/CryptoPayoff?" target="_blank">Own this page!</a> Take control of this page's content, use your ref ID or customize it any other way.
+<a href="https://www.patreon.com/join/CryptoPayoff?" target="_blank">Own this page!</a> Take control of this page's content, use your ref ID or customize it any other way.
