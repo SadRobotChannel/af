@@ -2,6 +2,10 @@
 layout: page
 title: trustbtcfaucet.com
 comments: true
+img: http://www.all-faucets.com/assets/images/trustbtcfaucet.com-01.png
+alt: Claim every 5 minutes, up to 888 satoshi per roll. Earn annual 4.24% of interest!
+desc: If you're looking for websites similar to freebitco.in check out TrustBTCFaucet. Claim every 5 minutes, up to 888 satoshi per roll.
+URL: http://www.all-faucets.com/trustbtcfaucet.com.html
 ---
 
 If you're looking for websites similar to freebitco.in check out <a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a>. The site had copied a lot of good features from the classic freebitco.in, adapting some of them and adding several new ones.
