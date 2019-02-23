@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best Cryptocurrency Faucets
+title: Beste Cryptocurrency Kranen
 comments: false
 img: http://www.all-faucets.com/assets/images/all-faucets.com-thumb.png
 alt: Cryptocurrency kraanvoertuie is beloning stelsels in 'n vorm van 'n webwerf of 'n program wat gratis munte vrystel.
