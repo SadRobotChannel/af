@@ -3,18 +3,18 @@ layout: page
 title: Best Cryptocurrency Faucets
 comments: false
 img: http://www.all-faucets.com/assets/images/all-faucets.com-thumb.png
-alt: Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins.
-desc: There are over 500 cryptocurrency faucets on the Internet today. Our list is growing as we add only the faucets that are verified for their value and reputation.
+alt: Cryptocurrency kraanvoertuie is beloning stelsels in 'n vorm van 'n webwerf of 'n program wat gratis munte vrystel.
+desc: Daar is meer as 500 cryptocurrency krane op die internet vandag. Ons lys groei namate ons slegs die kraanvoertuie wat vir hul waarde en reputasie geverifieer word, byvoeg.
 URL: http://www.all-faucets.com/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-<link rel="stylesheet" href="assets/css/a2.css">
+<link rel="stylesheet" href="/assets/css/a2.css">
 
 Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in an exchange for completing a captcha or tasks described by the websites. We list the best faucet sites.
 
 **Work in Progress**
 
-This is an unfinished project. There are over 500 cryptocurrency faucets on the Internet today. Our list is growing as we add only the faucets that are verified for their value and reputation.
+Cryptocurrency kraanvoertuie is beloning stelsels in 'n vorm van 'n webwerf of 'n program wat gratis munte vrystel. Besoekers kan bitcoin satoshi of ander vorme van munte eis in 'n ruil vir die voltooiing van 'n captcha of take wat deur die webwerwe beskryf word. Ons noem die beste kraanwebwerwe.
 
 <div class="table-users">
  <div class="header">Bitcoin Faucets</div>
@@ -25,15 +25,15 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <th><center>Site</center></th>
        <th><center>Faucet Name</center></th>
        <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
+       <th><center>Min. Ontrekking</center></th>
+       <th width="230"><center>Waarde</center></th>
     </tr>
 
     <tr>
        <td>1</td>
        <td><a href="http://bit.ly/www-freebitcoin" target="_blank"><img src="/assets/images/freebitco.in-thumb.png" alt="FreeBitco.in"/></a></td>
        <td><a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a></td>
-       <td><a href="/freebitco.in.html">Discussion</a></td>
+       <td><a href="/af/freebitco.in.html">Discussion</a></td>
        <td>0.00003000 BTC</td>
        <td>0.00000040 BTC per hour, with a possibility to roll more; Lottery</td>
     </tr>
@@ -42,7 +42,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td>2</td>
        <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank"><img src="/assets/images/bitcoinsfor.me-thumb.png" alt="BitcoinsFor.me"/></a></td>
        <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">BitcoinsFor.me</a></td>
-       <td><a href="/bitcoinsfor.me.html">Discussion</a></td>
+       <td><a href="/af/bitcoinsfor.me.html">Discussion</a></td>
        <td>0.00000500 BTC</td>
        <td>0.00000010 BTC every 5 minutes; Free hourly Slots Roll; Offer Wall, etc</td>
     </tr>
@@ -51,7 +51,7 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
        <td>3</td>
        <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank"><img src="/assets/images/trustbtcfaucet.com-thumb.png" alt="TrustBTCFaucet"/></a></td>
        <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a></td>
-       <td><a href="/trustbtcfaucet.com.html">Discussion</a></td>
+       <td><a href="/af/trustbtcfaucet.com.html">Discussion</a></td>
        <td>0.00015000 BTC</td>
        <td>From 0.00000003 to 0.00000888 BTC every 5 minutes, random; Loyalty Bonus; Daily interest</td>
     </tr>
