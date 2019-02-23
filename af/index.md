@@ -10,20 +10,20 @@ URL: http://www.all-faucets.com/index.html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 <link rel="stylesheet" href="/assets/css/a2.css">
 
-Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in an exchange for completing a captcha or tasks described by the websites. We list the best faucet sites.
+Cryptocurrency kraanvoertuie is beloning stelsels in 'n vorm van 'n webwerf of 'n program wat gratis munte vrystel. Besoekers kan bitcoin satoshi of ander vorme van munte eis in 'n ruil vir die voltooiing van 'n captcha of take wat deur die webwerwe beskryf word. Ons noem die beste kraanwebwerwe.
 
-**Work in Progress**
+**Werk aan die gang**
 
 Cryptocurrency kraanvoertuie is beloning stelsels in 'n vorm van 'n webwerf of 'n program wat gratis munte vrystel. Besoekers kan bitcoin satoshi of ander vorme van munte eis in 'n ruil vir die voltooiing van 'n captcha of take wat deur die webwerwe beskryf word. Ons noem die beste kraanwebwerwe.
 
 <div class="table-users">
- <div class="header">Bitcoin Faucets</div>
+ <div class="header">Bitcoin Kranen</div>
 
  <table cellspacing="0">
     <tr>
        <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
+       <th><center>Werf</center></th>
+       <th><center>Kraannaam</center></th>
        <th><center>Info</center></th>
        <th><center>Min. Ontrekking</center></th>
        <th width="230"><center>Waarde</center></th>
