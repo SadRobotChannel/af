@@ -36,37 +36,37 @@ img {
 
 table {
    width: 100%;
-   
-   td, th { 
+
+   td, th {
       color: darken($baseColor, 10%);
-      padding: $padding; 
+      padding: $padding;
    }
-   
+
    td {
       text-align: center;
       vertical-align: middle;
-      
+
       &:last-child {
          font-size: 0.95em;
          line-height: 1.4;
          text-align: left;
       }
    }
-   
-   th { 
+
+   th {
       background-color: lighten($baseColor, 50%);
       font-weight: 300;
    }
-   
-   tr {     
+
+   tr {
       &:nth-child(2n) { background-color: white; }
       &:nth-child(2n+1) { background-color: lighten($baseColor, 55%) }
    }
 }
 
-@media screen and (max-width: 700px) {   
+@media screen and (max-width: 700px) {
    table, tr, td { display: block; }
-   
+
    td {
       &:first-child {
          position: absolute;
@@ -91,12 +91,12 @@ table {
          }
       }
 
-      &:nth-child(2):before { content: 'Name:'; }
-      &:nth-child(3):before { content: 'Email:'; }
-      &:nth-child(4):before { content: 'Phone:'; }
-      &:nth-child(5):before { content: 'Comments:'; }
+      &:nth-child(2):before { content: 'Site:'; }
+      &:nth-child(3):before { content: 'Faucet Name:'; }
+      &:nth-child(4):before { content: 'Info:'; }
+      &:nth-child(5):before { content: 'Value:'; }
    }
-   
+
    tr {
       padding: $padding 0;
       position: relative;
@@ -113,7 +113,7 @@ table {
       padding: 0;
       text-shadow: 2px 2px 0 rgba(0,0,0,0.1);
    }
-   
+
    img {
       border: 3px solid;
       border-color: lighten($baseColor, 50%);
@@ -121,33 +121,33 @@ table {
       margin: 0.5rem 0;
       width: $imageBig;
    }
-   
+
    td {
-      &:first-child { 
-         background-color: lighten($baseColor, 45%); 
+      &:first-child {
+         background-color: lighten($baseColor, 45%);
          border-bottom: 1px solid lighten($baseColor, 30%);
          border-radius: $borderRadius $borderRadius 0 0;
-         position: relative;   
+         position: relative;
          top: 0;
          transform: translateY(0);
          width: 100%;
       }
-      
+
       &:not(:first-child) {
          margin: 0;
          padding: 5px 1em;
          width: 100%;
-         
+
          &:before {
             font-size: .8em;
             padding-top: 0.3em;
             position: relative;
          }
       }
-      
+
       &:last-child  { padding-bottom: 1rem !important; }
    }
-   
+
    tr {
       background-color: white !important;
       border: 1px solid lighten($baseColor, 20%);
@@ -156,9 +156,9 @@ table {
       margin: 0.5rem 0;
       padding: 0;
    }
-   
-   .table-users { 
-      border: none; 
+
+   .table-users {
+      border: none;
       box-shadow: none;
       overflow: visible;
    }

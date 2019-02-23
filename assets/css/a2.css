@@ -81,16 +81,16 @@ table tr:nth-child(2n+1) {
     position: absolute;
   }
   td:nth-child(2):before {
-    content: 'Name:';
+    content: 'Site:';
   }
   td:nth-child(3):before {
-    content: 'Email:';
+    content: 'Faucet Name:';
   }
   td:nth-child(4):before {
-    content: 'Phone:';
+    content: 'Info:';
   }
   td:nth-child(5):before {
-    content: 'Comments:';
+    content: 'Value:';
   }
 
   tr {
