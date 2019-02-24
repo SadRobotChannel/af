@@ -141,6 +141,10 @@ While many sites live from their ads, some are also making money by offering gam
  </table>
 </div>
 
+<p> </p>
+**Help us manage this website**
+
+As you register at the faucets we recommend and build a portfolio of faucets you use regularly, e.g. 5 sites that you go once per hour and claim from, you'll want to increase your earnings by referring people to the same sites you use via your referral ID. Help us to co-manage <i>all-faucets.com</i> and we'll put YOUR referral ID to the pages of this site. <a href="your-page.html">Read more</a> about co-management.
 
 <div class="table-users">
  <div class="header">Claim every 60 minutes<</div>
