@@ -142,6 +142,45 @@ While many sites live from their ads, some are also making money by offering gam
 </div>
 
 <p> </p>
+**FaucetHub and CoinPot**
+
+These two faucet sites are in a category of its own. They are transaction brokers - a middleman between you and other faucet sites. For several of the faucets you are required to have either a FaucetHub or a CoinPot account. The digital wallets you generate on these websites reduce or completely eliminate the transaction fees to transfer money from a faucet to yourself. They are your friends.
+
+<div class="table-users">
+ <div class="header">Faucet Gateways</div>
+
+ <table cellspacing="0">
+    <tr>
+       <th><center>#</center></th>
+       <th><center>Site</center></th>
+       <th><center>Faucet Name</center></th>
+       <th><center>Info</center></th>
+       <th><center>Min. Withdrawal</center></th>
+       <th width="230"><center>Value</center></th>
+    </tr>
+
+    <tr>
+       <td>5</td>
+       <td><a href="http://bit.ly/www-faucethub" target="_blank"><img src="/assets/images/faucethub.io-thumb.png" alt="FaucetHub"/></a></td>
+       <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a></td>
+       <td><a href="/faucethub.io.html">Discussion</a></td>
+       <td>0.00020000 BTC</td>
+       <td>Gateway to other faucets. Registering digital wallets on Faucethub is a prerequisite for many faucets sites.</td>
+    </tr>
+
+    <tr>
+       <td>11</td>
+       <td><a href="http://coinpot.co" target="_blank"><img src="/assets/images/cointiply.com-thumb.png" alt="CoinPot"/></a></td>
+       <td><a href="http://coinpot.co" target="_blank">CoinPot</a></td>
+       <td><a href="/coinpot.com.html">Discussion</a></td>
+       <td>0.00010000 BTC</td>
+       <td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
+    </tr>
+
+ </table>
+</div>
+
+<p> </p>
 **Help us manage this website**
 
 As you register at the faucets we recommend and build a portfolio of faucets you use regularly, e.g. 5 sites that you go once per hour and claim from, you'll want to increase your earnings by referring people to the same sites you use via your referral ID. Help us to co-manage <i>all-faucets.com</i> and we'll put YOUR referral ID to the pages of this site. <a href="your-page.html">Read more</a> about co-management.
@@ -166,15 +205,6 @@ As you register at the faucets we recommend and build a portfolio of faucets you
        <td><a href="/freebitco.in.html">Discussion</a></td>
        <td>0.00003000 BTC</td>
        <td>0.00000040 BTC per hour, with a possibility to roll more; Lottery</td>
-    </tr>
-
-    <tr>
-       <td>5</td>
-       <td><a href="http://bit.ly/www-faucethub" target="_blank"><img src="/assets/images/faucethub.io-thumb.png" alt="FaucetHub"/></a></td>
-       <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a></td>
-       <td><a href="/faucethub.io.html">Discussion</a></td>
-       <td>0.00020000 BTC</td>
-       <td>Gateway to other faucets. Registering digital wallets on Faucethub is a prerequisite for many faucets sites.</td>
     </tr>
 
     <tr>
