@@ -181,6 +181,9 @@ These two faucet sites are in a category of its own. They are transaction broker
 </div>
 
 <p> </p>
+**Not just Bitcoin!**
+
+The next table shows the faucets with an hourly frequency of reward. We've added two more non-bitcoin faucets here - a Doge and a Ripple (XPR) faucet. Don't put all your eggs in one basket, the saying goes. And even if you do prefer just one currency, you can easily convert digital currencies on sites like Eobot.
 
 <div class="table-users">
  <div class="header">Claim every 60 minutes</div>
@@ -211,6 +214,24 @@ These two faucet sites are in a category of its own. They are transaction broker
        <td><a href="/cointiply.com.html">Discussion</a></td>
        <td>0.00100000 BTC</td>
        <td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
+    </tr>
+
+    <tr>
+       <td>13</td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="FreeDoge.co.in"/></a></td>
+       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">FreeDoge.co.in</a></td>
+       <td><a href="/freedoge.co.in.html">Discussion</a></td>
+       <td>50 DOGE</td>
+       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+    </tr>
+
+    <tr>
+       <td>14</td>
+       <td><a href="http://bit.ly/www-coinfaucet" target="_blank"><img src="/assets/images/coinfaucet.io-thumb.png" alt="CoinFaucet.io"/></a></td>
+       <td><a href="http://bit.ly/www-coinfaucet" target="_blank">CoinFaucet</a></td>
+       <td><a href="/coinfaucet.io.html">Discussion</a></td>
+       <td>1.0 XRP</td>
+       <td>One claim per hour, around 0.00092500 Ripple (XPR) per claim. Similar interface and functions as freebitco.in.</td>
     </tr>
 
  </table>
@@ -253,41 +274,6 @@ These two faucet sites are in a category of its own. They are transaction broker
  </table>
 </div>
 
-<p> </p>
-
-<div class="table-users">
- <div class="header">Other Cryptocurrency</div>
-
- <table cellspacing="0">
-    <tr>
-       <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
-    </tr>
-
-    <tr>
-       <td>13</td>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="FreeDoge.co.in"/></a></td>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">FreeDoge.co.in</a></td>
-       <td><a href="/freedoge.co.in.html">Discussion</a></td>
-       <td>50 DOGE</td>
-       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
-    </tr>
-
-    <tr>
-       <td>14</td>
-       <td><a href="http://bit.ly/www-coinfaucet" target="_blank"><img src="/assets/images/coinfaucet.io-thumb.png" alt="CoinFaucet.io"/></a></td>
-       <td><a href="http://bit.ly/www-coinfaucet" target="_blank">CoinFaucet</a></td>
-       <td><a href="/coinfaucet.io.html">Discussion</a></td>
-       <td>1.0 XRP</td>
-       <td>One claim per hour, around 0.00092500 per claim. Similar interface and functions as freebitco.in.</td>
-    </tr>
-
- </table>
-</div>
 
 <p> </p>
 **Help us manage this website**
