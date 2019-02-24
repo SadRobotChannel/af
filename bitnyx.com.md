@@ -4,7 +4,7 @@ title: bitnyx.com
 comments: true
 img: http://www.all-faucets.com/assets/images/bitnyx.com-01.png
 alt: Simple and transparent, no pop-ups, no bullshit.
-desc: Claim up to 30 satoshi every 30 minutes. Weekly price of 0.00100000 BTC to the highest claimant!
+desc: Claim up to 30 satoshi every 30 minutes. Weekly competition with a prize of 0.001 BTC to the highest claimant!
 URL: http://www.all-faucets.com/freebitco.in.html
 ---
 
