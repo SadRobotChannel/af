@@ -180,3 +180,5 @@ This is an unfinished project. There are over 500 cryptocurrency faucets on the 
 #### Share
 
 Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms!
+
+<iframe src='https://go.arena.im/embed/chat/all-faucets/all-faucets-global' style='border: 0; width: 400px; height: 400px; border-radius: 4px;'></iframe>
