@@ -21,7 +21,7 @@ If you're new to crypto faucets this site is for you. There are <i>many</i> fauc
 The table below lists the faucet sites. It's split by the claim frequency. You "claim" from faucet by visiting a site and pressing a button dispensing free bitcoin or other tokens. And so, your preference may be an hourly period, where you refresh a faucet website on your device (computer, table or mobile) once per hour and get your reward, or daily, or even every 5 minutes.
 
 <div class="table-users">
- <div class="header">Claim every 5 minutes/div>
+ <div class="header">Claim every 5 minutes</div>
 
  <table cellspacing="0">
     <tr>
@@ -77,6 +77,50 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
 Each faucet site rewards you differently. Most of the sites are able to sustain itself due to advertisement, but when the ads are excessive or try to confuse you, you end-up wasting too much time on the site, and finally never come back to it. We try to list only the "cleanest" sites, where you spend literarily 10-15 seconds per faucet claim. And these 10-15 seconds are rewarded anywhere from 10-100 satoshi, depending on the site. The information about the value of faucet sites is listed in the tables below, as well as under the <i>Discussion</i> pages for each site, where we try to offer some helpful hints.
 <p>
 While many sites live from their ads, some are also making money by offering games and gambling services. While there's a solid chance of winning when you gamble, similarly as in a casino, in the long term you'll always loose. The house always stays profitable. And so we do not discuss gambling on this site and generally do not recommend it.
+
+
+<div class="table-users">
+ <div class="header">Claim every 15 minutes</div>
+
+ <table cellspacing="0">
+    <tr>
+       <th><center>#</center></th>
+       <th><center>Site</center></th>
+       <th><center>Faucet Name</center></th>
+       <th><center>Info</center></th>
+       <th><center>Min. Withdrawal</center></th>
+       <th width="230"><center>Value</center></th>
+    </tr>
+
+    <tr>
+       <td>9</td>
+       <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/febbit.com-thumb.png" alt="Febbit"/></a></td>
+       <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a></td>
+       <td><a href="/febbit.com.html">Discussion</a></td>
+       <td>0.00001000 BTC</td>
+       <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. You generate about 00000100 BTC per hour once you level.</td>
+    </tr>
+
+    <tr>
+       <td>10</td>
+       <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank"><img src="/assets/images/bonusbitcoin.co-thumb.png" alt="BonusBitcoin"/></a></td>
+       <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">BonusBitcoin</a></td>
+       <td><a href="/bonusbitcoin.co.html">Discussion</a></td>
+       <td>0.00010000 BTC</td>
+       <td>Claim every 15 minutes, random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for a 15 min interval.</td>
+    </tr>
+
+    <tr>
+       <td>12</td>
+       <td><a href="http://bit.ly/www-allcoins" target="_blank"><img src="/assets/images/allcoins.pw-thumb.png" alt="Allcoins"/></a></td>
+       <td><a href="http://bit.ly/www-allcoins" target="_blank">Allcoins</a></td>
+       <td><a href="/allcoins.pw.html">Discussion</a></td>
+       <td>no min</td>
+       <td>0.00000005 BTC every 15 minutes; Games; Mining; Offers; Multicurrency support</td>
+    </tr>
+
+ </table>
+</div>
 
 <div class="table-users">
  <div class="header">Bitcoin Faucets</div>
