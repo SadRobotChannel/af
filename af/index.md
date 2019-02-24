@@ -280,7 +280,7 @@ Laastens, hier is die webwerwe wat nie tipies aangeneem word as die kraanwerwe n
 <p> </p>
 **Help ons om hierdie webwerf te bestuur**
 
-Soos u by die kraan registreer, beveel ons aan en bou 'n portefeulje krane wat u gereeld gebruik, bv. 5 webwerwe wat jy een keer per uur gaan eis en aanspraak maak op, sal jy jou verdienste wil verhoog deur mense na dieselfde plekke te verwys as wat jy met jou verwysings ID gebruik. Help ons om <i> all-faucets.com </ i> saam te bestuur en ons sal jou verwysings ID op die bladsye van hierdie werf plaas. <a href="/af/your-page.html"> Lees meer </a> oor medebestuur.
+Soos u by die kraan registreer, beveel ons aan en bou 'n portefeulje krane wat u gereeld gebruik, bv. 5 webwerwe wat jy een keer per uur gaan eis en aanspraak maak op, sal jy jou verdienste wil verhoog deur mense na dieselfde plekke te verwys as wat jy met jou verwysings ID gebruik. Help ons om <i>all-faucets.com</i> saam te bestuur en ons sal jou verwysings ID op die bladsye van hierdie werf plaas. <a href="/af/your-page.html"> Lees meer </a> oor medebestuur.
 
 ---
 #### Sosiale
