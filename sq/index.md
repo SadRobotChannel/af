@@ -87,7 +87,7 @@ Tabela më poshtë tregon listat e rubinetave. Është e ndarë nga frekuenca e 
        <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a></td>
        <td><a href="/febbit.com.html">Diskutim</a></td>
        <td>0.00001000 BTC</td>
-       <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. Interaction frequency depends on your level.</td>
+       <td>Një lojë e bazuar në shfletues. Ju ngritur një përbindësh që minon bitcoins. Nuk është minierë e vërtetë, thjesht simulim. Frekuenca e ndërveprimit varet nga niveli juaj.</td>
     </tr>
 
     <tr>
@@ -96,7 +96,7 @@ Tabela më poshtë tregon listat e rubinetave. Është e ndarë nga frekuenca e 
        <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">BonusBitcoin</a></td>
        <td><a href="/bonusbitcoin.co.html">Diskutim</a></td>
        <td>0.00010000 BTC</td>
-       <td>Random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for a 15 min interval.</td>
+       <td>Shpërblimi i rastësishëm deri në 0.00005000 BTC, mesatarja aktuale është 0.00000050 BTC, e cila është shumë e mirë për një interval prej 15 minutash.</td>
     </tr>
 
     <tr>
@@ -105,19 +105,19 @@ Tabela më poshtë tregon listat e rubinetave. Është e ndarë nga frekuenca e 
        <td><a href="http://bit.ly/www-allcoins" target="_blank">Allcoins</a></td>
        <td><a href="/allcoins.pw.html">Diskutim</a></td>
        <td>no min</td>
-       <td>0.00000005 BTC; Also: Games; Mining; Offers; Multicurrency support</td>
+       <td>0.00000005 BTC; Gjithashtu: Lojra; Minierave; Oferta; Mbështetje multicurrency</td>
     </tr>
 
  </table>
 </div>
 
 <p> </p>
-**Don't gamble**
+**Mos rrezikoni**
 
-While many sites live from their ads, some are also making money by offering games and gambling services. While there's a solid chance of winning when you gamble, similarly as in a casino, in the long term you'll always loose. The house always stays profitable. And so we do not discuss gambling on this site and generally do not recommend it.
+Ndërsa shumë vende jetojnë nga reklamat e tyre, disa po bëjnë para duke ofruar lojëra dhe shërbime të lojërave të fatit. Ndërsa ka një shans të fortë për të fituar kur luani, ashtu si në një kazino, në afat të gjatë do të humbni gjithnjë. Shtëpia gjithmonë qëndron fitimprurëse. Dhe kështu nuk diskutojmë bixhozin në këtë faqe dhe në përgjithësi nuk e rekomandojmë atë.
 
 <div class="table-users">
- <div class="header">Claim every 30 minutes</div>
+ <div class="header">Pretendo çdo 30 minuta</div>
 
  <table cellspacing="0">
  <tr>
