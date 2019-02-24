@@ -12,16 +12,16 @@ URL: http://www.all-faucets.com/af/index.html
 
 Cryptocurrency kraanvoertuie is beloning stelsels in 'n vorm van 'n webwerf of 'n program wat gratis munte vrystel. Besoekers kan bitcoin satoshi of ander vorme van munte eis in 'n ruil vir die voltooiing van 'n captcha of take wat deur die webwerwe beskryf word. Ons noem die beste kraanwebwerwe.
 
-**Getting started with bitcoin faucets**
+**Aan die begin met bitcoin kraan**
 
-If you're new to crypto faucets this site is for you. There are <i>many</i> faucet sites on the Internet today, but our list is rather short, because we add only the faucets that are verified for their value and reputation. Usually people start trying-out faucets out of curiosity, or as a hobby, but with some knowledge and consistency such hobby can offer a reasonable income. Our goal is to share the knowledge and to enable you to earn digital currency in the way that suits your interests and your life-style.
+As jy nuut is vir kripto krane, is hierdie webwerf vir jou. Daar is <i>baie</i> kraanwerwe op die internet vandag, maar ons lys is taamlik kort, want ons voeg net die kraanvoëls wat vir hul waarde en reputasie geverifieer is. Gewoonlik begin mense probeer om krane uit nuuskierigheid of as 'n stokperdjie te probeer, maar met 'n mate van kennis en konsekwentheid kan sulke stokperdjies 'n redelike inkomste bied. Ons doel is om die kennis te deel en om u in staat te stel om digitale geldeenheid te verdien soos u belangstellings en u lewenswyse pas.
 
-**Frequency of reward claim**
+**Frekwensie van beloning eis**
 
-The table below lists the faucet sites. It's split by the claim frequency. You "claim" from faucet by visiting a site and pressing a button dispensing free bitcoin or other tokens. And so, your preference may be an hourly period, where you refresh a faucet website on your device (computer, table or mobile) once per hour and get your reward, or daily, or even every 5 minutes.
+In die tabel hieronder word die kraanwerwe genoem. Dit word verdeel deur die eis frekwensie. Jy "eis" van kraan deur 'n webwerf te besoek en 'n knoppie te druk wat gratis bitcoin of ander tokens uitstuur. En so kan jou voorkeur 'n uurlikse tydperk wees, waar jy 'n kraanwebwerf op jou toestel (rekenaar, tafel of selfoon) een keer per uur verfris en jou beloning, of daagliks, of selfs elke 5 minute kry.
 
 <div class="table-users">
- <div class="header">Claim every 5 minutes</div>
+ <div class="header">Eis elke 5 minute</div>
 
  <table cellspacing="0">
     <tr>
@@ -39,7 +39,7 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
        <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">BitcoinsFor.me</a></td>
        <td><a href="/bitcoinsfor.me.html">Discussion</a></td>
        <td>0.00000500 BTC</td>
-       <td>0.00000010 BTC; Also: Free hourly Slots Roll; Offer Wall, etc</td>
+       <td>0.00000010 BTC; Ook: Vry uurlikse Slots Roll; Offer Wall, ens</td>
     </tr>
 
     <tr>
@@ -48,7 +48,7 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
        <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a></td>
        <td><a href="/trustbtcfaucet.com.html">Discussion</a></td>
        <td>0.00015000 BTC</td>
-       <td>From 0.00000003 to 0.00000888 BTC random value; Also: Loyalty Bonus; Daily Interest</td>
+       <td>From 0.00000003 to 0.00000888 BTC ewekansige waarde; Ook: Lojaliteit Bonus; Daaglikse rente</td>
     </tr>
 
     <tr>
@@ -57,7 +57,7 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
        <td><a href="http://bit.ly/sato-host" target="_blank">Sato</a></td>
        <td><a href="/sato.host.html">Discussion</a></td>
        <td>no min</td>
-       <td>0.00000020 BTC per claim; Wait for "Login" button! Read more on <a href="/sato.host.html">discussion</a> page</td>
+       <td>0.00000020 BTC per eis; Wag vir die "Teken" knoppie! Lees verder <a href="/sato.host.html">bespreking</a> bladsy</td>
     </tr>
 
  </table>
