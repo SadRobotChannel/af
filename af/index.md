@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Best Cryptocurrency Faucets
+title: Beste Cryptocurrency Kranen
 comments: false
 img: http://www.all-faucets.com/assets/images/all-faucets.com-thumb.png
-alt: Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins.
-desc: If you're new to crypto faucets this site is for you. Learn how to maximize the value of your time and effort while claiming from free bitcoin faucet sites.
-URL: http://www.all-faucets.com/index.html
+alt: Cryptocurrency kraanvoertuie is beloning stelsels in 'n vorm van 'n webwerf of 'n program wat gratis munte vrystel.
+desc: As jy nuut is vir kripto krane, is hierdie webwerf vir jou. Vind uit hoe om die waarde van jou tyd en moeite te maksimeer terwyl jy eis van gratis bitcoin-kraanwebwerwe.
+URL: http://www.all-faucets.com/af/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-<link rel="stylesheet" href="assets/css/a2.css">
+<link rel="stylesheet" href="../assets/css/a2.css">
 
-Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in an exchange for completing a captcha or tasks described by the websites. We list the best faucet sites.
+Cryptocurrency kraanvoertuie is beloning stelsels in 'n vorm van 'n webwerf of 'n program wat gratis munte vrystel. Besoekers kan bitcoin satoshi of ander vorme van munte eis in 'n ruil vir die voltooiing van 'n captcha of take wat deur die webwerwe beskryf word. Ons noem die beste kraanwebwerwe.
 
 **Getting started with bitcoin faucets**
 
@@ -26,11 +26,11 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
  <table cellspacing="0">
     <tr>
        <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
+       <th><center>Werf</center></th>
+       <th><center>Kraannaam</center></th>
        <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
+       <th><center>Min. Ontrekking</center></th>
+       <th width="230"><center>Waarde</center></th>
     </tr>
 
     <tr>
@@ -73,12 +73,12 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
 
  <table cellspacing="0">
     <tr>
-       <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
+    <th><center>#</center></th>
+    <th><center>Werf</center></th>
+    <th><center>Kraannaam</center></th>
+    <th><center>Info</center></th>
+    <th><center>Min. Ontrekking</center></th>
+    <th width="230"><center>Waarde</center></th>
     </tr>
 
     <tr>
@@ -121,12 +121,12 @@ While many sites live from their ads, some are also making money by offering gam
 
  <table cellspacing="0">
     <tr>
-       <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
+    <th><center>#</center></th>
+    <th><center>Werf</center></th>
+    <th><center>Kraannaam</center></th>
+    <th><center>Info</center></th>
+    <th><center>Min. Ontrekking</center></th>
+    <th width="230"><center>Waarde</center></th>
     </tr>
 
     <tr>
@@ -151,12 +151,12 @@ These two faucet sites are in a category of its own. They are transaction broker
 
  <table cellspacing="0">
     <tr>
-       <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
+    <th><center>#</center></th>
+    <th><center>Werf</center></th>
+    <th><center>Kraannaam</center></th>
+    <th><center>Info</center></th>
+    <th><center>Min. Ontrekking</center></th>
+    <th width="230"><center>Waarde</center></th>
     </tr>
 
     <tr>
@@ -190,12 +190,12 @@ The next table shows the faucets with an hourly frequency of reward. We've added
 
  <table cellspacing="0">
     <tr>
-       <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
+    <th><center>#</center></th>
+    <th><center>Werf</center></th>
+    <th><center>Kraannaam</center></th>
+    <th><center>Info</center></th>
+    <th><center>Min. Ontrekking</center></th>
+    <th width="230"><center>Waarde</center></th>
     </tr>
 
     <tr>
@@ -247,12 +247,12 @@ Finally, here are the sites that are not typically assumed to be the faucet site
 
  <table cellspacing="0">
     <tr>
-       <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
+    <th><center>#</center></th>
+    <th><center>Werf</center></th>
+    <th><center>Kraannaam</center></th>
+    <th><center>Info</center></th>
+    <th><center>Min. Ontrekking</center></th>
+    <th width="230"><center>Waarde</center></th>
     </tr>
 
     <tr>
