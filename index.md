@@ -62,6 +62,7 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
 
  </table>
 </div>
+
 <p> </p>
 **Amount of reward and easibility of use**
 
@@ -112,6 +113,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
 
 <p> </p>
 **Don't gamble**
+
 While many sites live from their ads, some are also making money by offering games and gambling services. While there's a solid chance of winning when you gamble, similarly as in a casino, in the long term you'll always loose. The house always stays profitable. And so we do not discuss gambling on this site and generally do not recommend it.
 
 <div class="table-users">
