@@ -39,7 +39,7 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
        <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">BitcoinsFor.me</a></td>
        <td><a href="/bitcoinsfor.me.html">Discussion</a></td>
        <td>0.00000500 BTC</td>
-       <td>0.00000010 BTC every 5 minutes; Free hourly Slots Roll; Offer Wall, etc</td>
+       <td>0.00000010 BTC; Also: free hourly Slots Roll; Offer Wall, etc</td>
     </tr>
 
     <tr>
@@ -48,7 +48,7 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
        <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a></td>
        <td><a href="/trustbtcfaucet.com.html">Discussion</a></td>
        <td>0.00015000 BTC</td>
-       <td>From 0.00000003 to 0.00000888 BTC every 5 minutes, random; Loyalty Bonus; Daily interest</td>
+       <td>From 0.00000003 to 0.00000888 BTC random value; Also: Loyalty Bonus; Daily Interest</td>
     </tr>
 
     <tr>
@@ -87,7 +87,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
        <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a></td>
        <td><a href="/febbit.com.html">Discussion</a></td>
        <td>0.00001000 BTC</td>
-       <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. You generate about 00000100 BTC per hour once you level.</td>
+       <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. Interaction frequency depends on your level.</td>
     </tr>
 
     <tr>
@@ -96,7 +96,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
        <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">BonusBitcoin</a></td>
        <td><a href="/bonusbitcoin.co.html">Discussion</a></td>
        <td>0.00010000 BTC</td>
-       <td>Claim every 15 minutes, random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for a 15 min interval.</td>
+       <td>Random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for a 15 min interval.</td>
     </tr>
 
     <tr>
@@ -105,7 +105,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
        <td><a href="http://bit.ly/www-allcoins" target="_blank">Allcoins</a></td>
        <td><a href="/allcoins.pw.html">Discussion</a></td>
        <td>no min</td>
-       <td>0.00000005 BTC every 15 minutes; Games; Mining; Offers; Multicurrency support</td>
+       <td>0.00000005 BTC; Also: Games; Mining; Offers; Multicurrency support</td>
     </tr>
 
  </table>
