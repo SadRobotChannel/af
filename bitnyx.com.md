@@ -4,7 +4,7 @@ title: bitnyx.com
 comments: true
 ---
 
-Some sites look more trustworthy than others. Usually it's the simplicity of the site and the transparency of the information offered by the site owners. The <a href="http://bit.ly/www-bitnyx" target="_blank">Btnyx</a> is such a site.
+Some sites look more trustworthy than others. Usually it's the simplicity of the site and the transparency of the information offered by the site owners. The <a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a> is such a site.
 
 The site has just two features and both of them are well implemented:
 1. The main faucet page, allowing you to claim up to 30 satoshi every 30 minutes.
@@ -19,6 +19,7 @@ Speaking of transparency, on the right are the amounts the active users manage t
 <p><img src="/assets/images/bitnyx.com-02.png" border="0"></p>
 <p> </p>
 As with most of the faucet sites, you're also able to make money referring people, a which is hard a but rewarding task!
+
 ---
 #### Make it yours!
 
