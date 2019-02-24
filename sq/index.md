@@ -135,19 +135,19 @@ Ndërsa shumë vende jetojnë nga reklamat e tyre, disa po bëjnë para duke ofr
        <td><a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a></td>
        <td><a href="/bitnyx.com.html">Diskutim</a></td>
        <td>0.00025000 BTC</td>
-       <td>Up to 0.00000030 BTC randomized; Possibility to win 0.00100000 BTC weekly</td>
+       <td>Deri në 0.00000030 BTC randomized; Mundësia për të fituar 0.00100000 BTC javore</td>
     </tr>
 
  </table>
 </div>
 
 <p> </p>
-**FaucetHub and CoinPot**
+**FaucetHub dhe CoinPot**
 
-These two faucet sites are in a category of its own. They are transaction brokers - a middleman between you and other faucet sites. For several of the faucets you are required to have either a FaucetHub or a CoinPot account. The digital wallets you generate on these websites reduce or completely eliminate the transaction fees to transfer money from a faucet to yourself. They are your friends.
+Këto dy vende rubineti janë në një kategori të vetin. Ata janë brokerat e transaksioneve - një ndërmjetës midis jush dhe vendeve të tjera të rubinetave. Për disa nga rubinet ju kërkohet të keni ose një rubinetash ose një llogari CoinPot. Kuletat digjitale që gjeneroni në këto faqet e internetit reduktojnë ose eliminojnë plotësisht tarifat e transaksionit për të transferuar para nga rubinet tek vetja. Ata janë miqtë tuaj.
 
 <div class="table-users">
- <div class="header">Faucet Gateways</div>
+ <div class="header">Porta e raketave</div>
 
  <table cellspacing="0">
  <tr>
@@ -165,7 +165,7 @@ These two faucet sites are in a category of its own. They are transaction broker
        <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a></td>
        <td><a href="/faucethub.io.html">Diskutim</a></td>
        <td>0.00020000 BTC</td>
-       <td>Gateway to other faucets. Registering digital wallets on Faucethub is a prerequisite for many faucets sites.</td>
+       <td>Porta e kanaleve të tjera. Regjistrimi i kuletave dixhitale në Faucethub është një parakusht për shumë faqe të rubinetave.</td>
     </tr>
 
     <tr>
@@ -174,19 +174,19 @@ These two faucet sites are in a category of its own. They are transaction broker
        <td><a href="http://coinpot.co" target="_blank">CoinPot</a></td>
        <td><a href="/coinpot.com.html">Diskutim</a></td>
        <td>0.00010000 BTC</td>
-       <td>You will not be able to claim directly on this site, but rather on the site's affiliate, such as BonusBitcoin.</td>
+       <td>Ju nuk do të jeni në gjendje të kërkoni drejtpërdrejtë në këtë faqe, por në degën e faqes, si BonusBitcoin.</td>
     </tr>
 
  </table>
 </div>
 
 <p> </p>
-**Not just Bitcoin!**
+**Jo vetëm Bitcoin!**
 
-The next table shows the faucets with an hourly frequency of reward. We've added two more non-bitcoin faucets here - a Doge and a Ripple (XPR) faucet. Don't put all your eggs in one basket, the old saying goes. And even if you do prefer just one currency, you can easily convert digital currencies on sites like Eobot.
+Tabela tjetër tregon rubinetat me një frekuencë orë shpërblimi. Ne kemi shtuar edhe dy rubina të tjera jo-bitcoin këtu - një rubinet i Doge dhe një Ripple (XPR). Mos i vendosni të gjitha vezët në një shportë, thënia e vjetër. Dhe edhe nëse preferoni vetëm një monedhë, lehtë mund të konvertojë monedhat dixhitale në vende si Eobot.
 
 <div class="table-users">
- <div class="header">Claim every 60 minutes</div>
+ <div class="header">Kërkoni çdo 60 minuta</div>
 
  <table cellspacing="0">
  <tr>
@@ -204,7 +204,7 @@ The next table shows the faucets with an hourly frequency of reward. We've added
        <td><a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a></td>
        <td><a href="/freebitco.in.html">Diskutim</a></td>
        <td>0.00003000 BTC</td>
-       <td>0.00000040 BTC per hour, with a possibility to roll more; Lottery</td>
+       <td>0.00000040 BTC në orë, me një mundësi për të rrokulliset më shumë; lotari</td>
     </tr>
 
     <tr>
@@ -213,7 +213,7 @@ The next table shows the faucets with an hourly frequency of reward. We've added
        <td><a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a></td>
        <td><a href="/cointiply.com.html">Diskutim</a></td>
        <td>0.00100000 BTC</td>
-       <td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
+       <td>Vendi përdor monedhat e veta që përkthehen në BTC, duke e bërë atë rreth 0.00000050 BTC në orë, duke qenë pak mbi mesataren e vendeve të tjera të rubinetave.</td>
     </tr>
 
     <tr>
@@ -222,7 +222,7 @@ The next table shows the faucets with an hourly frequency of reward. We've added
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">FreeDoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">Diskutim</a></td>
        <td>50 DOGE</td>
-       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+       <td>Rreth 0.24 DOGE në orë, me një mundësi për të rrokulliset më shumë; Lottery.</td>
     </tr>
 
     <tr>
@@ -231,19 +231,19 @@ The next table shows the faucets with an hourly frequency of reward. We've added
        <td><a href="http://bit.ly/www-coinfaucet" target="_blank">CoinFaucet</a></td>
        <td><a href="/coinfaucet.io.html">Diskutim</a></td>
        <td>1.0 XRP</td>
-       <td>One claim per hour, around 0.00092500 Ripple (XPR) per claim. Similar interface and functions as freebitco.in.</td>
+       <td>Një pretendim në orë, rreth 0.00092500 Ripple (XPR) për kërkesë. Ndërfaqe dhe funksione të ngjashme si freebitco.in.</td>
     </tr>
 
  </table>
 </div>
 
 <p> </p>
-**Hidden gems**
+**Gems fshehur**
 
-Finally, here are the sites that are not typically assumed to be the faucet sites. Eobot is primarily a mining site, but you can do much more once you create your account. You can use the site as your digital wallet for a large variety of cryto coins. And also, the site has a free daily faucet. Similarly, MellowAds is not a faucet site but rather an ad agency, allowing you to buy and sell online ads. The site, however, gives you a free daily faucet rewarding anywhere between 500-3000 satoshi per claim. A 500 satoshi for a 10 second action -- now that's a "reward vs. effort" balance we're happy about!
+Së fundi, këtu janë faqet që zakonisht nuk supozohen të jenë rubinetat. Eobot është kryesisht një vend i minierave, por ju mund të bëni shumë më shumë sapo të krijoni llogarinë tuaj. Ju mund ta përdorni këtë faqe si portofolin tuaj dixhital për një larmi të madhe të monedhave të fshehta. Dhe gjithashtu, vendi ka një rubinet të lirë të përditshme. Në mënyrë të ngjashme, MellowAds nuk është një vend i rubinetit, por një agjenci reklamimi, që ju lejon të blini dhe shisni reklama online. Sidoqoftë, faqja ju jep një grumbull të përditshëm të lirë që shpërblehet diku midis 500-3000 satoshi për kërkesë. Një 500 satoshi për një aksion 10 sekondësh - tani kjo është një ekuilibër "shpërblimi vs përpjekje" që ne jemi të lumtur!
 
 <div class="table-users">
- <div class="header">Claim once per day</div>
+ <div class="header">Kërkoni një herë në ditë</div>
 
  <table cellspacing="0">
     <tr>
@@ -261,7 +261,7 @@ Finally, here are the sites that are not typically assumed to be the faucet site
        <td><a href="http://bit.ly/www-eobot" target="_blank">eobot</a></td>
        <td><a href="/eobot.com.html">Diskutim</a></td>
        <td>0.00200000 BTC</td>
-       <td>Claim once per day circa 0.00000140 BTC; Primarily is an exchange and mining site</td>
+       <td>Claim një herë në ditë rreth 0.00000140 BTC; Kryesisht është një vend i këmbimit dhe minierave</td>
     </tr>
 
     <tr>
@@ -270,7 +270,7 @@ Finally, here are the sites that are not typically assumed to be the faucet site
        <td><a href="http://bit.ly/www-mellowads" target="_blank">MellowAds</a></td>
        <td><a href="/mellowads.com.html">Diskutim</a></td>
        <td>n/a</td>
-       <td>Claim once per day 0.00000500-0.00003000 BTC; Is an advertising platform (buy and sell ads), but gives you a free faucet; Use funds for ads</td>
+       <td>Kërkesa një herë në ditë 0.00000500-0.00003000 BTC; Është një platformë reklamimi (blej dhe shes reklama), por ju jep një rubinet falas; Përdor fondet për reklama</td>
     </tr>
 
  </table>
@@ -278,11 +278,11 @@ Finally, here are the sites that are not typically assumed to be the faucet site
 
 
 <p> </p>
-**Help us manage this website**
+**Na ndihmoni të menaxhojmë këtë faqe interneti**
 
-As you register at the faucets we recommend and build a portfolio of faucets you use regularly, e.g. 5 sites that you go once per hour and claim from, you'll want to increase your earnings by referring people to the same sites you use via your referral ID. Help us to co-manage <i>all-faucets.com</i> and we'll put YOUR referral ID to the pages of this site. <a href="your-page.html">Read more</a> about co-management.
+Kur të regjistroheni në rubinet, ne rekomandojmë dhe ndërtojmë një portofol të rubineve që përdorni rregullisht, p.sh. 5 vende që shkoni një herë në orë dhe kërkoni nga, do të doni të rritni fitimet tuaja duke i referuar njerëzit në të njëjtët faqe që përdorni përmes ID-së së referimit tuaj. Na ndihmoni që të bashkë-menaxhojmë <i>all-faucets.com</i> dhe ne do të vendosim ID-në tuaj të referimit në faqet e kësaj faqeje. <a href="/your-page.html">Lexo më shumë</a> rreth bashkë-menaxhimit.
 
 ---
 #### Social
 
-Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms! And also, say <i>hi</i> in <a href="chat.html">our chat</a>!
+Faleminderit për vizitën në këtë faqe. Nëse e keni gjetur të dobishme, ju lutem ndani atë me miqtë tuaj në platformat tuaja të preferuara të mediave sociale! Dhe gjithashtu, përshëndetje në <a href="/chat.html">chat tonë</a>!
