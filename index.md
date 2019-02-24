@@ -34,7 +34,7 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
     </tr>
 
     <tr>
-       <td>2</td>
+       <td>1</td>
        <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank"><img src="/assets/images/bitcoinsfor.me-thumb.png" alt="BitcoinsFor.me"/></a></td>
        <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">BitcoinsFor.me</a></td>
        <td><a href="/bitcoinsfor.me.html">Discussion</a></td>
@@ -43,7 +43,7 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
     </tr>
 
     <tr>
-       <td>3</td>
+       <td>2</td>
        <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank"><img src="/assets/images/trustbtcfaucet.com-thumb.png" alt="TrustBTCFaucet"/></a></td>
        <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a></td>
        <td><a href="/trustbtcfaucet.com.html">Discussion</a></td>
@@ -53,20 +53,11 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
 
     <tr>
        <td>4</td>
-       <td><a href="http://bit.ly/www-bitnyx" target="_blank"><img src="/assets/images/bitnyx.com-thumb.png" alt="Bitnyx"/></a></td>
-       <td><a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a></td>
-       <td><a href="/bitnyx.com.html">Discussion</a></td>
-       <td>0.00025000 BTC</td>
-       <td>Up to 0.00000030 BTC every 30 minutes, randomized; Possibility to win 0.00100000 BTC weekly</td>
-    </tr>
-
-    <tr>
-       <td>6</td>
        <td><a href="http://bit.ly/sato-host" target="_blank"><img src="/assets/images/sato.host-thumb.png" alt="Sato"/></a></td>
        <td><a href="http://bit.ly/sato-host" target="_blank">Sato</a></td>
        <td><a href="/sato.host.html">Discussion</a></td>
        <td>no min</td>
-       <td>Facet amount changes weekly, circa 0.00000200 BTC; Read more on <a href="/sato.host.html">discussion</a> page</td>
+       <td>0.00000020 BTC per claim; Wait for "Login" button! Read more on <a href="/sato.host.html">discussion</a> page</td>
     </tr>
 
  </table>
