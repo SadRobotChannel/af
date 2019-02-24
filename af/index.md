@@ -87,7 +87,7 @@ Elke kraanwerf beloon jou anders. Die meeste van die webwerwe kan self as gevolg
        <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a></td>
        <td><a href="/febbit.com.html">Bespreking</a></td>
        <td>0.00001000 BTC</td>
-       <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. Interaction frequency depends on your level.</td>
+       <td>'N leser-gebaseerde spel. Jy vergelyk 'n monster wat bietjie mines maak. Nie werklike mynbou nie, net simulasie. Interaksie frekwensie hang af van jou vlak.</td>
     </tr>
 
     <tr>
@@ -96,7 +96,7 @@ Elke kraanwerf beloon jou anders. Die meeste van die webwerwe kan self as gevolg
        <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">BonusBitcoin</a></td>
        <td><a href="/bonusbitcoin.co.html">Bespreking</a></td>
        <td>0.00010000 BTC</td>
-       <td>Random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for a 15 min interval.</td>
+       <td>Willekeurige beloning tot 0.00005000 BTC, werklike gemiddelde is 0.00000050 BTC, wat baie goed is vir 'n 15 minute interval.</td>
     </tr>
 
     <tr>
@@ -105,19 +105,19 @@ Elke kraanwerf beloon jou anders. Die meeste van die webwerwe kan self as gevolg
        <td><a href="http://bit.ly/www-allcoins" target="_blank">Allcoins</a></td>
        <td><a href="/allcoins.pw.html">Bespreking</a></td>
        <td>no min</td>
-       <td>0.00000005 BTC; Also: Games; Mining; Offers; Multicurrency support</td>
+       <td>0.00000005 BTC; Ook: Speletjies; mynbou; Aanbiedinge; Multicurrency ondersteuning</td>
     </tr>
 
  </table>
 </div>
 
 <p> </p>
-**Don't gamble**
+**Moenie dobbel nie**
 
-While many sites live from their ads, some are also making money by offering games and gambling services. While there's a solid chance of winning when you gamble, similarly as in a casino, in the long term you'll always loose. The house always stays profitable. And so we do not discuss gambling on this site and generally do not recommend it.
+Terwyl baie webwerwe van hul advertensies bly, maak sommige ook geld deur speletjies en dobbeldienste aan te bied. Alhoewel daar 'n goeie kans is om te wen wanneer jy dobbel, soos in 'n casino, sal jy altyd verloor. Die huis bly altyd winsgewend. En daarom bespreek ons ​​nie dobbelary op hierdie webwerf nie en beveel dit gewoonlik nie aan nie.
 
 <div class="table-users">
- <div class="header">Claim every 30 minutes</div>
+ <div class="header">Eis elke 30 minute</div>
 
  <table cellspacing="0">
     <tr>
@@ -135,19 +135,19 @@ While many sites live from their ads, some are also making money by offering gam
        <td><a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a></td>
        <td><a href="/bitnyx.com.html">Discussion</a></td>
        <td>0.00025000 BTC</td>
-       <td>Up to 0.00000030 BTC randomized; Possibility to win 0.00100000 BTC weekly</td>
+       <td>Tot 0.00000030 BTC gerandomiseerde; Mogelijkheid om 0,00100000 BTC per week te wen</td>
     </tr>
 
  </table>
 </div>
 
 <p> </p>
-**FaucetHub and CoinPot**
+**FaucetHub en CoinPot**
 
-These two faucet sites are in a category of its own. They are transaction brokers - a middleman between you and other faucet sites. For several of the faucets you are required to have either a FaucetHub or a CoinPot account. The digital wallets you generate on these websites reduce or completely eliminate the transaction fees to transfer money from a faucet to yourself. They are your friends.
+Hierdie twee kraanwebwerwe is in 'n kategorie van eie. Hulle is transaksiemakelaars - 'n tussenpersoon tussen jou en ander kraanwebwerwe. Vir verskeie van die kraan moet u 'n FaucetHub of 'n CoinPot-rekening hê. Die digitale beursies wat jy op hierdie webwerwe genereer, verminder of heeltemal die transaksiefooie uitskakel om geld van 'n kraan na jouself oor te dra. Hulle is jou vriende.
 
 <div class="table-users">
- <div class="header">Faucet Gateways</div>
+ <div class="header">Kraan Gateways</div>
 
  <table cellspacing="0">
     <tr>
@@ -165,7 +165,7 @@ These two faucet sites are in a category of its own. They are transaction broker
        <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a></td>
        <td><a href="/faucethub.io.html">Discussion</a></td>
        <td>0.00020000 BTC</td>
-       <td>Gateway to other faucets. Registering digital wallets on Faucethub is a prerequisite for many faucets sites.</td>
+       <td>Gateway na ander kraan. Die registrasie van digitale beursies op Faucethub is 'n voorvereiste vir baie krane.</td>
     </tr>
 
     <tr>
@@ -174,19 +174,19 @@ These two faucet sites are in a category of its own. They are transaction broker
        <td><a href="http://coinpot.co" target="_blank">CoinPot</a></td>
        <td><a href="/coinpot.com.html">Discussion</a></td>
        <td>0.00010000 BTC</td>
-       <td>You will not be able to claim directly on this site, but rather on the site's affiliate, such as BonusBitcoin.</td>
+       <td>Jy sal nie direk op hierdie webwerf kan eis nie, maar eerder op die webwerf se geaffilieerde, soos BonusBitcoin.</td>
     </tr>
 
  </table>
 </div>
 
 <p> </p>
-**Not just Bitcoin!**
+**Nie net Bitcoin nie!**
 
-The next table shows the faucets with an hourly frequency of reward. We've added two more non-bitcoin faucets here - a Doge and a Ripple (XPR) faucet. Don't put all your eggs in one basket, the old saying goes. And even if you do prefer just one currency, you can easily convert digital currencies on sites like Eobot.
+Die volgende tabel toon die kraan met 'n uurlikse frekwensie van beloning. Ons het hier nog twee nie-bietjie krane bygevoeg - 'n Doge en 'n Ripple (XPR) kraan. Moenie al jou eiers in een mandjie sit nie, die ou gesegde lui. En selfs as jy net een geldeenheid verkies, kan jy maklik digitale geldeenhede op sites soos Eobot omskep.
 
 <div class="table-users">
- <div class="header">Claim every 60 minutes</div>
+ <div class="header">Eis elke 60 minute</div>
 
  <table cellspacing="0">
     <tr>
@@ -204,7 +204,7 @@ The next table shows the faucets with an hourly frequency of reward. We've added
        <td><a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a></td>
        <td><a href="/freebitco.in.html">Discussion</a></td>
        <td>0.00003000 BTC</td>
-       <td>0.00000040 BTC per hour, with a possibility to roll more; Lottery</td>
+       <td>0.00000040 BTC per uur, met die moontlikheid om meer te rol; Lotery</td>
     </tr>
 
     <tr>
@@ -213,7 +213,7 @@ The next table shows the faucets with an hourly frequency of reward. We've added
        <td><a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a></td>
        <td><a href="/cointiply.com.html">Discussion</a></td>
        <td>0.00100000 BTC</td>
-       <td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
+       <td>Die webwerf gebruik sy eie munte wat vertaal in BTC, wat dit ongeveer 0.00000050 BTC per uur maak, wat 'n bietjie bo die gemiddelde van ander kraanwebwerwe is.</td>
     </tr>
 
     <tr>
@@ -222,7 +222,7 @@ The next table shows the faucets with an hourly frequency of reward. We've added
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">FreeDoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
        <td>50 DOGE</td>
-       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+       <td>Ongeveer 0,24 DOGE per uur, met die moontlikheid om meer te rol; Lotery.</td>
     </tr>
 
     <tr>
@@ -231,19 +231,19 @@ The next table shows the faucets with an hourly frequency of reward. We've added
        <td><a href="http://bit.ly/www-coinfaucet" target="_blank">CoinFaucet</a></td>
        <td><a href="/coinfaucet.io.html">Discussion</a></td>
        <td>1.0 XRP</td>
-       <td>One claim per hour, around 0.00092500 Ripple (XPR) per claim. Similar interface and functions as freebitco.in.</td>
+       <td>Een eis per uur, ongeveer 0.00092500 Ripple (XPR) per eis. Soortgelyke koppelvlak en funksioneer as freebitco.in.</td>
     </tr>
 
  </table>
 </div>
 
 <p> </p>
-**Hidden gems**
+**Versteekte juwele**
 
-Finally, here are the sites that are not typically assumed to be the faucet sites. Eobot is primarily a mining site, but you can do much more once you create your account. You can use the site as your digital wallet for a large variety of cryto coins. And also, the site has a free daily faucet. Similarly, MellowAds is not a faucet site but rather an ad agency, allowing you to buy and sell online ads. The site, however, gives you a free daily faucet rewarding anywhere between 500-3000 satoshi per claim. A 500 satoshi for a 10 second action -- now that's a "reward vs. effort" balance we're happy about!
+Laastens, hier is die webwerwe wat nie tipies aangeneem word as die kraanwerwe nie. Eobot is hoofsaaklik 'n mynwerf, maar jy kan baie meer doen sodra jy jou rekening skep. Jy kan die webwerf as jou digitale beursie gebruik vir 'n groot verskeidenheid van cryto-munte. En ook, die webwerf het 'n gratis daaglikse kraan. Net so, MellowAds is nie 'n kraanwerf nie, maar eerder 'n advertensieagentskap, wat jou toelaat om aanlyn-advertensies te koop en te verkoop. Die webwerf gee jou egter 'n gratis daaglikse kraan wat tussen 500-3000 satoshi per eis beloon. 'N 500 satoshi vir 'n 10 sekonde aksie - nou is dit 'n "beloning vs poging" balans ons is gelukkig oor!
 
 <div class="table-users">
- <div class="header">Claim once per day</div>
+ <div class="header">Eis een keer per dag</div>
 
  <table cellspacing="0">
     <tr>
@@ -261,7 +261,7 @@ Finally, here are the sites that are not typically assumed to be the faucet site
        <td><a href="http://bit.ly/www-eobot" target="_blank">eobot</a></td>
        <td><a href="/eobot.com.html">Discussion</a></td>
        <td>0.00200000 BTC</td>
-       <td>Claim once per day circa 0.00000140 BTC; Primarily is an exchange and mining site</td>
+       <td>Eis een keer per dag ongeveer 0.00000140 BTC; Hoofsaaklik is 'n ruil- en mynbou-terrein</td>
     </tr>
 
     <tr>
@@ -270,7 +270,7 @@ Finally, here are the sites that are not typically assumed to be the faucet site
        <td><a href="http://bit.ly/www-mellowads" target="_blank">MellowAds</a></td>
        <td><a href="/mellowads.com.html">Discussion</a></td>
        <td>n/a</td>
-       <td>Claim once per day 0.00000500-0.00003000 BTC; Is an advertising platform (buy and sell ads), but gives you a free faucet; Use funds for ads</td>
+       <td>Eis een keer per dag 0.00000500-0.00003000 BTC; Is 'n advertensie platform (koop en verkoop advertensies), maar gee jou 'n gratis kraan; Gebruik fondse vir advertensies</td>
     </tr>
 
  </table>
@@ -278,11 +278,12 @@ Finally, here are the sites that are not typically assumed to be the faucet site
 
 
 <p> </p>
-**Help us manage this website**
+**Help ons om hierdie webwerf te bestuur**
 
-As you register at the faucets we recommend and build a portfolio of faucets you use regularly, e.g. 5 sites that you go once per hour and claim from, you'll want to increase your earnings by referring people to the same sites you use via your referral ID. Help us to co-manage <i>all-faucets.com</i> and we'll put YOUR referral ID to the pages of this site. <a href="your-page.html">Read more</a> about co-management.
+Soos u by die kraan registreer, beveel ons aan en bou 'n portefeulje krane wat u gereeld gebruik, bv. 5 webwerwe wat jy een keer per uur gaan eis en aanspraak maak op, sal jy jou verdienste wil verhoog deur mense na dieselfde plekke te verwys as wat jy met jou verwysings ID gebruik. Help ons om <i> all-faucets.com </ i> saam te bestuur en ons sal jou verwysings ID op die bladsye van hierdie werf plaas. <a href="/af/your-page.html"> Lees meer </a> oor medebestuur.
 
 ---
-#### Social
+#### Sosiale
 
-Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms! And also, say <i>hi</i> in <a href="chat.html">our chat</a>!
+Dankie dat jy hierdie webwerf besoek het. As jy dit nuttig vind, deel dit asseblief met jou vriende op jou gunsteling sosiale media platforms! En ook, sê
+<i>hi</i> in <a href="chat.html">ons klets</a>!
