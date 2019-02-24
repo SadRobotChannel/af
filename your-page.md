@@ -8,7 +8,7 @@ desc: Do you use crypto faucets? Do you like writing? Write and own a faucet "ho
 URL: http://www.all-faucets.com/your-page.html
 ---
 
-**Become a contributor. Own a page.**
+**Co-management. Become a contributor.**
 
 As you have noticed, some pages are administered by different people and we'd love to involve YOU! You can own an existing page for a faucet and use your reference ID with the link on both 1) our main page (the table with all faucets) and 2) the individual page you'll own.
 
