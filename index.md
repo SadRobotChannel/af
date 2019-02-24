@@ -160,7 +160,7 @@ These two faucet sites are in a category of its own. They are transaction broker
     </tr>
 
     <tr>
-       <td>5</td>
+       <td>8</td>
        <td><a href="http://bit.ly/www-faucethub" target="_blank"><img src="/assets/images/faucethub.io-thumb.png" alt="FaucetHub"/></a></td>
        <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a></td>
        <td><a href="/faucethub.io.html">Discussion</a></td>
@@ -169,12 +169,12 @@ These two faucet sites are in a category of its own. They are transaction broker
     </tr>
 
     <tr>
-       <td>11</td>
+       <td>9</td>
        <td><a href="http://coinpot.co" target="_blank"><img src="/assets/images/cointiply.com-thumb.png" alt="CoinPot"/></a></td>
        <td><a href="http://coinpot.co" target="_blank">CoinPot</a></td>
        <td><a href="/coinpot.com.html">Discussion</a></td>
        <td>0.00010000 BTC</td>
-       <td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
+       <td>You will not be able to claim directly on this site, but rather on the site's affiliate, such as BonusBitcoin.</td>
     </tr>
 
  </table>
@@ -199,7 +199,7 @@ As you register at the faucets we recommend and build a portfolio of faucets you
     </tr>
 
     <tr>
-       <td>1</td>
+       <td>10</td>
        <td><a href="http://bit.ly/www-freebitcoin" target="_blank"><img src="/assets/images/freebitco.in-thumb.png" alt="FreeBitco.in"/></a></td>
        <td><a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a></td>
        <td><a href="/freebitco.in.html">Discussion</a></td>
@@ -236,7 +236,7 @@ As you register at the faucets we recommend and build a portfolio of faucets you
     </tr>
 
     <tr>
-       <td>7</td>
+       <td>12</td>
        <td><a href="http://bit.ly/www-eobot" target="_blank"><img src="/assets/images/eobot.com-thumb.png" alt="eobot"/></a></td>
        <td><a href="http://bit.ly/www-eobot" target="_blank">eobot</a></td>
        <td><a href="/eobot.com.html">Discussion</a></td>
@@ -245,7 +245,7 @@ As you register at the faucets we recommend and build a portfolio of faucets you
     </tr>
 
     <tr>
-       <td>8</td>
+       <td>13</td>
        <td><a href="http://bit.ly/www-mellowads" target="_blank"><img src="/assets/images/mellowads.com-thumb.png" alt="MellowAds"/></a></td>
        <td><a href="http://bit.ly/www-mellowads" target="_blank">MellowAds</a></td>
        <td><a href="/mellowads.com.html">Discussion</a></td>
