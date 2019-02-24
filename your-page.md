@@ -2,6 +2,10 @@
 layout: page
 title: Make it Yours!
 comments: true
+img: http://www.all-faucets.com/assets/images/a-ads.com-01.png
+alt: Write and own a faucet "how-to" page and earn money.
+desc: Do you use crypto faucets? Do you like writing? Write and own a faucet "how-to" page and earn money from ads and your own Ref Id!
+URL: http://www.all-faucets.com/your-page.html
 ---
 
 **Become a contributor. Own a page.**
@@ -26,6 +30,5 @@ Here are the steps to create an ad unit:
 
 1. Create an account with <a target="_blank" href='http://bit.ly/www-a-ads'>A-Ads</a>.
 2. Your site will be the ULR of your page, e.g. http://www.all-faucets.com/faucet-name.com.html
-3. in A-Ads create on <i>Earn</i> and create an add-unit with 990x90 size. (This is also where you will put )
-your site URL from step 2.
+3. in A-Ads create on <i>Earn</i> and create an add-unit with 990x90 size. This is also where you will put your site URL from step 2.
 3. Email me the code of your ad unit, and I will add it to your page. My email: CryptoPayoff@gmail.com
