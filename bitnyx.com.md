@@ -14,11 +14,11 @@ This is how it looks. The <i>Faucet</i> page is essentially a grid of ads, with 
 <p> </p>
 <p><img src="/assets/images/bitnyx.com-01.png" border="0"></p>
 <p> </p>
-Speaking of transparency, on the right are the amounts the active users manage to claim per week. You can see the range is about 0.00005000 - 0.00005700 BTC per week. Remember, then top person also receives a bonus of 0.00100000 BTC! On the left you can see some top withdrawals with very decent amounts.
+Speaking of transparency, on the right are the amounts the active users manage to claim per week. You can see the range is about 0.00005000 - 0.00005700 BTC per week. Remember that the top person also receives a bonus of 0.00100000 BTC! On the left you can see some top withdrawals with very decent amounts.
 <p> </p>
 <p><img src="/assets/images/bitnyx.com-02.png" border="0"></p>
 <p> </p>
-As with most of the faucet sites, you're also able to make money referring people, a which is hard a but rewarding task!
+As with most of the faucet sites, you're also able to make money referring people, a which is a hard a but rewarding task!
 
 ---
 #### Make it yours!
