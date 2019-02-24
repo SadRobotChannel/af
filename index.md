@@ -62,13 +62,10 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
 
  </table>
 </div>
+<p> </p>
+**Amount of reward and easibility of use**
 
-**Amount of reward and easibility of usage**
-
-Each faucet site rewards you differently. Most of the sites are able to sustain itself due to advertisement, but when the ads are excessive or try to confuse you, you end-up wasting too much time on the site, and finally never come back to it. We try to list only the "cleanest" sites, where you spend literarily 10-15 seconds per faucet claim. And these 10-15 seconds are rewarded anywhere from 10-100 satoshi, depending on the site. The information about the value of faucet sites is listed in the tables below, as well as under the <i>Discussion</i> pages for each site, where we try to offer some helpful hints.
-<p>
-While many sites live from their ads, some are also making money by offering games and gambling services. While there's a solid chance of winning when you gamble, similarly as in a casino, in the long term you'll always loose. The house always stays profitable. And so we do not discuss gambling on this site and generally do not recommend it.
-
+Each faucet site rewards you differently. Most of the sites are able to sustain itself due to advertisement, but when the ads are excessive or try to confuse you, you end-up wasting too much time on the site, and finally never come back to it. We try to list only the "cleanest" sites, where you spend literarily 10-15 seconds per faucet claim. And these 10-15 seconds are rewarded anywhere from 10-100 satoshi, depending on the site. The information about the value of faucet sites is listed in the tables on this page, as well as under the <i>Discussion</i> pages for each site, where we try to offer some helpful hints.
 
 <div class="table-users">
  <div class="header">Claim every 15 minutes</div>
@@ -112,6 +109,37 @@ While many sites live from their ads, some are also making money by offering gam
 
  </table>
 </div>
+
+<p> </p>
+**Don't gamble**
+While many sites live from their ads, some are also making money by offering games and gambling services. While there's a solid chance of winning when you gamble, similarly as in a casino, in the long term you'll always loose. The house always stays profitable. And so we do not discuss gambling on this site and generally do not recommend it.
+
+<div class="table-users">
+ <div class="header">Claim every 30 minutes</div>
+
+ <table cellspacing="0">
+    <tr>
+       <th><center>#</center></th>
+       <th><center>Site</center></th>
+       <th><center>Faucet Name</center></th>
+       <th><center>Info</center></th>
+       <th><center>Min. Withdrawal</center></th>
+       <th width="230"><center>Value</center></th>
+    </tr>
+
+    <tr>
+       <td>4</td>
+       <td><a href="http://bit.ly/www-bitnyx" target="_blank"><img src="/assets/images/bitnyx.com-thumb.png" alt="Bitnyx"/></a></td>
+       <td><a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a></td>
+       <td><a href="/bitnyx.com.html">Discussion</a></td>
+       <td>0.00025000 BTC</td>
+       <td>Up to 0.00000030 BTC every 30 minutes, randomized; Possibility to win 0.00100000 BTC weekly</td>
+    </tr>
+
+ </table>
+</div>
+
+
 
 <div class="table-users">
  <div class="header">Bitcoin Faucets</div>
