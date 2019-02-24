@@ -238,7 +238,9 @@ The next table shows the faucets with an hourly frequency of reward. We've added
 </div>
 
 <p> </p>
+**Hidden gems**
 
+Finally, here are the sites that are not typically assumed to be the faucet sites. Eobot is primarily a mining site, but you can do much more once you create your account. You can use the site as your digital wallet for a large variety of cryto coins. And also, the site has a free daily faucet. Similarly, MellowAds is not a faucet site but rather an ad agency, allowing you to buy and sell online ads. The site, however, gives you a free daily faucet rewarding anywhere between 500-3000 satoshi per claim. A 500 satoshi for a 10 second action -- now that's a "reward vs. effort" balance we're happy about!
 
 <div class="table-users">
  <div class="header">Claim once per day</div>
