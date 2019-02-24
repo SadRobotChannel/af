@@ -183,7 +183,7 @@ These two faucet sites are in a category of its own. They are transaction broker
 <p> </p>
 **Not just Bitcoin!**
 
-The next table shows the faucets with an hourly frequency of reward. We've added two more non-bitcoin faucets here - a Doge and a Ripple (XPR) faucet. Don't put all your eggs in one basket, the saying goes. And even if you do prefer just one currency, you can easily convert digital currencies on sites like Eobot.
+The next table shows the faucets with an hourly frequency of reward. We've added two more non-bitcoin faucets here - a Doge and a Ripple (XPR) faucet. Don't put all your eggs in one basket, the old saying goes. And even if you do prefer just one currency, you can easily convert digital currencies on sites like Eobot.
 
 <div class="table-users">
  <div class="header">Claim every 60 minutes</div>
@@ -217,7 +217,7 @@ The next table shows the faucets with an hourly frequency of reward. We've added
     </tr>
 
     <tr>
-       <td>13</td>
+       <td>12</td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="FreeDoge.co.in"/></a></td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">FreeDoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
@@ -226,7 +226,7 @@ The next table shows the faucets with an hourly frequency of reward. We've added
     </tr>
 
     <tr>
-       <td>14</td>
+       <td>13</td>
        <td><a href="http://bit.ly/www-coinfaucet" target="_blank"><img src="/assets/images/coinfaucet.io-thumb.png" alt="CoinFaucet.io"/></a></td>
        <td><a href="http://bit.ly/www-coinfaucet" target="_blank">CoinFaucet</a></td>
        <td><a href="/coinfaucet.io.html">Discussion</a></td>
