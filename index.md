@@ -39,7 +39,7 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
        <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">BitcoinsFor.me</a></td>
        <td><a href="/bitcoinsfor.me.html">Discussion</a></td>
        <td>0.00000500 BTC</td>
-       <td>0.00000010 BTC; Also: free hourly Slots Roll; Offer Wall, etc</td>
+       <td>0.00000010 BTC; Also: Free hourly Slots Roll; Offer Wall, etc</td>
     </tr>
 
     <tr>
@@ -135,7 +135,7 @@ While many sites live from their ads, some are also making money by offering gam
        <td><a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a></td>
        <td><a href="/bitnyx.com.html">Discussion</a></td>
        <td>0.00025000 BTC</td>
-       <td>Up to 0.00000030 BTC every 30 minutes, randomized; Possibility to win 0.00100000 BTC weekly</td>
+       <td>Up to 0.00000030 BTC randomized; Possibility to win 0.00100000 BTC weekly</td>
     </tr>
 
  </table>
