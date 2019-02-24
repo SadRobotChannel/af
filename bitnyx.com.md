@@ -10,7 +10,11 @@ The site has just two features and both of them are well implemented:
 1. The main faucet page, allowing you to claim up to 30 satoshi per 30 minutes.
 2. A natural ranking of the people who claimed the most per week, and a weekly price of 0.00100000 BTC to the winner.
 
-This is how it looks:
+This is how it looks. The <i>Faucet</i> page is essentially a grid of ads, with a Faucet button in the middle. With one click you claim your reward, and then wait 30 minutes to click again. And so on. No tricks, no pop-ups.
+<p> </p>
+<p><img src="/assets/images/bitnyx.com-01.png" border="0"></p>
+<p> </p>
+
 
 ---
 #### Make it yours!
