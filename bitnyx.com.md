@@ -10,11 +10,15 @@ The site has just two features and both of them are well implemented:
 1. The main faucet page, allowing you to claim up to 30 satoshi every 30 minutes.
 2. A natural ranking of the people who claimed the most per week, and a weekly price of 0.00100000 BTC to the winner.
 
-This is how it looks. The <i>Faucet</i> page is essentially a grid of ads, with a Faucet button in the middle. With one click you claim your reward, and then wait 30 minutes to click again. And so on. No tricks, no pop-ups.
+This is how it looks. The <i>Faucet</i> page is essentially a grid of ads, with a Faucet button in the middle.
 <p> </p>
 <p><img src="/assets/images/bitnyx.com-01.png" border="0"></p>
 <p> </p>
-Speaking of transparency, on the right are the amounts the active users manage to claim per week. You can see the range is about 0.00005000 - 0.00005700 BTC per week. Remember that the top person also receives a bonus of 0.00100000 BTC! On the left you can see some top withdrawals with very decent amounts.
+With one click you claim your reward, and then wait 30 minutes to click again. And so on. No tricks, no pop-ups.
+<p> </p>
+<p><img src="/assets/images/bitnyx.com-03.png" border="0"></p>
+<p> </p>
+Speaking of transparency, see image below. On the right are the amounts the active users manage to claim per week. You can see the range is about 0.00005000 - 0.00005700 BTC per week. Remember that the top person also receives a bonus of 0.00100000 BTC! On the left you can see some top withdrawals with very decent amounts.
 <p> </p>
 <p><img src="/assets/images/bitnyx.com-02.png" border="0"></p>
 <p> </p>
