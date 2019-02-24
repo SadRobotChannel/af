@@ -30,5 +30,5 @@ Hier volg die stappe om 'n advertensie-eenheid te skep:
 
 1. Skep 'n rekening met <a target="_blank" href="http://bit.ly/www-a-ads">A-Ads</a>.
 2. Jou webwerf sal die ULR van jou bladsy wees, bv. http://www.all-faucets.com/faucet-name.com.html
-3. In A-Ads maak <i>Verdien</ i> en maak 'n add-eenheid met 990x90-grootte. Dit is ook waar jy jou webwerf se URL van stap 2 sal plaas. <a href="/assets/images/a-ads.com-01.png">Screenshot</a>.
+3. In A-Ads maak <i>Verdien</i> en maak 'n add-eenheid met 990x90-grootte. Dit is ook waar jy jou webwerf se URL van stap 2 sal plaas. <a href="/assets/images/a-ads.com-01.png">Screenshot</a>.
 3. E-pos my die kode van jou advertensie-eenheid, en ek sal dit by jou bladsy voeg. My e-pos: CryptoPayoff@gmail.com
