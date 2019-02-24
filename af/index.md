@@ -286,4 +286,4 @@ Soos u by die kraan registreer, beveel ons aan en bou 'n portefeulje krane wat u
 #### Sosiale
 
 Dankie dat jy hierdie webwerf besoek het. As jy dit nuttig vind, deel dit asseblief met jou vriende op jou gunsteling sosiale media platforms! En ook, sê
-<i>hi</i> in <a href="chat.html">ons klets</a>!
+<i>hi</i> in <a href="/chat.html">ons klets</a>!
