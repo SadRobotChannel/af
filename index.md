@@ -147,7 +147,7 @@ While many sites live from their ads, some are also making money by offering gam
 As you register at the faucets we recommend and build a portfolio of faucets you use regularly, e.g. 5 sites that you go once per hour and claim from, you'll want to increase your earnings by referring people to the same sites you use via your referral ID. Help us to co-manage <i>all-faucets.com</i> and we'll put YOUR referral ID to the pages of this site. <a href="your-page.html">Read more</a> about co-management.
 
 <div class="table-users">
- <div class="header">Claim every 60 minutes<</div>
+ <div class="header">Claim every 60 minutes</div>
 
  <table cellspacing="0">
     <tr>
@@ -178,6 +178,34 @@ As you register at the faucets we recommend and build a portfolio of faucets you
     </tr>
 
     <tr>
+       <td>11</td>
+       <td><a href="http://bit.ly/www-cointiply" target="_blank"><img src="/assets/images/cointiply.com-thumb.png" alt="Cointiply"/></a></td>
+       <td><a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a></td>
+       <td><a href="/cointiply.com.html">Discussion</a></td>
+       <td>0.00100000 BTC</td>
+       <td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
+    </tr>
+
+ </table>
+</div>
+
+<p> </p>
+
+
+<div class="table-users">
+ <div class="header">Claim once per day</div>
+
+ <table cellspacing="0">
+    <tr>
+       <th><center>#</center></th>
+       <th><center>Site</center></th>
+       <th><center>Faucet Name</center></th>
+       <th><center>Info</center></th>
+       <th><center>Min. Withdrawal</center></th>
+       <th width="230"><center>Value</center></th>
+    </tr>
+
+    <tr>
        <td>7</td>
        <td><a href="http://bit.ly/www-eobot" target="_blank"><img src="/assets/images/eobot.com-thumb.png" alt="eobot"/></a></td>
        <td><a href="http://bit.ly/www-eobot" target="_blank">eobot</a></td>
@@ -193,15 +221,6 @@ As you register at the faucets we recommend and build a portfolio of faucets you
        <td><a href="/mellowads.com.html">Discussion</a></td>
        <td>n/a</td>
        <td>Claim once per day 0.00000500-0.00003000 BTC; Is an advertising platform (buy and sell ads), but gives you a free faucet; Use funds for ads</td>
-    </tr>
-
-    <tr>
-       <td>11</td>
-       <td><a href="http://bit.ly/www-cointiply" target="_blank"><img src="/assets/images/cointiply.com-thumb.png" alt="Cointiply"/></a></td>
-       <td><a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a></td>
-       <td><a href="/cointiply.com.html">Discussion</a></td>
-       <td>0.00100000 BTC</td>
-       <td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
     </tr>
 
  </table>
