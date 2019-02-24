@@ -256,7 +256,7 @@ Finally, here are the sites that are not typically assumed to be the faucet site
     </tr>
 
     <tr>
-       <td>12</td>
+       <td>14</td>
        <td><a href="http://bit.ly/www-eobot" target="_blank"><img src="/assets/images/eobot.com-thumb.png" alt="eobot"/></a></td>
        <td><a href="http://bit.ly/www-eobot" target="_blank">eobot</a></td>
        <td><a href="/eobot.com.html">Discussion</a></td>
@@ -265,7 +265,7 @@ Finally, here are the sites that are not typically assumed to be the faucet site
     </tr>
 
     <tr>
-       <td>13</td>
+       <td>15</td>
        <td><a href="http://bit.ly/www-mellowads" target="_blank"><img src="/assets/images/mellowads.com-thumb.png" alt="MellowAds"/></a></td>
        <td><a href="http://bit.ly/www-mellowads" target="_blank">MellowAds</a></td>
        <td><a href="/mellowads.com.html">Discussion</a></td>
