@@ -12,9 +12,71 @@ URL: http://www.all-faucets.com/index.html
 
 Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in an exchange for completing a captcha or tasks described by the websites. We list the best faucet sites.
 
-**Work in Progress**
+**Getting started with bitcoin faucets**
 
-This is an unfinished project. There are over 500 cryptocurrency faucets on the Internet today. Our list is growing as we add only the faucets that are verified for their value and reputation.
+If you're new to crypto faucets this site is for you. There are <i>many</i> faucet sites on the Internet today, but our list is rather short, because we add only the faucets that are verified for their value and reputation. Usually people start trying-out faucets out of curiosity, or as a hobby, but with some knowledge and consistency such hobby can offer a reasonable income. Our goal is to share the knowledge and to enable you to earn digital currency in the way that suits your interests and your life-style.
+
+**Frequency of reward claim**
+
+The table below lists the faucet sites. It's split by the claim frequency. You "claim" from faucet by visiting a site and pressing a button dispensing free bitcoin or other tokens. And so, your preference may be an hourly period, where you refresh a faucet website on your device (computer, table or mobile) once per hour and get your reward, or daily, or even every 5 minutes.
+
+<div class="table-users">
+ <div class="header">Claim every 5 minutes/div>
+
+ <table cellspacing="0">
+    <tr>
+       <th><center>#</center></th>
+       <th><center>Site</center></th>
+       <th><center>Faucet Name</center></th>
+       <th><center>Info</center></th>
+       <th><center>Min. Withdrawal</center></th>
+       <th width="230"><center>Value</center></th>
+    </tr>
+
+    <tr>
+       <td>2</td>
+       <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank"><img src="/assets/images/bitcoinsfor.me-thumb.png" alt="BitcoinsFor.me"/></a></td>
+       <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">BitcoinsFor.me</a></td>
+       <td><a href="/bitcoinsfor.me.html">Discussion</a></td>
+       <td>0.00000500 BTC</td>
+       <td>0.00000010 BTC every 5 minutes; Free hourly Slots Roll; Offer Wall, etc</td>
+    </tr>
+
+    <tr>
+       <td>3</td>
+       <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank"><img src="/assets/images/trustbtcfaucet.com-thumb.png" alt="TrustBTCFaucet"/></a></td>
+       <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a></td>
+       <td><a href="/trustbtcfaucet.com.html">Discussion</a></td>
+       <td>0.00015000 BTC</td>
+       <td>From 0.00000003 to 0.00000888 BTC every 5 minutes, random; Loyalty Bonus; Daily interest</td>
+    </tr>
+
+    <tr>
+       <td>4</td>
+       <td><a href="http://bit.ly/www-bitnyx" target="_blank"><img src="/assets/images/bitnyx.com-thumb.png" alt="Bitnyx"/></a></td>
+       <td><a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a></td>
+       <td><a href="/bitnyx.com.html">Discussion</a></td>
+       <td>0.00025000 BTC</td>
+       <td>Up to 0.00000030 BTC every 30 minutes, randomized; Possibility to win 0.00100000 BTC weekly</td>
+    </tr>
+
+    <tr>
+       <td>6</td>
+       <td><a href="http://bit.ly/sato-host" target="_blank"><img src="/assets/images/sato.host-thumb.png" alt="Sato"/></a></td>
+       <td><a href="http://bit.ly/sato-host" target="_blank">Sato</a></td>
+       <td><a href="/sato.host.html">Discussion</a></td>
+       <td>no min</td>
+       <td>Facet amount changes weekly, circa 0.00000200 BTC; Read more on <a href="/sato.host.html">discussion</a> page</td>
+    </tr>
+
+ </table>
+</div>
+
+**Amount of reward and easibility of usage**
+
+Each faucet site rewards you differently. Most of the sites are able to sustain itself due to advertisement, but when the ads are excessive or try to confuse you, you end-up wasting too much time on the site, and finally never come back to it. We try to list only the "cleanest" sites, where you spend literarily 10-15 seconds per faucet claim. And these 10-15 seconds are rewarded anywhere from 10-100 satoshi, depending on the site. The information about the value of faucet sites is listed in the tables below, as well as under the <i>Discussion</i> pages for each site, where we try to offer some helpful hints.
+<p>
+While many sites live from their ads, some are also making money by offering games and gambling services. While there's a solid chance of winning when you gamble, similarly as in a casino, in the long term you'll always loose. The house always stays profitable. And so we do not discuss gambling on this site and generally do not recommend it.
 
 <div class="table-users">
  <div class="header">Bitcoin Faucets</div>
