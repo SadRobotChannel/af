@@ -52,7 +52,7 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
     </tr>
 
     <tr>
-       <td>4</td>
+       <td>3</td>
        <td><a href="http://bit.ly/sato-host" target="_blank"><img src="/assets/images/sato.host-thumb.png" alt="Sato"/></a></td>
        <td><a href="http://bit.ly/sato-host" target="_blank">Sato</a></td>
        <td><a href="/sato.host.html">Discussion</a></td>
