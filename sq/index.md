@@ -66,10 +66,10 @@ Tabela më poshtë tregon listat e rubinetave. Është e ndarë nga frekuenca e 
 <p> </p>
 **Amount of reward and easibility of use**
 
-Each faucet site rewards you differently. Most of the sites are able to sustain itself due to advertisement, but when the ads are excessive or try to confuse you, you end-up wasting too much time on the site, and finally never come back to it. We try to list only the "cleanest" sites, where you spend literarily 10-15 seconds per faucet claim. And these 10-15 seconds are rewarded anywhere from 10-100 satoshi, depending on the site. The information about the value of faucet sites is listed in the tables on this page, as well as under the <i></i> pages for each site, where we try to offer some helpful hints.
+Çdo vend rubineti ju shpërblen ndryshe. Shumica e vendeve janë në gjendje të mbajnë veten për shkak të reklamimit, por kur reklamat janë të tepruara ose përpiqen të ngatërrojnë, përfundon duke humbur shumë kohë në vend dhe më në fund nuk kthehet kurrë në të. Ne përpiqemi të rendisim vetëm vendet "më të pastra", ku ju kaloni literaturisht 10-15 sekonda për kërkesë rubineti. Dhe këto 10-15 sekonda shpërblehen diku nga 10-100 satoshi, në varësi të faqes. Informacioni rreth vlerës së rubinetave është renditur në tabelat në këtë faqe, si dhe në faqet e <i>Diskutimeve</i> për secilën faqe, ku përpiqemi të ofrojmë disa lëkime të dobishme.
 
 <div class="table-users">
- <div class="header">Claim every 15 minutes</div>
+ <div class="header">Pretendo çdo 15 minuta</div>
 
  <table cellspacing="0">
  <tr>
