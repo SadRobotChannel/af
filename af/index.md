@@ -37,7 +37,7 @@ In die tabel hieronder word die kraanwerwe genoem. Dit word verdeel deur die eis
        <td>1</td>
        <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank"><img src="/assets/images/bitcoinsfor.me-thumb.png" alt="BitcoinsFor.me"/></a></td>
        <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">BitcoinsFor.me</a></td>
-       <td><a href="/bitcoinsfor.me.html">Discussion</a></td>
+       <td><a href="/bitcoinsfor.me.html">Bespreking</a></td>
        <td>0.00000500 BTC</td>
        <td>0.00000010 BTC; Ook: Vry uurlikse Slots Roll; Offer Wall, ens</td>
     </tr>
@@ -46,7 +46,7 @@ In die tabel hieronder word die kraanwerwe genoem. Dit word verdeel deur die eis
        <td>2</td>
        <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank"><img src="/assets/images/trustbtcfaucet.com-thumb.png" alt="TrustBTCFaucet"/></a></td>
        <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a></td>
-       <td><a href="/trustbtcfaucet.com.html">Discussion</a></td>
+       <td><a href="/trustbtcfaucet.com.html">Bespreking</a></td>
        <td>0.00015000 BTC</td>
        <td>From 0.00000003 to 0.00000888 BTC ewekansige waarde; Ook: Lojaliteit Bonus; Daaglikse rente</td>
     </tr>
@@ -55,7 +55,7 @@ In die tabel hieronder word die kraanwerwe genoem. Dit word verdeel deur die eis
        <td>3</td>
        <td><a href="http://bit.ly/sato-host" target="_blank"><img src="/assets/images/sato.host-thumb.png" alt="Sato"/></a></td>
        <td><a href="http://bit.ly/sato-host" target="_blank">Sato</a></td>
-       <td><a href="/sato.host.html">Discussion</a></td>
+       <td><a href="/sato.host.html">Bespreking</a></td>
        <td>no min</td>
        <td>0.00000020 BTC per eis; Wag vir die "Teken" knoppie! Lees verder <a href="/sato.host.html">bespreking</a> bladsy</td>
     </tr>
@@ -64,12 +64,12 @@ In die tabel hieronder word die kraanwerwe genoem. Dit word verdeel deur die eis
 </div>
 
 <p> </p>
-**Amount of reward and easibility of use**
+**Bedrag van beloning en maklikheid van gebruik**
 
-Each faucet site rewards you differently. Most of the sites are able to sustain itself due to advertisement, but when the ads are excessive or try to confuse you, you end-up wasting too much time on the site, and finally never come back to it. We try to list only the "cleanest" sites, where you spend literarily 10-15 seconds per faucet claim. And these 10-15 seconds are rewarded anywhere from 10-100 satoshi, depending on the site. The information about the value of faucet sites is listed in the tables on this page, as well as under the <i>Discussion</i> pages for each site, where we try to offer some helpful hints.
+Elke kraanwerf beloon jou anders. Die meeste van die webwerwe kan self as gevolg van advertensies volhou, maar as die advertensies oormatig is of jou verwar, eindig jy uiteindelik te veel tyd op die webwerf en kom uiteindelik nooit terug nie. Ons probeer om net die "skoonste" webwerwe te lys, waar u literêr 10-15 sekondes per kraan eis bestee. En hierdie 10-15 sekondes word beloon vanaf 10-100 satoshi, afhangend van die webwerf. Die inligting oor die waarde van kraanwebwerwe word in die tabelle op hierdie bladsy, sowel as onder die <i>Besprekings</i> bladsye vir elke werf, geplaas. Ons probeer om nuttige wenke te bied.
 
 <div class="table-users">
- <div class="header">Claim every 15 minutes</div>
+ <div class="header">Eis elke 15 minute</div>
 
  <table cellspacing="0">
     <tr>
@@ -85,7 +85,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
        <td>4</td>
        <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/febbit.com-thumb.png" alt="Febbit"/></a></td>
        <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a></td>
-       <td><a href="/febbit.com.html">Discussion</a></td>
+       <td><a href="/febbit.com.html">Bespreking</a></td>
        <td>0.00001000 BTC</td>
        <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. Interaction frequency depends on your level.</td>
     </tr>
@@ -94,7 +94,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
        <td>5</td>
        <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank"><img src="/assets/images/bonusbitcoin.co-thumb.png" alt="BonusBitcoin"/></a></td>
        <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">BonusBitcoin</a></td>
-       <td><a href="/bonusbitcoin.co.html">Discussion</a></td>
+       <td><a href="/bonusbitcoin.co.html">Bespreking</a></td>
        <td>0.00010000 BTC</td>
        <td>Random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for a 15 min interval.</td>
     </tr>
@@ -103,7 +103,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
        <td>6</td>
        <td><a href="http://bit.ly/www-allcoins" target="_blank"><img src="/assets/images/allcoins.pw-thumb.png" alt="Allcoins"/></a></td>
        <td><a href="http://bit.ly/www-allcoins" target="_blank">Allcoins</a></td>
-       <td><a href="/allcoins.pw.html">Discussion</a></td>
+       <td><a href="/allcoins.pw.html">Bespreking</a></td>
        <td>no min</td>
        <td>0.00000005 BTC; Also: Games; Mining; Offers; Multicurrency support</td>
     </tr>
