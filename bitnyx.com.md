@@ -26,7 +26,7 @@ Speaking of transparency, see image below. On the right are the amounts the acti
 <p> </p>
 <p><img src="/assets/images/bitnyx.com-02.png" border="0"></p>
 <p> </p>
-As with most of the faucet sites, you're also able to make money referring people, a which is a hard a but rewarding task!
+As with most of the faucet sites, you're also able to make money referring people, which is a hard a but rewarding task!
 
 ---
 #### Make it yours!
