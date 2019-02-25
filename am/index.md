@@ -135,16 +135,16 @@ Cryptocurrency faucets በድር ገጽ መልክ ወይም ነጻ ሳንቲም 
        <td><a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a></td>
        <td><a href="/bitnyx.com.html">ውይይት</a></td>
        <td>0.00025000 BTC</td>
-       <td>Up to 0.00000030 BTC randomized; Possibility to win 0.00100000 BTC weekly</td>
+       <td>እስከ 0.00000030 BTC በ Randomized; 000100000 BTC በየሳምንቱ የመሸነፍ ዕድል</td>
     </tr>
 
  </table>
 </div>
 
 <p> </p>
-**FaucetHub and CoinPot**
+**FaucetHub እና CoinPot**
 
-These two faucet sites are in a category of its own. They are transaction brokers - a middleman between you and other faucet sites. For several of the faucets you are required to have either a FaucetHub or a CoinPot account. The digital wallets you generate on these websites reduce or completely eliminate the transaction fees to transfer money from a faucet to yourself. They are your friends.
+እነዚህ ሁለት የቧንቧ መስመሮች የራሳቸው የሆነ ምድብ አላቸው. እርስዎንና ሌሎች የቧንቧ መስመሮች መካከል መካከለኛ ኮንትራክተር ናቸው. ለብዙዎቹ የቧንቧ መስመሮች እንደ FaucetHub ወይም CoinPot መለያ እንዲኖርዎት ያስፈልጋል. በእነዚህ ድረ ገጾች ላይ የሚያመነጩት ዲጂታል የኪስ ቦርሳዎች ከወጥ ቤትዎ ወደ እራስዎ ገንዘብ ለመሸጋገር የግብይት ክፍያዎችን ያስቀንሱ ወይም ሙሉ ለሙሉ ያስቀሩ. ጓደኞችዎ ናቸው.
 
 <div class="table-users">
  <div class="header">Faucet Gateways</div>
@@ -165,7 +165,7 @@ These two faucet sites are in a category of its own. They are transaction broker
        <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a></td>
        <td><a href="/faucethub.io.html">ውይይት</a></td>
        <td>0.00020000 BTC</td>
-       <td>Gateway to other faucets. Registering digital wallets on Faucethub is a prerequisite for many faucets sites.</td>
+       <td>ወደ ሌሎች ቧንቧዎች የገበያ ማዕከል. ለብዙ የቀበታማ ጣቢዎች የዲጂታል የኪስ ፊደልን ማስመዝገብ ቅድመ-ጉዳይ ነው.</td>
     </tr>
 
     <tr>
@@ -174,19 +174,19 @@ These two faucet sites are in a category of its own. They are transaction broker
        <td><a href="http://coinpot.co" target="_blank">CoinPot</a></td>
        <td><a href="/coinpot.com.html">ውይይት</a></td>
        <td>0.00010000 BTC</td>
-       <td>You will not be able to claim directly on this site, but rather on the site's affiliate, such as BonusBitcoin.</td>
+       <td>በዚህ ጣቢያ ላይ በቀጥታ መጠየቅ ይችላሉ, ነገር ግን እንደ የ BonusBitcoin የመሳሰሉ በጣቢያው ተባባሪ ይሁኑ.</td>
     </tr>
 
  </table>
 </div>
 
 <p> </p>
-**Not just Bitcoin!**
+**Bitcoin ብቻ አይደለም!**
 
-The next table shows the faucets with an hourly frequency of reward. We've added two more non-bitcoin faucets here - a Doge and a Ripple (XPR) faucet. Don't put all your eggs in one basket, the old saying goes. And even if you do prefer just one currency, you can easily convert digital currencies on sites like Eobot.
+ቀጣዩ ጠረጴዛው በኩሌ የሽሌማት ሽርሽር ይዯርሳሌ. እዚህ ሁለት ተጨማሪ የባይካን ቧንቧዎችን አክለናል - ዶግ እና ሬዲለር (XPR) faucet. ሁሉንም እንቁላሎችዎን በአንድ ቅርጫት ውስጥ አታስቀምጡ, አሮጌው አባባል ይባላል. እና አንድ ብዜት ብቻ ብትመርጡ እንኳ የዲጂታል ምንዛሬዎችን እንደ ኢቤትን በቀላሉ መቀየር ይችላሉ.
 
 <div class="table-users">
- <div class="header">Claim every 60 minutes</div>
+ <div class="header">በየ 60 ደቂቃዎች ይገባኛል ይበሉ</div>
 
  <table cellspacing="0">
  <tr>
@@ -204,7 +204,7 @@ The next table shows the faucets with an hourly frequency of reward. We've added
        <td><a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a></td>
        <td><a href="/freebitco.in.html">ውይይት</a></td>
        <td>0.00003000 BTC</td>
-       <td>0.00000040 BTC per hour, with a possibility to roll more; Lottery</td>
+       <td>በሰዓት 0,000000040 BTC በሰከንድ በማንሸራተት; ሎተሪ</td>
     </tr>
 
     <tr>
@@ -213,7 +213,7 @@ The next table shows the faucets with an hourly frequency of reward. We've added
        <td><a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a></td>
        <td><a href="/cointiply.com.html">ውይይት</a></td>
        <td>0.00100000 BTC</td>
-       <td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
+       <td>ጣቢያው የራሱ ሳንቲሞች ይጠቀማል, ይህም ወደ BTC ፍጥነት ይለጥፍ, ይህም በሰዓት 0,000000050 BTC ሲቀንስ, ከሌሎች የሃይቅ ጣቶች በላይ በአማካኝ ይበልጣል.</td>
     </tr>
 
     <tr>
@@ -222,7 +222,7 @@ The next table shows the faucets with an hourly frequency of reward. We've added
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">FreeDoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">ውይይት</a></td>
        <td>50 DOGE</td>
-       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+       <td>በሰዓት 0.24 ዲኤጀር, ቢደፍሩ ተጨማሪ ሊፈጥሩ ስለሚችሉ; ሎተሪ.</td>
     </tr>
 
     <tr>
@@ -231,19 +231,19 @@ The next table shows the faucets with an hourly frequency of reward. We've added
        <td><a href="http://bit.ly/www-coinfaucet" target="_blank">CoinFaucet</a></td>
        <td><a href="/coinfaucet.io.html">ውይይት</a></td>
        <td>1.0 XRP</td>
-       <td>One claim per hour, around 0.00092500 Ripple (XPR) per claim. Similar interface and functions as freebitco.in.</td>
+       <td>በአንድ የይገባኛል ጥያቄ አንድ በአንድ በ 0.00092500 Ripple (XPR) በየወሩ. ተመሳሳይነት ያለው በይነ ገጽ እና ተግባራት እንደ "freebitco.in".</td>
     </tr>
 
  </table>
 </div>
 
 <p> </p>
-**Hidden gems**
+**የተደበቁ የከበሩ እንቁዎች**
 
-Finally, here are the sites that are not typically assumed to be the faucet sites. Eobot is primarily a mining site, but you can do much more once you create your account. You can use the site as your digital wallet for a large variety of cryto coins. And also, the site has a free daily faucet. Similarly, MellowAds is not a faucet site but rather an ad agency, allowing you to buy and sell online ads. The site, however, gives you a free daily faucet rewarding anywhere between 500-3000 satoshi per claim. A 500 satoshi for a 10 second action -- now that's a "reward vs. effort" balance we're happy about!
+በመጨረሻም የሆቴል ጣቢያው ቦታ የማይታዩባቸው ቦታዎች እዚህ አሉ. Eobot በዋነኝነት የማዕድን ማውጫ ቦታ ነው, ነገር ግን አንዴ ሂሳቡን ከፈጠሩ በኋላ ብዙ ማድረግ ይችላሉ. ለበርካታ ዓይነት የፈላ ጊኒ ሳንቲሞች ገፁን እንደ ዲጂታል የኪስ ቦርሳ መጠቀም ይችላሉ. እና በተጨማሪ, ጣቢያው ነጻ የነጻ ውሃ ቀዘቀዘ አለው. በተመሣሣይም ሜሎድ ዌልስ የሆቴል ጣብያ አይደለም, ነገር ግን የመስመር ላይ ማስታወቂያዎችን እንዲገዙ እና እንዲሸጡ ያስችልዎታል. ጣቢያው ግን በየቀኑ ከ 500 እስከ 3000 ሳቶሺያ በየወሩ በነፃ በየቀኑ በነፃ ይሰጥዎታል. ለ 10 ሴኮንድ እርምጃ 500 ሳቶቢሺ - አሁን "ዋጋ እና ጥረት ውጤት" ሚዛን ነው እኛ በጣም ደስተኞች ነን!
 
 <div class="table-users">
- <div class="header">Claim once per day</div>
+ <div class="header">በየቀኑ አንድ ጊዜ ይጠይቁ</div>
 
  <table cellspacing="0">
  <tr>
@@ -261,7 +261,7 @@ Finally, here are the sites that are not typically assumed to be the faucet site
        <td><a href="http://bit.ly/www-eobot" target="_blank">eobot</a></td>
        <td><a href="/eobot.com.html">ውይይት</a></td>
        <td>0.00200000 BTC</td>
-       <td>Claim once per day circa 0.00000140 BTC; Primarily is an exchange and mining site</td>
+       <td>በየቀኑ አንድ ጊዜ በ 0.00000140 BTC ጥያቄ ማቅረብ; በዋነኝነት የግብይትና የማዕድን ማውጫ ቦታ ነው</td>
     </tr>
 
     <tr>
@@ -270,7 +270,7 @@ Finally, here are the sites that are not typically assumed to be the faucet site
        <td><a href="http://bit.ly/www-mellowads" target="_blank">MellowAds</a></td>
        <td><a href="/mellowads.com.html">ውይይት</a></td>
        <td>n/a</td>
-       <td>Claim once per day 0.00000500-0.00003000 BTC; Is an advertising platform (buy and sell ads), but gives you a free faucet; Use funds for ads</td>
+       <td>በቀን አንድ ጊዜ ይገባኛል ጥያቄ 0.00000500-0.00003000 BTC; የማስታወቂያ መድረክ (ማስታወቂያዎችን ይግዙ እና ይሸጡ), ነገር ግን ነፃ ፋንቶን ይሰጥዎታል. ለማስታወቂያዎች ገንዘብ ይጠቀሙ</td>
     </tr>
 
  </table>
