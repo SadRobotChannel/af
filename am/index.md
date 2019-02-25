@@ -12,25 +12,25 @@ URL: http://www.all-faucets.com/am/index.html
 
 Cryptocurrency faucets በድር ገጽ መልክ ወይም ነጻ ሳንቲም የሚያቀርብ የመክፈያ ስርዓት ናቸው. ጎብኚዎች በድረ ገፆቹ የተዘረዘሩትን የቻት ማመሳከሪያ ወይም ተግባራት ለማጠናቀቅ በ "ሞባይል" ውስጥ ትንሽ ኮንቲ ሳቶሶ ወይም ሌሎች የሳንቲም ዓይነቶችን መጠየቅ ይችላሉ. ምርጥ የሃይቅ ጣቢያን ይዘረዝራለን.
 
-**Getting started with bitcoin faucets**
+**በ bitcoin ቧንቧዎች መጀመር**
 
-If you're new to crypto faucets this site is for you. There are <i>many</i> faucet sites on the Internet today, but our list is rather short, because we add only the faucets that are verified for their value and reputation. Usually people start trying-out faucets out of curiosity, or as a hobby, but with some knowledge and consistency such hobby can offer a reasonable income. Our goal is to share the knowledge and to enable you to earn digital currency in the way that suits your interests and your life-style.
+ለስክሪፕቶ ፋትቶል አዲስ ከሆኑ ይህ ጣቢያ ለእርስዎ ነው. በአሁኑ ጊዜ በበየነመረብ ላይ <i> ብዙ </ i> የበለጡ ጣቢያዎች አሉ, ነገር ግን ዝርዝሮቻችን አጭር ናቸው, ምክንያቱም በእውቀታቸው እና በመልካቸው የተረጋገጡ ቧንቧዎችን ብቻ እናጨምራለን. ብዙውን ጊዜ ሰዎች ከእንቁርጦሽነት ወይም በትርፍ ጊዜ ፋንታ ፉርጎዎች መሞከር ይጀምራሉ, ነገር ግን በእውነቱ እና በአዕምሮአዊነትዎ ላይ እንደዚህ ዓይነት መዝናኛዎች ምክንያታዊ ገቢ ሊያቀርቡ ይችላሉ. ግባችን እውቀትን ለመጋራት እና ፍላጎቶችዎን እና የህይወትዎ ዘይቤዎን በሚመች መንገድ ዲጂታል ምንጮችን እንዲያገኙ ለማገዝ ነው.
 
-**Frequency of reward claim**
+**የሽልማት ድግግሞሽ**
 
-The table below lists the faucet sites. It's split by the claim frequency. You "claim" from faucet by visiting a site and pressing a button dispensing free bitcoin or other tokens. And so, your preference may be an hourly period, where you refresh a faucet website on your device (computer, table or mobile) once per hour and get your reward, or daily, or even every 5 minutes.
+ከዚህ በታች ያለው ሰንጠረዥ የሆቴል ጣብያዎችን ይዘረዝራል. በተደጋጋሚነት ድግግሞሽ የተከፈለ ነው. አንድ ጣቢያን በመጎብኘት እና ነጻ የ Bitcoin ወይም ሌሎች ቶከን ለማቅረብ አንድ አዝራር በመጫን ከፓንክ ፋቲው ላይ "ይገባኛል ይበሉ". እናም, ምርጫዎ በሰዓት አንድ ጊዜ በአንድ መሳሪያ (ኮምፒተር, ጠረጴዛ ወይም ሞባይል) ያድሱ እና ሽልማችሁን, ወይም በየቀኑ, ወይም በየ 5 ደቂቃዎች በየሁለት ሳምንቱ በየሁለት ሰዓቱ በየሁለት ደቂቃው በየቀኑ ያሻሽሉ.
 
 <div class="table-users">
- <div class="header">Claim every 5 minutes</div>
+ <div class="header">በየ 5 ደቂቃዎች ይጠይቁ</div>
 
  <table cellspacing="0">
     <tr>
        <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
+       <th><center>ጣቢያ</center></th>
+       <th><center>የፎስጥ ስም</center></th>
+       <th><center>መረጃ</center></th>
+       <th><center>ደቂቃ መሻር</center></th>
+       <th width="230"><center>ዋጋ</center></th>
     </tr>
 
     <tr>
@@ -72,14 +72,14 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
  <div class="header">Claim every 15 minutes</div>
 
  <table cellspacing="0">
-    <tr>
-       <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
-    </tr>
+ <tr>
+    <th><center>#</center></th>
+    <th><center>ጣቢያ</center></th>
+    <th><center>የፎስጥ ስም</center></th>
+    <th><center>መረጃ</center></th>
+    <th><center>ደቂቃ መሻር</center></th>
+    <th width="230"><center>ዋጋ</center></th>
+ </tr>
 
     <tr>
        <td>4</td>
@@ -120,14 +120,14 @@ While many sites live from their ads, some are also making money by offering gam
  <div class="header">Claim every 30 minutes</div>
 
  <table cellspacing="0">
-    <tr>
-       <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
-    </tr>
+ <tr>
+    <th><center>#</center></th>
+    <th><center>ጣቢያ</center></th>
+    <th><center>የፎስጥ ስም</center></th>
+    <th><center>መረጃ</center></th>
+    <th><center>ደቂቃ መሻር</center></th>
+    <th width="230"><center>ዋጋ</center></th>
+ </tr>
 
     <tr>
        <td>7</td>
@@ -150,14 +150,14 @@ These two faucet sites are in a category of its own. They are transaction broker
  <div class="header">Faucet Gateways</div>
 
  <table cellspacing="0">
-    <tr>
-       <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
-    </tr>
+ <tr>
+    <th><center>#</center></th>
+    <th><center>ጣቢያ</center></th>
+    <th><center>የፎስጥ ስም</center></th>
+    <th><center>መረጃ</center></th>
+    <th><center>ደቂቃ መሻር</center></th>
+    <th width="230"><center>ዋጋ</center></th>
+ </tr>
 
     <tr>
        <td>8</td>
@@ -189,14 +189,14 @@ The next table shows the faucets with an hourly frequency of reward. We've added
  <div class="header">Claim every 60 minutes</div>
 
  <table cellspacing="0">
-    <tr>
-       <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
-    </tr>
+ <tr>
+    <th><center>#</center></th>
+    <th><center>ጣቢያ</center></th>
+    <th><center>የፎስጥ ስም</center></th>
+    <th><center>መረጃ</center></th>
+    <th><center>ደቂቃ መሻር</center></th>
+    <th width="230"><center>ዋጋ</center></th>
+ </tr>
 
     <tr>
        <td>10</td>
@@ -246,14 +246,14 @@ Finally, here are the sites that are not typically assumed to be the faucet site
  <div class="header">Claim once per day</div>
 
  <table cellspacing="0">
-    <tr>
-       <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
-    </tr>
+ <tr>
+    <th><center>#</center></th>
+    <th><center>ጣቢያ</center></th>
+    <th><center>የፎስጥ ስም</center></th>
+    <th><center>መረጃ</center></th>
+    <th><center>ደቂቃ መሻር</center></th>
+    <th width="230"><center>ዋጋ</center></th>
+ </tr>
 
     <tr>
        <td>14</td>
@@ -276,9 +276,8 @@ Finally, here are the sites that are not typically assumed to be the faucet site
  </table>
 </div>
 
-
 <p> </p>
-**Help us manage this website**
+**ይህን ድር ጣቢያ ለማስተዳደር ያግዙን**
 
 As you register at the faucets we recommend and build a portfolio of faucets you use regularly, e.g. 5 sites that you go once per hour and claim from, you'll want to increase your earnings by referring people to the same sites you use via your referral ID. Help us to co-manage <i>all-faucets.com</i> and we'll put YOUR referral ID to the pages of this site. <a href="your-page.html">Read more</a> about co-management.
 
