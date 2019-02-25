@@ -279,9 +279,11 @@ Cryptocurrency faucets በድር ገጽ መልክ ወይም ነጻ ሳንቲም 
 <p> </p>
 **ይህን ድር ጣቢያ ለማስተዳደር ያግዙን**
 
-As you register at the faucets we recommend and build a portfolio of faucets you use regularly, e.g. 5 sites that you go once per hour and claim from, you'll want to increase your earnings by referring people to the same sites you use via your referral ID. Help us to co-manage <i>all-faucets.com</i> and we'll put YOUR referral ID to the pages of this site. <a href="your-page.html">Read more</a> about co-management.
+በፖዳዎች ላይ በሚመዘገቡበት ጊዜ እና በመደበኛነት የሚጠቀሙባቸው የሆቴል ፖምፖች ይገንቡ. በአንድ ሰዓት አንድ ቦታ የሚሄዱባቸው እና ይገባኛል ብለው ከሚፈልጓቸው ጣቢያዎች ውስጥ, ሰዎችን በማመሳወቂያ መታወቂያዎ አማካኝነት በሚጠቀሙባቸው ተመሳሳይ ጣቢያዎች አማካኝነት ሰዎችን በማስተዋልዎ ገቢዎን ከፍ ማድረግ ይፈልጋሉ. <i>all-faucets.com</i> ን እንዲያቀናብሩ አግዘን እና የእርስዎን የመታወቂያ መታወቂያ በዚህ ጣቢያ ገጾች ላይ እናስቀምጣለን.
+<a href="your-page.html">ስለ ተባባሪ አስተዳደር ተጨማሪ ያንብቡ</a>.
 
 ---
-#### Social
+#### ማህበራዊ
 
-Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms! And also, say <i>hi</i> in <a href="chat.html">our chat</a>!
+ይህን ጣቢያ በመጎብኘት አመሰግናለሁ. ይህ አጋዥ ሆኖ ካገኙት, በሚወዷቸው ማህበራዊ ማህደረ መረጃ መድረኮች ላይ ከጓደኞችዎ ጋር ይጋሩ! እንዲሁም ደግሞ,
+<a href="/chat.html">በቻታችን ውስጥ ሰላም ይበሉ</a>!
