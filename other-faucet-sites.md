@@ -18,4 +18,4 @@ Here are several sites that we're aware of, however were not convinced they are 
 <p> </p>
 ◘ <a href="http://bit.ly/bitcoin-monsters" target="_blank">bitcoin-monsters</a> is indeed a fun game where you can level up your monsters (improve their abilities) and send them off to fight matches with other people's monsters. The leveling of monsters, however, is a tedious process where you need to essentially do a lot of ad clicking. If you're able to handle this, you can create a strong monster who can win a lot of matches.
 <p> </p>
-◘ another game 
+◘ <a href="http://bit.ly/satoshilabs" target="_blank">satoshilabs</a> is yet another crypto faucet game. Graphics seem attractive, but I could not get into it... Perhaps I was doing it wrong, so if you want to write a page on this game and use your Ref ID, please be my guest! Message <a href="https://twitter.com/CryptoPayoff" target="_blank">me.</a>
