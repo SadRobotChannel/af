@@ -15,3 +15,7 @@ Here are several sites that we're aware of, however were not convinced they are 
 ◘ <a href="http://bit.ly/www-cryptomininggame" target="_blank">cryptomininggame</a> is a lot like febbit, but more complicated. You need to get used to the pop-ups which are constant when you <i>get energy</i> or <i>do missions</i> - the activities that are necessary to level up. A leveled miner can generate a reasonable amount of satoshi. We'll feature this game on the front page soon.
 <p> </p>
 ◘ <a href="http://bit.ly/www-blackminer" target="_blank">blackminer</a> looks promising. A new facet run by an energetic team, you can claim XUN (UltraNote) coin, and BCN (Bytecoin). The team is adding more coins soon! Btw, a the faucet pays 100% referral commissions.
+<p> </p>
+◘ <a href="http://bit.ly/bitcoin-monsters" target="_blank">bitcoin-monsters</a> is indeed a fun game where you can level up your monsters (improve their abilities) and send them off to fight matches with other people's monsters. The leveling of monsters, however, is a tedious process where you need to essentially do a lot of ad clicking. If you're able to handle this, you can create a strong monster who can win a lot of matches.
+<p> </p>
+◘ another game 
