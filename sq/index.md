@@ -280,7 +280,7 @@ Së fundi, këtu janë faqet që zakonisht nuk supozohen të jenë rubinetat. Eo
 <p> </p>
 **Na ndihmoni të menaxhojmë këtë faqe interneti**
 
-Kur të regjistroheni në rubinet, ne rekomandojmë dhe ndërtojmë një portofol të rubineve që përdorni rregullisht, p.sh. 5 vende që shkoni një herë në orë dhe kërkoni nga, do të doni të rritni fitimet tuaja duke i referuar njerëzit në të njëjtët faqe që përdorni përmes ID-së së referimit tuaj. Na ndihmoni që të bashkë-menaxhojmë <i>all-faucets.com</i> dhe ne do të vendosim ID-në tuaj të referimit në faqet e kësaj faqeje. <a href="/your-page.html">Lexo më shumë</a> rreth bashkë-menaxhimit.
+Kur të regjistroheni në rubinet, ne rekomandojmë dhe ndërtojmë një portofol të rubineve që përdorni rregullisht, p.sh. 5 vende që shkoni një herë në orë dhe kërkoni nga, do të doni të rritni fitimet tuaja duke i referuar njerëzit në të njëjtët faqe që përdorni përmes ID-së së referimit tuaj. Na ndihmoni që të bashkë-menaxhojmë <i>all-faucets.com</i> dhe ne do të vendosim ID-në tuaj të referimit në faqet e kësaj faqeje. <a href="/sq/your-page.html">Lexo më shumë</a> rreth bashkë-menaxhimit.
 
 ---
 #### Social
