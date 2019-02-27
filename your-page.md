@@ -20,11 +20,11 @@ Message <a href="https://twitter.com/CryptoPayoff" target="_blank">@CryptoPayoff
 
 The links and pages where you see superscript ¹ are not taken by anyone, and they can be yours. There are 3 main benefits for you to claim your ownership to these links and pages. The main page reference ID, the discussion page reference ID, and advertisement revenue. Example:
 
-<img src="your-page-01.png">
+<img src="/assets/images/your-page-01.png">
 <p> </p>
-<img src="your-page-02.png">
+<img src="/assets/images/your-page-02.png">
 <p> </p>
-<img src="your-page-03.png">
+<img src="/assets/images/your-page-03.png">
 <p> </p>
 
 **Your advertisement**
