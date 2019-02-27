@@ -45,7 +45,7 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
     <tr>
        <td>2</td>
        <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank"><img src="/assets/images/trustbtcfaucet.com-thumb.png" alt="TrustBTCFaucet"/></a></td>
-       <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a>ʳᵉᶠ¹</td>
+       <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a> ʸᵒᵘʳˢ </td>
        <td><a href="/trustbtcfaucet.com.html">Discussion</a></td>
        <td>0.00015000 BTC</td>
        <td>From 0.00000003 to 0.00000888 BTC random value; Also: Loyalty Bonus; Daily Interest</td>
@@ -54,7 +54,7 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
     <tr>
        <td>3</td>
        <td><a href="http://bit.ly/sato-host" target="_blank"><img src="/assets/images/sato.host-thumb.png" alt="Sato"/></a></td>
-       <td><a href="http://bit.ly/sato-host" target="_blank">Sato</a>ʳᵉᶠ²</td>
+       <td><a href="http://bit.ly/sato-host" target="_blank">Sato</a> ʸᵒᵘʳˢ </td>
        <td><a href="/sato.host.html">Discussion</a></td>
        <td>no min</td>
        <td>0.00000020 BTC per claim; Wait for "Login" button! Read more on <a href="/sato.host.html">discussion</a> page</td>
@@ -83,7 +83,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
 
     <tr>
        <td>4</td>
-       <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/febbit.com-thumb.png" alt="Febbit"/></a>ʳᵉᶠ³</td>
+       <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/febbit.com-thumb.png" alt="Febbit"/></a> ʸᵒᵘʳˢ </td>
        <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a></td>
        <td><a href="/febbit.com.html">Discussion</a></td>
        <td>0.00001000 BTC</td>
