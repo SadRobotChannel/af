@@ -45,7 +45,7 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
     <tr>
        <td>2</td>
        <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank"><img src="/assets/images/trustbtcfaucet.com-thumb.png" alt="TrustBTCFaucet"/></a></td>
-       <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a></td>
+       <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a>ʳᵉᶠ¹</td>
        <td><a href="/trustbtcfaucet.com.html">Discussion</a></td>
        <td>0.00015000 BTC</td>
        <td>From 0.00000003 to 0.00000888 BTC random value; Also: Loyalty Bonus; Daily Interest</td>
@@ -54,7 +54,7 @@ The table below lists the faucet sites. It's split by the claim frequency. You "
     <tr>
        <td>3</td>
        <td><a href="http://bit.ly/sato-host" target="_blank"><img src="/assets/images/sato.host-thumb.png" alt="Sato"/></a></td>
-       <td><a href="http://bit.ly/sato-host" target="_blank">Sato</a></td>
+       <td><a href="http://bit.ly/sato-host" target="_blank">Sato</a>ʳᵉᶠ²</td>
        <td><a href="/sato.host.html">Discussion</a></td>
        <td>no min</td>
        <td>0.00000020 BTC per claim; Wait for "Login" button! Read more on <a href="/sato.host.html">discussion</a> page</td>
@@ -83,7 +83,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
 
     <tr>
        <td>4</td>
-       <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/febbit.com-thumb.png" alt="Febbit"/></a></td>
+       <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/febbit.com-thumb.png" alt="Febbit"/></a>ʳᵉᶠ³</td>
        <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a></td>
        <td><a href="/febbit.com.html">Discussion</a></td>
        <td>0.00001000 BTC</td>
@@ -235,7 +235,7 @@ The next table shows the faucets with an hourly frequency of reward. We've added
     </tr>
 
     <tr>
-       <td>13</td>
+       <td>14</td>
        <td><a href="http://bit.ly/www-free-bcash" target="_blank"><img src="/assets/images/free-bcash.com-thumb.png" alt="Free-Bcash"/></a></td>
        <td><a href="http://bit.ly/www-free-bcash" target="_blank">Free-Bcash</a></td>
        <td><a href="/free-bcash.com.html">Discussion</a></td>
@@ -265,7 +265,7 @@ Finally, here are the sites that are not typically assumed to be the faucet site
     </tr>
 
     <tr>
-       <td>14</td>
+       <td>15</td>
        <td><a href="http://bit.ly/www-eobot" target="_blank"><img src="/assets/images/eobot.com-thumb.png" alt="eobot"/></a></td>
        <td><a href="http://bit.ly/www-eobot" target="_blank">eobot</a></td>
        <td><a href="/eobot.com.html">Discussion</a></td>
@@ -274,7 +274,7 @@ Finally, here are the sites that are not typically assumed to be the faucet site
     </tr>
 
     <tr>
-       <td>15</td>
+       <td>16</td>
        <td><a href="http://bit.ly/www-mellowads" target="_blank"><img src="/assets/images/mellowads.com-thumb.png" alt="MellowAds"/></a></td>
        <td><a href="http://bit.ly/www-mellowads" target="_blank">MellowAds</a></td>
        <td><a href="/mellowads.com.html">Discussion</a></td>

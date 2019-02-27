@@ -24,11 +24,6 @@ The bitcoinsfor.me is offers two options to withdraw the money you earn: 1) to y
 The withdrawal minimum? A very reasonable amount of 0.00000500 BTC, which you could send directly to your coinbase.com email address on a weekly basis. Important, you do not put your BTC wallet address but rather email address of your coinbase.com account in the <i>payment method</i> settings. This way you completely avoid miner/transfer/withdrawal fees.
 
 ---
-#### Make it yours!
-
-<a href="https://www.patreon.com/join/CryptoPayoff?" target="_blank">Own this page!</a> Take control of this page's content, use your ref ID or customize it any other way: <a href="your-page.html">read more</a>.
-
----
-#### Your advertisement
+#### Advertisement
 
 <iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
