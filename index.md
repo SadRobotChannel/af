@@ -231,7 +231,16 @@ The next table shows the faucets with an hourly frequency of reward. We've added
        <td><a href="http://bit.ly/www-coinfaucet" target="_blank">CoinFaucet</a></td>
        <td><a href="/coinfaucet.io.html">Discussion</a></td>
        <td>1.0 XRP</td>
-       <td>One claim per hour, around 0.00092500 Ripple (XPR) per claim. Similar interface and functions as freebitco.in.</td>
+       <td>Around 0.00092500 Ripple (XPR) per claim. Similar interface and functions as freebitco.in.</td>
+    </tr>
+
+    <tr>
+       <td>13</td>
+       <td><a href="http://bit.ly/www-free-bcash" target="_blank"><img src="/assets/images/free-bcash.com-thumb.png" alt="Free-Bcash"/></a></td>
+       <td><a href="http://bit.ly/www-free-bcash" target="_blank">Free-Bcash</a></td>
+       <td><a href="/free-bcash.com.html">Discussion</a></td>
+       <td>0.00100000 BCH</td>
+       <td>Around 0.00000620 Bitcoin Cash (BCH) per claim. Also: 6% interest. Very similar freebitco.in</td>
     </tr>
 
  </table>
