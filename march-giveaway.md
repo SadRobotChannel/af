@@ -24,4 +24,4 @@ On Sunday, May 31st we will randomly select 1 person who will receive 10,000 Sat
 
 **...Also**
 
-There's another contest going on in March - a <a href="/march-article-contest.html>Faucet Article Contest</a>. You can submit your article about your Top 5 favorite faucets. The Top 5 articles will be selected and published. When referencing your Top 5 favorites, you can use your referral IDs for each faucet, thus driving new signing and increasing your earnings! <a href="/march-article-contest.html>Read more</a> about the Faucet Article Contest on 1st of March.
+There's another contest going on in March - a <a href="/march-article-contest.html">Faucet Article Contest</a>. You can submit your article about your Top 5 favorite faucets. The Top 5 articles will be selected and published. When referencing your Top 5 favorites, you can use your referral IDs for each faucet, thus driving new signing and increasing your earnings! <a href="/march-article-contest.html">Read more</a> about the Faucet Article Contest on 1st of March.
