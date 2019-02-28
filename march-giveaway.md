@@ -4,4 +4,4 @@ title: March Giveaway: 10,000 Satoshi!
 comments: true
 ---
 
-Description goes here.
+Please come back tomorrow to learn how you can win 10,000 Satoshi.
