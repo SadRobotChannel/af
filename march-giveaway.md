@@ -4,7 +4,7 @@ title: March Giveaway: 10,000 Satoshi!
 comments: true
 ---
 
-**Follow us on Twitter**
+**March Giveaway: 10,000 Satoshi!**
 
 From 1st of March we will run a <i>simple</i> Giveaway of 10,000 Bitcoin Satoshi to one randomly selected person! It is <i>simple</i> because all you need to do is follow us on Twitter and retweet this tweet:
 <P>
