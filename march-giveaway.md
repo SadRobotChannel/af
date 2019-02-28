@@ -12,7 +12,8 @@ URL: http://www.all-faucets.com/march-giveaway.html
 
 From 1st of March we will run a <i>simple</i> Giveaway of 10,000 Bitcoin Satoshi to one randomly selected person! It is <i>simple</i> because all you need to do is follow us on Twitter and retweet this tweet:
 <P>
-<i>The tweet will appear on March 1st, stay tuned!</i>
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Question to all <a href="https://twitter.com/hashtag/febbit?src=hash&amp;ref_src=twsrc%5Etfw">#febbit</a> players! Are there other fun crypto games you&#39;re playing and can recommend?<br><br>My latest favorite (see screenshot) is <a href="https://t.co/IdXVZzHXiP">https://t.co/IdXVZzHXiP</a>! YOURS?<br><br>(via <a href="https://twitter.com/FebbitOfficial?ref_src=twsrc%5Etfw">@FebbitOfficial</a>) <a href="https://t.co/NqUyXQrcS4">pic.twitter.com/NqUyXQrcS4</a></p>&mdash; CP (@CryptoPayoff) <a href="https://twitter.com/CryptoPayoff/status/1100894055926501383?ref_src=twsrc%5Etfw">February 27, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 On Sunday, May 31st we will randomly select 1 person who will receive 10,000 Satoshi!
 
