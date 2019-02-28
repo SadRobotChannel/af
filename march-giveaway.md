@@ -4,7 +4,7 @@ title: March Giveaway
 comments: true
 img: http://www.all-faucets.com/assets/images/march-giveaway-01.png
 alt: We will select a random follower on March 31st to receive 10,000 satoshi! Follow and Retweet this!
-desc: We're giving away a 10,000 bitcoin satoshi to our followers! Just Follow, Retweet and Wait! Check-out our site for more info!
+desc: We're giving away a 10,000 bitcoin satoshi! Follow, Retweet and Wait! Check-out our site for more info!
 URL: http://www.all-faucets.com/march-giveaway.html
 ---
 
@@ -12,8 +12,9 @@ URL: http://www.all-faucets.com/march-giveaway.html
 
 From 1st of March we will run a <i>simple</i> Giveaway of 10,000 Bitcoin Satoshi to one randomly selected person! It is <i>simple</i> because all you need to do is follow us on Twitter and retweet this tweet:
 <P>
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Question to all <a href="https://twitter.com/hashtag/febbit?src=hash&amp;ref_src=twsrc%5Etfw">#febbit</a> players! Are there other fun crypto games you&#39;re playing and can recommend?<br><br>My latest favorite (see screenshot) is <a href="https://t.co/IdXVZzHXiP">https://t.co/IdXVZzHXiP</a>! YOURS?<br><br>(via <a href="https://twitter.com/FebbitOfficial?ref_src=twsrc%5Etfw">@FebbitOfficial</a>) <a href="https://t.co/NqUyXQrcS4">pic.twitter.com/NqUyXQrcS4</a></p>&mdash; CP (@CryptoPayoff) <a href="https://twitter.com/CryptoPayoff/status/1100894055926501383?ref_src=twsrc%5Etfw">February 27, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">🔸10,000 SATOSHI GIVEAWAY IN MARCH🔸<br><br>Thank you for following us and retweeting this giveaway contest! We look forward to awarding one of you! The winner to be chosen randomly via TWrench (read more)!<br><br>👈🔃🔜🏆<a href="https://twitter.com/hashtag/Crypto?src=hash&amp;ref_src=twsrc%5Etfw">#Crypto</a> <a href="https://twitter.com/hashtag/Faucets?src=hash&amp;ref_src=twsrc%5Etfw">#Faucets</a> <a href="https://twitter.com/hashtag/Free?src=hash&amp;ref_src=twsrc%5Etfw">#Free</a> <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> <a href="https://twitter.com/hashtag/Giveaway?src=hash&amp;ref_src=twsrc%5Etfw">#Giveaway</a> <a href="https://t.co/qsgEcVWPpt">https://t.co/qsgEcVWPpt</a></p>&mdash; CP (@CryptoPayoff) <a href="https://twitter.com/CryptoPayoff/status/1101251079944179712?ref_src=twsrc%5Etfw">February 28, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </p>
 On Sunday, May 31st we will randomly select 1 person who will receive 10,000 Satoshi!
 
