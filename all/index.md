@@ -7,7 +7,6 @@ alt: Cryptocurrency faucets are reward systems in a form of a website or an app 
 desc: If you're new to crypto faucets this site is for you. Learn how to maximize the value of your time and effort while claiming from free bitcoin faucet sites.
 URL: http://www.all-faucets.com/index.html
 ---
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 <link rel="stylesheet" href="/css/style.css">
 
 All of them
