@@ -14,11 +14,11 @@ If you're new to crypto faucets this site is for you. We list bitcoin and other 
 
 **Getting started with bitcoin faucets**
 
-Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in an exchange for completing a captcha or tasks described by the websites. We list the best faucet sites.
+Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in an exchange for completing a captcha or tasks described by the websites.
 
 **Frequency of reward claim**
 
-The table below lists the faucet sites. It's split by the claim frequency. You "claim" from faucet by visiting a site and pressing a button dispensing free bitcoin or other tokens. And so, your preference may be an hourly period, where you refresh a faucet website on your device (computer, table or mobile) once per hour and get your reward, or daily, or even every 5 minutes.
+There are several tables below that list the faucet sites. The tables split by the claim frequency or based on other grouping. You "claim" from faucet by visiting a site and pressing a button dispensing free bitcoin or other tokens. And so you may prefer an hourly period, where you visit and refresh a faucet website on your device (computer, table or mobile) once per hour and get your reward, or daily, or even as frequent as every 5 minutes.
 
 <div class="table-users">
  <div class="header">Claim every 5 minutes</div>
