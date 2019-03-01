@@ -84,7 +84,7 @@ Many of the faucets sites, however, allow only a withdrawal to an account that y
     </tr>
 
     <tr>
-       <td>8</td>
+       <td>4</td>
        <td><a href="http://bit.ly/www-faucethub" target="_blank"><img src="/assets/images/faucethub.io-thumb.png" alt="FaucetHub"/></a></td>
        <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a> <a href="/your-page.html">¹</a> </td>
        <td><a href="/faucethub.io.html">Discussion</a></td>
@@ -93,7 +93,7 @@ Many of the faucets sites, however, allow only a withdrawal to an account that y
     </tr>
 
     <tr>
-       <td>9</td>
+       <td>5</td>
        <td><a href="http://coinpot.co" target="_blank"><img src="/assets/images/coinpot.co-thumb.png" alt="CoinPot"/></a></td>
        <td><a href="http://coinpot.co" target="_blank">CoinPot</a> <a href="/your-page.html">¹</a> </td>
        <td><a href="/coinpot.com.html">Discussion</a></td>
@@ -123,7 +123,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
     </tr>
 
     <tr>
-       <td>5</td>
+       <td>6</td>
        <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank"><img src="/assets/images/bonusbitcoin.co-thumb.png" alt="BonusBitcoin"/></a></td>
        <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">BonusBitcoin</a></td>
        <td><a href="/bonusbitcoin.co.html">Discussion</a></td>
@@ -132,7 +132,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
     </tr>
 
     <tr>
-       <td>6</td>
+       <td>7</td>
        <td><a href="http://bit.ly/www-allcoins" target="_blank"><img src="/assets/images/allcoins.pw-thumb.png" alt="Allcoins"/></a></td>
        <td><a href="http://bit.ly/www-allcoins" target="_blank">Allcoins</a> <a href="/your-page.html">¹</a> </td>
        <td><a href="/allcoins.pw.html">Discussion</a></td>
@@ -157,7 +157,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
     </tr>
 
     <tr>
-       <td>7</td>
+       <td>8</td>
        <td><a href="http://bit.ly/www-bitnyx" target="_blank"><img src="/assets/images/bitnyx.com-thumb.png" alt="Bitnyx"/></a></td>
        <td><a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a> <a href="/your-page.html">¹</a> </td>
        <td><a href="/bitnyx.com.html">Discussion</a></td>
@@ -193,7 +193,7 @@ There are games that do not involve betting and still reward you similarly to th
     </tr>
 
     <tr>
-       <td>4</td>
+       <td>9</td>
        <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/febbit.com-thumb.png" alt="Febbit"/></a></td>
        <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a> <a href="/your-page.html">¹</a> </td>
        <td><a href="/febbit.com.html">Discussion</a></td>
@@ -207,7 +207,7 @@ There are games that do not involve betting and still reward you similarly to th
 <p> </p>
 **Not just Bitcoin!**
 
-The next table shows the faucets with an hourly frequency of reward. We've added two more non-bitcoin faucets here - a Doge and a Ripple (XPR) faucet. Don't put all your eggs in one basket, the old saying goes. And even if you do prefer just one currency, you can easily convert digital currencies on sites like Eobot.
+The next table shows the faucets with an hourly frequency of reward. We've added two more non-bitcoin faucets here - a Doge and a Ripple (XPR) faucet. Don't put all your eggs in one basket, the old saying goes. And even if you do prefer just one currency, you can later convert between digital currencies on sites like Eobot.
 
 <div class="table-users">
  <div class="header">Claim every 60 minutes</div>
