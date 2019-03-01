@@ -22,7 +22,7 @@ It is not enough just to re-tweet this post to get your share of the distributio
 
 **Generate your Ethereum (ETH) wallet**
 
-When registering at etherflyer.com you will be prompted to generate your Ethereum wallet. Pay close attention to instructions, as it may be confusing to set up the Mnemonic Phrase if you've never done that before. Once you finish the account set-up, your dashboard should look like this:
+When registering at etherflyer.com you will be prompted to generate your Ethereum wallet. Pay close attention to the instructions, as it may be confusing to set up the Mnemonic Phrase if you've never done that before. Once you finish the account set-up, your dashboard should look like this:
 
 <p> </p>
 <p><img src="/assets/images/EtherFlyer-02.png" border="0"></p>
