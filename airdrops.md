@@ -7,15 +7,13 @@ alt: Get a taste of Cryptocurrency Airdrops. Start within minutes.
 desc: Getting Started with Airdrops: a complete beginner's guide.  
 URL: http://www.all-faucets.com/airdrops.html
 ---
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-<link rel="stylesheet" href="assets/css/a2.css">
 
 A follower on Twitter had asked for a way to get started with Aridrops, and so I put a few screenshots to help you getting started.
 
 <p> </p>
 **Follow @etherflyercom**
 
-There are certainly a lot of individuals or parties you distribute tokens via the airdrops, my personal experience with getting a number of different tokens was by following the EtherFlyer Twitter account. What you'll see are post as such:
+There are certainly a lot of individuals or parties you distribute tokens via the airdrops, my personal experience with getting a number of different tokens was by following the <a href="https://twitter.com/etherflyercom" target="_blank">EtherFlyer</a> Twitter account. What you'll see are post as such:
 
 <p> </p>
 <p><img src="/assets/images/EtherFlyer-01.png" border="0"></p>
