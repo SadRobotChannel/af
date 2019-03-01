@@ -64,6 +64,47 @@ There are several tables below that list the faucet sites. The tables split by t
 </div>
 
 <p> </p>
+**Direct vs. Indirect**
+
+There are some faucet sites that allow a direct transfer out (withdraw) of your earned digital currency. Let's say you created a wallet on BTC.com. Then when claim from a direct faucet (e.g. TrustBTCFaucet), you can specify your BTC.com's withdrawal wallet. Or any other bitcoin address.
+
+Many of the faucets sites, however, allow only a withdrawal to an account that you'd need to create with either the FaucetHub or CoinPot. Think of these two sites as transaction brokers - a middleman between you and other faucet sites. The digital wallets you generate on these websites reduce or completely eliminate the transaction fees to transfer money from a faucet to yourself. They are your friends, although you may later want to withdraw your money from FaucetHub and CoinPot to a secure hardware wallet like Trezor.
+
+<div class="table-users">
+ <div class="header">Faucet Gateways</div>
+
+ <table cellspacing="0">
+    <tr>
+       <th><center>#</center></th>
+       <th><center>Site</center></th>
+       <th><center>Faucet Name</center></th>
+       <th><center>Info</center></th>
+       <th><center>Min. Withdrawal</center></th>
+       <th width="230"><center>Value</center></th>
+    </tr>
+
+    <tr>
+       <td>8</td>
+       <td><a href="http://bit.ly/www-faucethub" target="_blank"><img src="/assets/images/faucethub.io-thumb.png" alt="FaucetHub"/></a></td>
+       <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a> <a href="/your-page.html">¹</a> </td>
+       <td><a href="/faucethub.io.html">Discussion</a></td>
+       <td>0.00020000 BTC</td>
+       <td>Gateway to other faucets. Registering digital wallets on Faucethub is a prerequisite for many faucets sites.</td>
+    </tr>
+
+    <tr>
+       <td>9</td>
+       <td><a href="http://coinpot.co" target="_blank"><img src="/assets/images/cointiply.com-thumb.png" alt="CoinPot"/></a></td>
+       <td><a href="http://coinpot.co" target="_blank">CoinPot</a> <a href="/your-page.html">¹</a> </td>
+       <td><a href="/coinpot.com.html">Discussion</a></td>
+       <td>0.00010000 BTC</td>
+       <td>You will not be able to claim directly on this site, but rather on the site's affiliate, such as BonusBitcoin.</td>
+    </tr>
+
+ </table>
+</div>
+
+<p> </p>
 **Amount of reward and easibility of use**
 
 Each faucet site rewards you differently. Most of the sites are able to sustain itself due to advertisement, but when the ads are excessive or try to confuse you, you end-up wasting too much time on the site, and finally never come back to it. We try to list only the "cleanest" sites, where you spend literarily 10-15 seconds per faucet claim. And these 10-15 seconds are rewarded anywhere from 10-100 satoshi, depending on the site. The information about the value of faucet sites is listed in the tables on this page, as well as under the <i>Discussion</i> pages for each site, where we try to offer some helpful hints.
@@ -136,45 +177,6 @@ While many sites live from their ads, some are also making money by offering gam
        <td><a href="/bitnyx.com.html">Discussion</a></td>
        <td>0.00025000 BTC</td>
        <td>Up to 0.00000030 BTC randomized; Possibility to win 0.00100000 BTC weekly</td>
-    </tr>
-
- </table>
-</div>
-
-<p> </p>
-**FaucetHub and CoinPot**
-
-These two faucet sites are in a category of its own. They are transaction brokers - a middleman between you and other faucet sites. For several of the faucets you are required to have either a FaucetHub or a CoinPot account. The digital wallets you generate on these websites reduce or completely eliminate the transaction fees to transfer money from a faucet to yourself. They are your friends.
-
-<div class="table-users">
- <div class="header">Faucet Gateways</div>
-
- <table cellspacing="0">
-    <tr>
-       <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
-    </tr>
-
-    <tr>
-       <td>8</td>
-       <td><a href="http://bit.ly/www-faucethub" target="_blank"><img src="/assets/images/faucethub.io-thumb.png" alt="FaucetHub"/></a></td>
-       <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a> <a href="/your-page.html">¹</a> </td>
-       <td><a href="/faucethub.io.html">Discussion</a></td>
-       <td>0.00020000 BTC</td>
-       <td>Gateway to other faucets. Registering digital wallets on Faucethub is a prerequisite for many faucets sites.</td>
-    </tr>
-
-    <tr>
-       <td>9</td>
-       <td><a href="http://coinpot.co" target="_blank"><img src="/assets/images/cointiply.com-thumb.png" alt="CoinPot"/></a></td>
-       <td><a href="http://coinpot.co" target="_blank">CoinPot</a> <a href="/your-page.html">¹</a> </td>
-       <td><a href="/coinpot.com.html">Discussion</a></td>
-       <td>0.00010000 BTC</td>
-       <td>You will not be able to claim directly on this site, but rather on the site's affiliate, such as BonusBitcoin.</td>
     </tr>
 
  </table>
