@@ -12,6 +12,8 @@ URL: http://www.all-faucets.com/index.html
 
 If you're new to crypto faucets this site is for you. We list bitcoin and other digital currency faucets that are verified for their value and reputation. Usually people start trying-out faucets out of curiosity, or as a hobby, but with some knowledge and consistency such hobby can offer a good income. Our goal is to share the knowledge and to enable you to earn digital currency in the way that suits your interests and your life-style.
 
+◘ You may also be interested in crypto airdrops. Read the <a href="airdrops.html">Getting Started with Airdrops</a> draft post.
+
 **Getting started with bitcoin faucets**
 
 Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in an exchange for completing a captcha or tasks described by the websites.
