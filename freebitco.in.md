@@ -24,12 +24,8 @@ The daily interest is slowly increasing your total balance, which in turn increa
 
 A word of caution, however. There are many sites that offer an interest on the BTC, asking you to deposition various amounts. Many, if not most, are very risky or scam sites, and there's no guarantee that you'll ever see your money back after you deposit with such sites. The freebitco.in is the only "compound interest" site we trust.
 
----
-#### Make it yours!
-
-<a href="https://www.patreon.com/join/CryptoPayoff?" target="_blank">Own this page!</a> Take control of this page's content, use your ref ID or customize it any other way: <a href="your-page.html">read more</a>.
 
 ---
-#### Your advertisement
+#### Advertisement
 
 <iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
