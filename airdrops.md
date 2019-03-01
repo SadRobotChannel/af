@@ -13,7 +13,7 @@ A follower on Twitter had asked for a way to get started with Airdrops, and so I
 <p> </p>
 **Follow @etherflyercom**
 
-There are certainly a lot of individuals or parties you distribute tokens via the airdrops, but my personal experience with getting a number of different tokens was by following the <a href="https://twitter.com/etherflyercom" target="_blank">EtherFlyer</a> Twitter account. What you'll see from them are post as such:
+There are certainly a lot of individuals or parties you distribute tokens, but my personal experience had started by following the <a href="https://twitter.com/etherflyercom" target="_blank">EtherFlyer</a> Twitter account. What you'll see from them are post as such:
 
 <p> </p>
 <p><img src="/assets/images/EtherFlyer-01.png" border="0"></p>
