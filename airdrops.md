@@ -34,7 +34,7 @@ Two things to note - 1) your newly generated ETH wallet address, which you'll ne
 
 **View Details**
 
-Look into the details for each of the airdrops. Most of these events are looking to raise as much awareness as possible, so the tasks that you'll need to complete  usually involve retweeting the events and such. It is fairly fast and easy, since there are apps and sites that help your sharing activities. They also track how much sharing you do, and award you various amount of <i>Entry</i> points. Click the <i>Airdrop Link</i> to proceed.
+Look into the details for each of the airdrops. Most of these events are looking to raise as much awareness as possible, so the tasks that you'll need to complete  usually involve retweeting the events and such. It is fairly fast and easy, since there are apps and sites that help your sharing activities. They also track how much sharing you do and award you various amount of <i>Entry</i> points. Click the <i>Airdrop Link</i> to proceed.
 
 <p> </p>
 <p><img src="/assets/images/EtherFlyer-04.png" border="0"></p>
@@ -51,9 +51,14 @@ This is also where you follow the request of the giveaway, such as following the
 
 **All set**
 
-All you have to do now is just wait. Monitor your www.etherflyer.com account during the next days and you'll see the new tokens in your <i>My Assets</i> section of the website. Once you have the tokens, you can keep them or trade them. But that will be a topic for another post!
+All you have to do now is just wait. Monitor your www.etherflyer.com account during the next days and you'll see the new tokens in the <i>My Assets</i> section of the website. Once you have the tokens, you can keep them or trade them. But that will be a topic for another post!
 
 ---
 #### Share
 
 I am not an expert in Airdrops and have shared in this article the personal observations and experience. I encourage you to share your experience as well via the comment section below!
+
+---
+#### Advertisement
+
+<iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
