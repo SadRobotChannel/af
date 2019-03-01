@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Getting Started with Airdrops
 comments: true
+title: Getting Started with Airdrops
 img: http://www.all-faucets.com/assets/images/airdrop-thumb.png
 alt: Get a taste of Cryptocurrency Airdrops. Start within minutes.
 desc: Getting Started with Airdrops: a complete beginner's guide.
