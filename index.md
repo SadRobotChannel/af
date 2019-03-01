@@ -10,11 +10,11 @@ URL: http://www.all-faucets.com/index.html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 <link rel="stylesheet" href="assets/css/a2.css">
 
-Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in an exchange for completing a captcha or tasks described by the websites. We list the best faucet sites.
+If you're new to crypto faucets this site is for you. We list bitcoin and other digital currency faucets that are verified for their value and reputation. Usually people start trying-out faucets out of curiosity, or as a hobby, but with some knowledge and consistency such hobby can offer a good income. Our goal is to share the knowledge and to enable you to earn digital currency in the way that suits your interests and your life-style.
 
 **Getting started with bitcoin faucets**
 
-If you're new to crypto faucets this site is for you. There are <i>many</i> faucet sites on the Internet today, but our list is rather short, because we add only the faucets that are verified for their value and reputation. Usually people start trying-out faucets out of curiosity, or as a hobby, but with some knowledge and consistency such hobby can offer a reasonable income. Our goal is to share the knowledge and to enable you to earn digital currency in the way that suits your interests and your life-style.
+Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in an exchange for completing a captcha or tasks described by the websites. We list the best faucet sites.
 
 **Frequency of reward claim**
 
@@ -162,8 +162,8 @@ These two faucet sites are in a category of its own. They are transaction broker
     <tr>
        <td>8</td>
        <td><a href="http://bit.ly/www-faucethub" target="_blank"><img src="/assets/images/faucethub.io-thumb.png" alt="FaucetHub"/></a></td>
-       <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a></td>
-       <td><a href="/faucethub.io.html">Discussion</a> <a href="/your-page.html">¹</a> </td>
+       <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a> <a href="/your-page.html">¹</a> </td>
+       <td><a href="/faucethub.io.html">Discussion</a></td>
        <td>0.00020000 BTC</td>
        <td>Gateway to other faucets. Registering digital wallets on Faucethub is a prerequisite for many faucets sites.</td>
     </tr>
@@ -171,8 +171,8 @@ These two faucet sites are in a category of its own. They are transaction broker
     <tr>
        <td>9</td>
        <td><a href="http://coinpot.co" target="_blank"><img src="/assets/images/cointiply.com-thumb.png" alt="CoinPot"/></a></td>
-       <td><a href="http://coinpot.co" target="_blank">CoinPot</a></td>
-       <td><a href="/coinpot.com.html">Discussion</a> <a href="/your-page.html">¹</a> </td>
+       <td><a href="http://coinpot.co" target="_blank">CoinPot</a> <a href="/your-page.html">¹</a> </td>
+       <td><a href="/coinpot.com.html">Discussion</a></td>
        <td>0.00010000 BTC</td>
        <td>You will not be able to claim directly on this site, but rather on the site's affiliate, such as BonusBitcoin.</td>
     </tr>
