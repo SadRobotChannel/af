@@ -23,9 +23,3 @@ The sato faucet changes its payout scheme often. Several weeks ago it was paying
 The withdrawal is automatic. The amount you earn in sato is withdrawn and deposited every-time you claim. There's no minimum. As mentioned, you must claim into your faucethub account only, since both of these sites are "linked" together.
 <p> </p>
 <p><img src="/assets/images/sato-03.png" border="0"></p>
-
- 
----
-#### Your advertisement
-
-<iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
