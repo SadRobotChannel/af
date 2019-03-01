@@ -2,7 +2,7 @@
 layout: page
 title: Getting Started with Airdrops
 comments: true
-img:
+img: http://www.all-faucets.com/assets/images/airdrop-thumb.png
 alt: Get a taste of Cryptocurrency Airdrops. Start within minutes.
 desc: Getting Started with Airdrops: a complete beginner's guide.  
 URL: http://www.all-faucets.com/airdrops.html
@@ -51,7 +51,7 @@ This is also where you follow the request of the giveaway, such as following the
 
 **All set**
 
-All you have to do now is just wait. Monitor your www.etherflyer.com during the next days and you'll see the new tokens in your <i>My Assets</i> section of the website. Once you have the tokens, you can keep them or trade them! But that's is a topic for another post!
+All you have to do now is just wait. Monitor your www.etherflyer.com account during the next days and you'll see the new tokens in your <i>My Assets</i> section of the website. Once you have the tokens, you can keep them or trade them. But this is a topic for another post!
 
 ---
 #### Share
