@@ -22,3 +22,8 @@ First Claim: After a successful registration you can get your first claim.
 <p><img src="/assets/images/bonusbitcoin.co-04.png" border="0"></p>
 <p> </p>
 This page is maintained by <a href="https://twitter.com/TheCryptoneNerd" target="_blank">@TheCryptoneNerd</a>.
+
+---
+#### Advertisement
+
+<iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
