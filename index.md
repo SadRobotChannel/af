@@ -66,9 +66,9 @@ There are several tables below that list the faucet sites. The tables split by t
 <p> </p>
 **Direct vs. Indirect**
 
-There are some faucet sites that allow a direct transfer out (withdraw) of your earned digital currency. Let's say you created a wallet on BTC.com. Then when claim from a direct faucet (e.g. TrustBTCFaucet), you can specify your BTC.com's withdrawal wallet. Or any other bitcoin address.
+There are some faucet sites that allow a direct transfer out (withdraw) of your earned digital currency. Let's say you created a wallet on <a href="https://wallet.btc.com/" target="_blank">BTC.com</a>. Then when claiming from a direct faucet (e.g. TrustBTCFaucet), you can specify your BTC.com's withdrawal wallet. Or any other bitcoin address.
 
-Many of the faucets sites, however, allow only a withdrawal to an account that you'd need to create with either the FaucetHub or CoinPot. Think of these two sites as transaction brokers - a middleman between you and other faucet sites. The digital wallets you generate on these websites reduce or completely eliminate the transaction fees to transfer money from a faucet to yourself. They are your friends, although you may later want to withdraw your money from FaucetHub and CoinPot to a secure hardware wallet like Trezor.
+Many of the faucets sites, however, allow only a withdrawal to an account that you'd need to create with either the FaucetHub or CoinPot. Think of these two sites as transaction brokers - a middleman between you and other faucet sites. The digital wallets you generate on these websites reduce or completely eliminate the transaction fees to transfer money from a faucet to yourself. They are your friends, although you may later want to withdraw your money from FaucetHub and CoinPot to a secure hardware wallet like <a href="https://bitcoin.org/en/wallets/hardware/trezor/" target="_blank">Trezor</a>.
 
 <div class="table-users">
  <div class="header">Faucet Gateways</div>
