@@ -11,7 +11,7 @@ URL: http://www.all-faucets.com/all/index.html
 
 All of them
 
-<iframe src='table.html' scrolling='no' style='width:100%; height:100%; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='table.html' scrolling='no' style='width:100%; height:900px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 ---
 #### Social
 
