@@ -51,7 +51,7 @@ This is also where you follow the request of the giveaway, such as following the
 
 **All set**
 
-All you have to do now is just wait. Monitor your www.etherflyer.com account during the next days and you'll see the new tokens in your <i>My Assets</i> section of the website. Once you have the tokens, you can keep them or trade them. But this is a topic for another post!
+All you have to do now is just wait. Monitor your www.etherflyer.com account during the next days and you'll see the new tokens in your <i>My Assets</i> section of the website. Once you have the tokens, you can keep them or trade them. But that will be a topic for another post!
 
 ---
 #### Share
