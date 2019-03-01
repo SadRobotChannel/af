@@ -313,7 +313,7 @@ Finally, here are the sites that are not typically assumed to be the faucet site
 <p> </p>
 **What is your experience with faucet sites? Are there tips you can share?**
 
-We'd love for you to write a blog-like article about your experience, where you can use your referral IDs for the faucets you write about. Check out the currently ongoing March's Faucet Article Contest and submit your article to CryptoPayoff@gmail.com email.
+We'd love for you to write a blog-like article about your experience, where you can use your referral IDs for the faucets you write about. Check out the currently ongoing <a href="/march-article-contest.html">March's Faucet Article Contest</a> and submit your article to CryptoPayoff@gmail.com email.
 
 ---
 #### Social
