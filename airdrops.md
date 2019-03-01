@@ -5,6 +5,7 @@ comments: true
 alt: Get a taste of cryptocurrency airdrops. Start within minutes.
 img: http://www.all-faucets.com/assets/images/airdrop-thumb.png
 URL: http://www.all-faucets.com/airdrops.html
+desc: Getting Started with Airdrops. A simple guide showing step-by-step instructions to join free token airdrops.
 ---
 
 A follower on Twitter had asked for a way to get started with Airdrops, and so I put a few screenshots together. Here's how I got started with crypto airdrops.
