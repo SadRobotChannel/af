@@ -28,8 +28,7 @@ Speaking of transparency, see image below. On the right are the amounts the acti
 <p> </p>
 As with most of the faucet sites, you're also able to make money referring people, which is a hard a but rewarding task!
 
-
 ---
-#### Your advertisement
+#### Advertisement
 
 <iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
