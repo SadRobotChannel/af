@@ -39,6 +39,19 @@ Look into the details for each of the airdrops. Most of these events are looking
 <p> </p>
 <p><img src="/assets/images/EtherFlyer-04.png" border="0"></p>
 
+You'll arrive to either rafflecopter.com or gleam.io or another similar site that does giveaways and raffles. This is where you'll paste your ETH wallet address that you created earlier.
+
+<p> </p>
+<p><img src="/assets/images/EtherFlyer-05.png" border="0"></p>
+
+This is also where you follow the request of the giveaway, such as following the token's team, retweeting, etc. Click away on as many items as you can to increase your entry points. On the screenshot below I completed two tasks and got 6 entry points. Each entry point will translate to a number of tokens that I will receive at the Airdrop date specified in the details section.
+
+<p> </p>
+<p><img src="/assets/images/EtherFlyer-06.png" border="0"></p>
+
+**All set**
+
+All you have to do now is just wait. Monitor your www.etherflyer.com during the next days and you'll see the new tokens in your <i>My Assets</i> section of the website. Once you have the tokens, you can keep them or trade them! But that's is a topic for another post!
 
 ---
 #### Share
