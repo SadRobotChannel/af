@@ -18,7 +18,7 @@ Cryptocurrency faucets are reward systems in a form of a website or an app that 
 
 **Frequency of reward claim**
 
-There are several tables below that list the faucet sites. The tables split by the claim frequency or based on other grouping. You "claim" from faucet by visiting a site and pressing a button dispensing free bitcoin or other tokens. And so you may prefer an hourly period, where you visit and refresh a faucet website on your device (computer, table or mobile) once per hour and get your reward, or daily, or even as frequent as every 5 minutes.
+There are several tables below that list the faucet sites. The tables split by the claim frequency or another grouping. You "claim" from a faucet by visiting a site and pressing a button dispensing free bitcoin or other tokens. And so you may prefer an hourly period, where you visit and refresh a faucet website on your device (computer, tablet or mobile), or daily, or even as frequently as every 5 minutes.
 
 <div class="table-users">
  <div class="header">Claim every 5 minutes</div>
