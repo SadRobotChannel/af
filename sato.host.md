@@ -24,11 +24,7 @@ The withdrawal is automatic. The amount you earn in sato is withdrawn and deposi
 <p> </p>
 <p><img src="/assets/images/sato-03.png" border="0"></p>
 
----
-#### Make it yours!
-
-<a href="https://www.patreon.com/join/CryptoPayoff?" target="_blank">Own this page!</a> Take control of this page's content, use your ref ID or customize it any other way: <a href="your-page.html">read more</a>.
-
+ 
 ---
 #### Your advertisement
 
