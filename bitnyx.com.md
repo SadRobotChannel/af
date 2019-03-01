@@ -28,10 +28,6 @@ Speaking of transparency, see image below. On the right are the amounts the acti
 <p> </p>
 As with most of the faucet sites, you're also able to make money referring people, which is a hard a but rewarding task!
 
----
-#### Make it yours!
-
-<a href="https://www.patreon.com/join/CryptoPayoff?" target="_blank">Own this page!</a> Take control of this page's content, use your ref ID or customize it any other way: <a href="your-page.html">read more</a>.
 
 ---
 #### Your advertisement
