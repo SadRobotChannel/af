@@ -34,7 +34,11 @@ Two things to note - 1) your newly generated ETH wallet address, which you'll ne
 
 **View Details**
 
-Look into the details for each of the airdrops. Most of these events are looking to raise as much awareness as possible, so the tasks that you'll need to complete  usually involve retweeting the events and such.
+Look into the details for each of the airdrops. Most of these events are looking to raise as much awareness as possible, so the tasks that you'll need to complete  usually involve retweeting the events and such. It is fairly fast and easy, since there are apps and sites that help your sharing activities. They also track how much sharing you do, and award you various amount of <i>Entry</i> points. Click the <i>Airdrop Link</i> to proceed.
+
+<p> </p>
+<p><img src="/assets/images/EtherFlyer-04.png" border="0"></p>
+
 
 ---
 #### Share
