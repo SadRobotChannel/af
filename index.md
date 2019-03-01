@@ -94,7 +94,7 @@ Many of the faucets sites, however, allow only a withdrawal to an account that y
 
     <tr>
        <td>9</td>
-       <td><a href="http://coinpot.co" target="_blank"><img src="/assets/images/cointiply.com-thumb.png" alt="CoinPot"/></a></td>
+       <td><a href="http://coinpot.co" target="_blank"><img src="/assets/images/coinpot.co-thumb.png" alt="CoinPot"/></a></td>
        <td><a href="http://coinpot.co" target="_blank">CoinPot</a> <a href="/your-page.html">¹</a> </td>
        <td><a href="/coinpot.com.html">Discussion</a></td>
        <td>0.00010000 BTC</td>
