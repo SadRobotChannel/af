@@ -123,15 +123,6 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
     </tr>
 
     <tr>
-       <td>4</td>
-       <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/febbit.com-thumb.png" alt="Febbit"/></a></td>
-       <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a> <a href="/your-page.html">¹</a> </td>
-       <td><a href="/febbit.com.html">Discussion</a></td>
-       <td>0.00001000 BTC</td>
-       <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. Interaction frequency depends on your level.</td>
-    </tr>
-
-    <tr>
        <td>5</td>
        <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank"><img src="/assets/images/bonusbitcoin.co-thumb.png" alt="BonusBitcoin"/></a></td>
        <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">BonusBitcoin</a></td>
@@ -151,11 +142,6 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
 
  </table>
 </div>
-
-<p> </p>
-**Don't gamble**
-
-While many sites live from their ads, some are also making money by offering games and gambling services. While there's a solid chance of winning when you gamble, similarly as in a casino, in the long term you'll always loose. The house always stays profitable. And so we do not discuss gambling on this site and generally do not recommend it.
 
 <div class="table-users">
  <div class="header">Claim every 30 minutes</div>
@@ -177,6 +163,42 @@ While many sites live from their ads, some are also making money by offering gam
        <td><a href="/bitnyx.com.html">Discussion</a></td>
        <td>0.00025000 BTC</td>
        <td>Up to 0.00000030 BTC randomized; Possibility to win 0.00100000 BTC weekly</td>
+    </tr>
+
+ </table>
+</div>
+
+<p> </p>
+**Don't gamble**
+
+While many sites live from their ads, some are also making money by offering games and gambling services. While there's a solid chance of winning when you gamble, similarly as in a casino, in the long term you'll always loose. The house always stays profitable. And so we do not discuss gambling on this site and generally do not recommend it.
+
+<p> </p>
+**The good games**
+
+There are games that do not involve betting and still reward you similarly to the faucet sites. Such faucet games are more exciting to claim from, they are usually pleasing on the eyes and you tend to level up or increase your game experience as you spend more time in the game, which in turn continuously increases your crypto rewards.
+
+
+<div class="table-users">
+ <div class="header">Games</div>
+
+ <table cellspacing="0">
+    <tr>
+       <th><center>#</center></th>
+       <th><center>Site</center></th>
+       <th><center>Faucet Name</center></th>
+       <th><center>Info</center></th>
+       <th><center>Min. Withdrawal</center></th>
+       <th width="230"><center>Description</center></th>
+    </tr>
+
+    <tr>
+       <td>4</td>
+       <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/febbit.com-thumb.png" alt="Febbit"/></a></td>
+       <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a> <a href="/your-page.html">¹</a> </td>
+       <td><a href="/febbit.com.html">Discussion</a></td>
+       <td>0.00001000 BTC</td>
+       <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. Interaction frequency depends on your level.</td>
     </tr>
 
  </table>
