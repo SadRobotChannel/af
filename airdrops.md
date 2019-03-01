@@ -18,7 +18,7 @@ There are certainly a lot of individuals or parties you distribute tokens, but m
 <p> </p>
 <p><img src="/assets/images/EtherFlyer-01.png" border="0"></p>
 
-It is not enough just to re-tweet this post to get your share of the distribution. First, you'll need to set-up an account at <a href="https://www.etherflyer.com/" target="_blank">www.etherflyer.com</a>.
+It is not enough just to re-tweet this post to get your share of the distribution. There are a number of steps, but first you'll need to set-up an account at <a href="https://www.etherflyer.com/" target="_blank">www.etherflyer.com</a>.
 
 **Generate your Ethereum (ETH) wallet**
 
