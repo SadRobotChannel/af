@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Airdrops
+title: Getting Started with Airdrops
 comments: true
 ---
 
