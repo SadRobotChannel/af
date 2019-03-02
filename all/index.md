@@ -11,7 +11,7 @@ URL: http://www.all-faucets.com/all/index.html
 
 Work in progress... adding sites as we speak!
 
-<iframe src='a-faucets.html' scrolling='no' style='width:100%; height:400px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='a-faucets.html' scrolling='no' style='width:100%; height:380px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 <p>ad</p>
 
