@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Best Faucets Sites
-comments: false
+comments: true
 img: http://www.all-faucets.com/assets/images/all-faucets.com-thumb.png
 alt: Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins.
 desc: If you're new to crypto faucets this site is for you. Learn how to maximize the value of your time and effort while claiming from free bitcoin faucet sites.
@@ -24,4 +24,4 @@ Work in progress... adding sites as we speak!
 ---
 #### Social
 
-Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms! And also, say <i>hi</i> in <a href="chat.html">our chat</a>!
+Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms!
