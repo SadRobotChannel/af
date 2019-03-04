@@ -15,7 +15,7 @@ We are redesigning this page. The order of faucet sites provided will be from mo
 
 <iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90&background_color=ffffff' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<iframe src='rank_02.html' scrolling='no' style='width:100%; height:570px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='rank_02.html' scrolling='no' style='width:100%; height:650px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 <iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90&background_color=ffffff' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
