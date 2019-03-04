@@ -9,7 +9,7 @@ URL: http://www.all-faucets.com/all/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-We are redesigning this page. The order of faucet sites provided will be from most popular to least popular. We use Alexa statistics to show the rating. If you prefer, you can view the <a href="/all/abc.html">same list in alphabetical order</a>.
+We are redesigning this page. The order of faucet sites provided will be from most popular to least popular. We use Alexa statistics to show the rating. 
 
 <iframe src='rank_01.html' scrolling='no' style='width:100%; height:220px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
