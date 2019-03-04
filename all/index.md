@@ -16,7 +16,7 @@ We use Alexa statistics to show the rating.
 
 <iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90&background_color=ffffff' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<iframe src='rank_02.html' scrolling='no' style='width:100%; height:350px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='tier_2.html' scrolling='no' style='width:100%; height:350px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 <iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90&background_color=ffffff' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
