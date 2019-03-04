@@ -38,8 +38,8 @@ There are several tables below that list the faucet sites. The tables split by t
 
     <tr>
        <td>1</td>
-       <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank"><img src="/assets/images/bitcoinsfor.me-thumb.png" alt="BitcoinsFor.me"/></a></td>
-       <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">BitcoinsFor.me</a></td>
+       <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank"><img src="/assets/images/bitcoinsfor.me-thumb.png" alt="BitcoinsForMe"/></a></td>
+       <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">BitcoinsForMe</a></td>
        <td><a href="/bitcoinsfor.me.html">Discussion</a></td>
        <td>0.00000500 BTC</td>
        <td>0.00000010 BTC; Also: Free hourly Slots Roll; Offer Wall, etc</td>
