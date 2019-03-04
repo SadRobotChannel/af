@@ -10,7 +10,7 @@ URL: http://www.all-faucets.com/all/index.html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
 Faucet sites, grouped by popularity. The most popular sites (Tier 1-3) are the sites with the highest visitors visits and loyalty. <br>
-We use Alexa statistics to show the rating. 
+We use Alexa statistics to show the rating.
 
 <iframe src='rank_01.html' scrolling='no' style='width:100%; height:220px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
@@ -20,7 +20,13 @@ We use Alexa statistics to show the rating.
 
 <iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90&background_color=ffffff' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<iframe src='rank_03.html' scrolling='no' style='width:100%; height:540px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='tier_3.html' scrolling='no' style='width:100%; height:540px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+
+<iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90&background_color=ffffff' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+
+<iframe src='tier_4.html' scrolling='no' style='width:100%; height:540px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+
+<iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90&background_color=ffffff' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 <iframe src='rank_04.html' scrolling='no' style='width:100%; height:420px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
