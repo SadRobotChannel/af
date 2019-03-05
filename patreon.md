@@ -7,7 +7,7 @@ comments: true
 There's a unique services that we offer to our Patrons. With a monthly subscription to one of several packages (screenshot below), you can receive a monthly amount of cryptocurrency ranging from 10,000 to 1,000,000 satoshi (฿).
 
 <p> </p>
-<p><a target="_blank" href="https://www.patreon.com/join/CryptoPayoff"><img src="/assets/images/patreon-01.png" border="0"></p></a>
+<p><a target="_blank" href="https://www.patreon.com/join/CryptoPayoff"><img src="/assets/images/patreon-01.png" border="0"></a>
 <p> </p>
 
 <a target="_blank" href="https://www.patreon.com/join/CryptoPayoff">Subscribe via Patreon.com</a>.
