@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Become a Patron
-comments: true
-img: http://www.all-faucets.com/assets/images/march-giveaway-01.png
+comments: false
+img: http://www.all-faucets.com/assets/images/patreon-01.png
 alt: We will select a random follower on March 31st to receive 10,000 satoshi! Follow and Retweet this!
 desc: We're giving away a 10,000 bitcoin satoshi! Follow, Retweet and Wait! Check-out our site for more info!
 URL: http://www.all-faucets.com/march-giveaway.html
