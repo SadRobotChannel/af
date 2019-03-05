@@ -2,6 +2,10 @@
 layout: page
 title: Become a Patron and Receive BTC Monthly
 comments: true
+img: http://www.all-faucets.com/assets/images/patreon-01.png
+alt: Become our Patron: Convert 1 $ into 10,000 Satoshi (฿) every month. Other tiers are also also available!
+desc: Become our Patron: Convert 1 $ into 10,000 Satoshi (฿) every month. Other tiers are also also available!
+URL: http://www.all-faucets.com/patreon.html
 ---
 
 There's a unique services that we offer to our Patrons. With a monthly subscription to one of several packages (screenshot below), you can receive a monthly amount of cryptocurrency ranging from 10,000 to 1,000,000 satoshi (฿).
