@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Become a Patron and Receive BTC Monthly
+title: Become a Patron
 comments: true
 img: http://www.all-faucets.com/assets/images/march-giveaway-01.png
 alt: We will select a random follower on March 31st to receive 10,000 satoshi! Follow and Retweet this!
