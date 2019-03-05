@@ -5,7 +5,7 @@ comments: false
 img: http://www.all-faucets.com/assets/images/patreon-01.png
 alt: We will select a random follower on March 31st to receive 10,000 satoshi! Follow and Retweet this!
 desc: Convert your monthly patronage fee of $1 into 10,000 bitcoin satoshi! Start at $1 or invest more - other tiers available!
-URL: http://www.all-faucets.com/march-giveaway.html
+URL: http://www.all-faucets.com/ourpatrons.html
 ---
 
 **We work for you**
