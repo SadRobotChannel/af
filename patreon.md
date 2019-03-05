@@ -8,7 +8,7 @@ desc: Become our Patron: Convert 1 $ into 10000 Satoshi (฿) every month. Other
 URL: http://www.all-faucets.com/patreon.html
 ---
 
-There's a unique services that we offer to our Patrons. With a monthly subscription to one of several packages (screenshot below), you can receive a monthly amount of cryptocurrency ranging from 10,000 to 1,000,000 satoshi (฿).
+There's a unique services that we offer to our Patrons. With a monthly subscription to one of several packages, you can receive a monthly amount of cryptocurrency ranging from 10,000 to 1,000,000 satoshi (฿).
 
 <p> </p>
 <p><a target="_blank" href="https://www.patreon.com/join/CryptoPayoff"><img src="/assets/images/patreon-01.png" border="0"></a>
