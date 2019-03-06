@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl:
-email: 'bigaccount@gmail.com'
+email: 'cryptopayoff@gmail.com'
 google_analytics: 'UA-134453844-1'
 disqus: 'all-faucets'
 
@@ -16,7 +16,7 @@ authors:
     name: CryptoPayoff
     display_name: CryptoPayoff
     gravatar:
-    email: bigaccount@gmail.com
+    email: cryptopayoff@gmail.com
     web: http://www.all-faucets.com/
     twitter: https://twitter.com/CryptoPayoff
     description: "Keeping things real."
