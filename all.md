@@ -12,7 +12,7 @@ URL: http://www.all-faucets.com/index.html
 
 Here are all the faucets we currently feature:
 
-<iframe name="iframeall" src="http://www.all-faucets.com/go/index.html" crolling='no' style='width:100%; height:320px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe name="iframeall" src="http://www.all-faucets.com/go/index.html" scrolling='no' style='width:100%; height:100%; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 ---
 #### Social
