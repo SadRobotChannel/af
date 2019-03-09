@@ -9,8 +9,8 @@ URL: http://www.all-faucets.com/all/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-Faucet sites, grouped by popularity. The most popular sites (Tier 1-3) are the sites with the highest visitors visits and loyalty. <br>
-We use Alexa statistics to show the rating.
+Faucet sites, grouped by popularity. The most popular sites (Tier 1-5) are the sites with the highest visitors visits and loyalty. <br>
+We use Alexa statistics to show the global Internet rating.
 
 <iframe src='tier_1.html' scrolling='no' style='width:100%; height:320px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
