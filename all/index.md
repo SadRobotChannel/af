@@ -26,7 +26,7 @@ We use Alexa statistics to show the rating.
 
 <iframe src='tier_4.html' scrolling='no' style='width:100%; height:540px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90&background_color=ffffff' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<center><a href="http://bit.ly/www-febbit" target="_blank"><img src="//www.all-faucets.com/assets/images/febbit-ad.gif" alt="Febbit Game"></a></center>
 
 <iframe src='tier_5.html' scrolling='no' style='width:100%; height:320px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
@@ -43,4 +43,4 @@ We use Alexa statistics to show the rating.
 
 Thank you for visiting this site. If you found it helpful, please share it with your friends and give us a heart!
 
-<img src="//www.all-faucets.com/assets/images/heart.gif" alt="Recommend Us!"/></a>
+<img src="//www.all-faucets.com/assets/images/heart.gif" alt="Recommend Us!"/>
