@@ -11,6 +11,8 @@ URL: http://www.all-faucets.com/all/index.html
 
 Faucet sites, grouped by popularity. The most popular sites (Tier 1-5) are the sites with the highest visitors visits and loyalty. <br>
 We use Alexa statistics to show the global Internet rating.
+<p>
+Also, you can preview the beta version of the <a href="http://www.all-faucets.com/dashboard.html">Claim Dashboard</a> we're making. No Ref ID on the <b>Claim</b> button!
 
 <iframe src='tier_1.html' scrolling='no' style='width:100%; height:320px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
