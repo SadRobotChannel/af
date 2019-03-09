@@ -32,7 +32,11 @@ We use Alexa statistics to show the rating.
 
 <iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90&background_color=ffffff' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<iframe src='tier_6.html' scrolling='no' style='width:100%; height:620px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='tier_6.html' scrolling='no' style='width:100%; height:320px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+
+<a href="http://bit.ly/my-birds" target="_blank"><img src="https://my-birds.org/img/promo/728.gif" alt="Мои Птички"></a>
+
+<iframe src='tier_7.html' scrolling='no' style='width:100%; height:620px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 ---
 #### Social
