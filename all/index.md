@@ -34,11 +34,13 @@ We use Alexa statistics to show the rating.
 
 <iframe src='tier_6.html' scrolling='no' style='width:100%; height:320px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<a href="http://bit.ly/my-birds" target="_blank"><img src="https://my-birds.org/img/promo/728.gif" alt="Мои Птички"></a>
+<center><a href="http://bit.ly/my-birds" target="_blank"><img src="https://my-birds.org/img/promo/728.gif" alt="Мои Птички"></a></center>
 
 <iframe src='tier_7.html' scrolling='no' style='width:100%; height:620px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 ---
-#### Social
+#### Give us a heart
 
-Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms!
+Thank you for visiting this site. If you found it helpful, please share it with your friends and give us a heart!
+
+<img src="http://www.all-faucets.com/assets/images/heart.gif" alt="Recommend Us">
