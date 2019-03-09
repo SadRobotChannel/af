@@ -14,15 +14,15 @@ We use Alexa statistics to show the rating.
 
 <iframe src='tier_1.html' scrolling='no' style='width:100%; height:320px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90&background_color=ffffff' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<center><a href="http://bit.ly/www-febbit" target="_blank"><img src="//www.all-faucets.com/assets/images/febbit-ad.gif" alt="Febbit Game"></a></center>
 
 <iframe src='tier_2.html' scrolling='no' style='width:100%; height:590px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90&background_color=ffffff' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<center><a href="http://bit.ly/www-febbit" target="_blank"><img src="//www.all-faucets.com/assets/images/febbit-ad.gif" alt="Febbit Game"></a></center>
 
 <iframe src='tier_3.html' scrolling='no' style='width:100%; height:540px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90&background_color=ffffff' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<center><a href="http://bit.ly/www-rollercoin" target="_blank"><img src="//rollercoin.com/static/img/referral/banners/ref_72890.gif" alt="Roller Coin Game"/></a></center>
 
 <iframe src='tier_4.html' scrolling='no' style='width:100%; height:540px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
@@ -30,7 +30,7 @@ We use Alexa statistics to show the rating.
 
 <iframe src='tier_5.html' scrolling='no' style='width:100%; height:320px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<center><a href="http://bit.ly/www-rollercoin" target="_blank"><img src="//rollercoin.com/static/img/referral/banners/ref_72890.gif" alt="Roller Coin Game"/></a></center>
+<center><a href="http://bit.ly/www-btcmines" target="_blank"><img src="//www.all-faucets.com/assets/images/btcmines-ad.gif" alt="BTCMines"></a></center>
 
 <iframe src='tier_6.html' scrolling='no' style='width:100%; height:320px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
