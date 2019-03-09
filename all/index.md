@@ -30,7 +30,7 @@ We use Alexa statistics to show the rating.
 
 <iframe src='tier_5.html' scrolling='no' style='width:100%; height:320px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<iframe data-aa='1121329' src='//ad.a-ads.com/1121329?size=990x90&background_color=ffffff' scrolling='no' style='width:990px; height:90px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<center><a href="http://bit.ly/www-rollercoin"><img src="//rollercoin.com/static/img/referral/banners/ref_72890.gif" alt="Roller Coin Game"/></a></center>
 
 <iframe src='tier_6.html' scrolling='no' style='width:100%; height:320px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
@@ -43,4 +43,4 @@ We use Alexa statistics to show the rating.
 
 Thank you for visiting this site. If you found it helpful, please share it with your friends and give us a heart!
 
-<img src="http://www.all-faucets.com/assets/images/heart.gif" alt="Recommend Us">
+<iframe src="https://giphy.com/embed/4Hvizu0Pu6FtCQAVeS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/4Hvizu0Pu6FtCQAVeS">via GIPHY</a></p>
