@@ -26,7 +26,7 @@ We use Alexa statistics to show the rating.
 
 <iframe src='tier_4.html' scrolling='no' style='width:100%; height:540px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<center><a href="http://bit.ly/www-febbit" target="_blank"><img src="//www.all-faucets.com/assets/images/febbit-ad.gif" alt="Febbit Game"></a></center>
+<center><a href="http://bit.ly/www-cryptomininggame" target="_blank"><img src="//www.all-faucets.com/assets/images/cryptomininggame-ad.gif" alt="Crypto Mining Game"></a></center>
 
 <iframe src='tier_5.html' scrolling='no' style='width:100%; height:320px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
