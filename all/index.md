@@ -41,9 +41,7 @@ Also, you can preview the beta version of the <a href="http://www.all-faucets.co
 <iframe src='tier_7.html' scrolling='no' style='width:100%; height:620px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 
----
-#### Give us a heart!
-
-Thank you for visiting this site. If you found it helpful, please share it with your friends and give us a heart!
-
-<img src="//www.all-faucets.com/assets/images/heart.gif" alt="Recommend Us!"/>
+<p> </p>
+<b>Give us a heart!</b>
+<br>Thank you for visiting this site. If you found it helpful, please share it with your friends and give us a heart!
+<br><img src="//www.all-faucets.com/assets/images/heart.gif" alt="Recommend Us!"/>
