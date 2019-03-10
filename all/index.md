@@ -39,6 +39,7 @@ Also, you can preview the beta version of the <a href="http://www.all-faucets.co
 <center><a href="http://bit.ly/my-birds" target="_blank"><img src="https://my-birds.org/img/promo/728.gif" alt="Мои Птички"></a></center>
 
 <iframe src='tier_7.html' scrolling='no' style='width:100%; height:620px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<br>
 
 ---
 #### Give us a heart
