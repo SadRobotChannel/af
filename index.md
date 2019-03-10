@@ -321,4 +321,4 @@ We'd love for you to write a blog-like article about your experience, where you 
 ---
 #### Social
 
-Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms! And also, say <i>hi</i> in <a href="chat.html">our chat</a>!
+Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms! And also, say <i>hi</i> in our <a href="https://discord.gg/rSJsUWc">Discord Chat</a>!
