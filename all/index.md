@@ -24,7 +24,7 @@ Also, you can preview the beta version of the <a href="http://www.all-faucets.co
 
 <iframe src='tier_3.html' scrolling='no' style='width:100%; height:540px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<center><a href="http://bit.ly/www-dogegame" target="_blank"><img src="//www.all-faucets.com/assets/images/dogegame-ad.gif" alt="DogeGame"></a></center>
+<center><a href="http://bit.ly/www-rollercoin" target="_blank"><img src="//rollercoin.com/static/img/referral/banners/ref_72890.gif" alt="Roller Coin Game"/></a></center>
 
 <iframe src='tier_4.html' scrolling='no' style='width:100%; height:600px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
@@ -38,7 +38,9 @@ Also, you can preview the beta version of the <a href="http://www.all-faucets.co
 
 <center><a href="http://bit.ly/my-birds" target="_blank"><img src="https://my-birds.org/img/promo/728.gif" alt="Мои Птички"></a></center>
 
-<iframe src='tier_7.html' scrolling='no' style='width:100%; height:620px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='tier_7.html' scrolling='no' style='width:100%; height:320px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+
+<iframe src='tier_8.html' scrolling='no' style='width:100%; height:620px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 
 <p> </p>
