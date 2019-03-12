@@ -24,7 +24,7 @@ URL: http://www.all-faucets.com/zh/index.html
 下面有几个表列出了水龙头网站。 表格按索赔频率或其他分组进行划分。 您通过访问一个站点并按下按钮分配免费比特币或其他令牌来从水龙头“声称”。 因此，您可能更喜欢每小时一段时间，您可以访问并刷新设备（计算机，平板电脑或手机）上的水龙头网站，或者每天，甚至每5分钟更新一次。
 
 <div class="table-users">
- <div class="header">每5分钟一次</div>
+ <div class="header">索赔每5分钟一次</div>
 
  <table cellspacing="0">
     <tr>
@@ -113,7 +113,7 @@ URL: http://www.all-faucets.com/zh/index.html
 每个龙头网站都以不同的方式奖励您。 由于广告，大多数网站都能够自我维持，但是当广告过多或者试图让您感到困惑时，您最终会在网站上浪费太多时间，最后再也不会回到网站上。 我们尝试仅列出“最干净”的网站，每个水龙头索赔要花费10-15秒。 根据网站的不同，这10-15秒可以获得10-100秒的奖励。 有关龙头网站价值的信息列在本页的表格中，以及每个网站的讨论页面下，我们尝试提供一些有用的提示。
 
 <div class="table-users">
- <div class="header">每15分钟一次</div>
+ <div class="header">索赔每15分钟一次</div>
 
  <table cellspacing="0">
     <tr>
@@ -127,8 +127,8 @@ URL: http://www.all-faucets.com/zh/index.html
 
     <tr>
        <td>6</td>
-       <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank"><img src="/assets/images/bonusbitcoin.co-thumb.png" alt="BonusBitcoin"/></a></td>
-       <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">BonusBitcoin</a></td>
+       <td><a href="http://bit.ly/www-bonusbitcoin" target="_blank"><img src="/assets/images/bonusbitcoin.co-thumb.png" alt="BonusBitcoin"/></a></td>
+       <td><a href="http://bit.ly/www-bonusbitcoin" target="_blank">BonusBitcoin</a></td>
        <td><a href="/bonusbitcoin.co.html">Discussion</a></td>
        <td>0.00010000 BTC</td>
        <td>Random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for a 15 min interval.</td>
