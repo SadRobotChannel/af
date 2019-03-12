@@ -14,7 +14,7 @@ We use Alexa statistics to show the global Internet rating.
 <p>
 Also, you can preview the beta version of the <a href="http://www.all-faucets.com/dashboard.html">Claim Dashboard</a> we're making. No Ref ID on the <b>Claim</b> button!
 
-<iframe src='tier_1.html' scrolling='no' style='width:100%; height:320px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='tier_1.html' scrolling='no' style='width:100%; height:280px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 <center><a href="http://bit.ly/www-febbit" target="_blank"><img src="//www.all-faucets.com/assets/images/febbit-ad.gif" alt="Febbit Game"></a></center>
 
@@ -22,15 +22,15 @@ Also, you can preview the beta version of the <a href="http://www.all-faucets.co
 
 <center><a href="http://bit.ly/www-rollercoin" target="_blank"><img src="//www.all-faucets.com/assets/images/rollercoin-ad.gif" alt="RollerCoin Game"></a></center>
 
-<iframe src='tier_3.html' scrolling='no' style='width:100%; height:540px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='tier_3.html' scrolling='no' style='width:100%; height:200px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 <center><a href="http://bit.ly/www-rollercoin" target="_blank"><img src="//rollercoin.com/static/img/referral/banners/ref_72890.gif" alt="Roller Coin Game"/></a></center>
 
-<iframe src='tier_4.html' scrolling='no' style='width:100%; height:600px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='tier_4.html' scrolling='no' style='width:100%; height:580px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 <center><a href="http://bit.ly/www-cryptomininggame" target="_blank"><img src="//www.all-faucets.com/assets/images/cryptomininggame-ad.gif" alt="Crypto Mining Game"></a></center>
 
-<iframe src='tier_5.html' scrolling='no' style='width:100%; height:320px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='tier_5.html' scrolling='no' style='width:100%; height:280px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 <center><a href="http://bit.ly/www-btcmines" target="_blank"><img src="//www.all-faucets.com/assets/images/btcmines-ad.gif" alt="BTCMines"></a></center>
 
@@ -38,9 +38,9 @@ Also, you can preview the beta version of the <a href="http://www.all-faucets.co
 
 <center><a href="http://bit.ly/my-birds" target="_blank"><img src="https://my-birds.org/img/promo/728.gif" alt="Мои Птички"></a></center>
 
-<iframe src='tier_7.html' scrolling='no' style='width:100%; height:420px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='tier_7.html' scrolling='no' style='width:100%; height:400px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<iframe src='tier_8.html' scrolling='no' style='width:100%; height:620px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='tier_8.html' scrolling='no' style='width:100%; height:520px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 
 <p> </p>
