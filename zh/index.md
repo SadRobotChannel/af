@@ -92,7 +92,7 @@ URL: http://www.all-faucets.com/zh/index.html
        <td><a href="http://bit.ly/www-faucethub" target="_blank">FaucetHub</a></td>
        <td><a href="/faucethub.io.html">讨论</a></td>
        <td>0.00020000 BTC</td>
-       <td>Gateway to other faucets. Registering digital wallets on Faucethub is a prerequisite for many faucets sites.</td>
+       <td>通往其他水龙头的门户。 在Faucethub上注册数字钱包是许多水龙头网站的先决条件。</td>
     </tr>
 
     <tr>
@@ -101,7 +101,7 @@ URL: http://www.all-faucets.com/zh/index.html
        <td><a href="http://coinpot.co" target="_blank">CoinPot</a></td>
        <td><a href="/coinpot.com.html">讨论</a></td>
        <td>0.00010000 BTC</td>
-       <td>You will not be able to claim directly on this site, but rather on the site's affiliate, such as BonusBitcoin.</td>
+       <td>您将无法直接在此网站上声明，而是在网站的附属机构上声明，例如BonusBitcoin。</td>
     </tr>
 
  </table>
@@ -131,7 +131,7 @@ URL: http://www.all-faucets.com/zh/index.html
        <td><a href="http://bit.ly/www-bonusbitcoin" target="_blank">BonusBitcoin</a></td>
        <td><a href="/bonusbitcoin.co.html">讨论</a></td>
        <td>0.00010000 BTC</td>
-       <td>Random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for a 15 min interval.</td>
+       <td>随机奖励达到0.00005000 BTC，实际平均值为0.00000050 BTC，这对于15分钟的间隔是非常好的。</td>
     </tr>
 
     <tr>
@@ -140,7 +140,7 @@ URL: http://www.all-faucets.com/zh/index.html
        <td><a href="http://bit.ly/www-allcoins" target="_blank">Allcoins</a></td>
        <td><a href="/allcoins.pw.html">讨论</a></td>
        <td>no min</td>
-       <td>0.00000005 BTC; Also: Games; Mining; Offers; Multicurrency support</td>
+       <td>0.00000005 BTC; 还有：游戏; 矿业;信息; 多货币支持</td>
     </tr>
 
  </table>
@@ -165,7 +165,7 @@ URL: http://www.all-faucets.com/zh/index.html
        <td><a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a></td>
        <td><a href="/bitnyx.com.html">讨论</a></td>
        <td>0.00025000 BTC</td>
-       <td>Up to 0.00000030 BTC randomized; Possibility to win 0.00100000 BTC weekly</td>
+       <td>最高0.00000030 BTC随机化; 每周赢得0.00100000比特币的可能性</td>
     </tr>
 
  </table>
@@ -174,7 +174,7 @@ URL: http://www.all-faucets.com/zh/index.html
 <p> </p>
 **不要赌博**
 
-While many sites live from their ads, some are also making money by offering games and gambling services. While there's a solid chance of winning when you gamble, similarly as in a casino, in the long term you'll always loose. The house always stays profitable. And so we do not discuss gambling on this site and generally do not recommend it.
+虽然许多网站都是通过他们的广告生活的，但有些网站还通过提供游戏和赌博服务来赚钱。 虽然赌博时有很大的机会赢得赌博，但与赌场一样，从长远来看，你总是会放松。 房子总是保持盈利。 所以我们不讨论这个网站上的赌博，一般不推荐它。
 
 <p> </p>
 **好游戏**
@@ -191,7 +191,7 @@ While many sites live from their ads, some are also making money by offering gam
        <th><center>龙头名称</center></th>
        <th><center>信息</center></th>
        <th><center>最低提款金额</center></th>
-       <th width="230"><center>Description</center></th>
+       <th width="230"><center>描述</center></th>
     </tr>
 
     <tr>
@@ -200,7 +200,7 @@ While many sites live from their ads, some are also making money by offering gam
        <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a></td>
        <td><a href="/febbit.com.html">讨论</a></td>
        <td>0.00001000 BTC</td>
-       <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. Interaction frequency depends on your level.</td>
+       <td>基于浏览器的游戏。 你升级了一个挖掘比特币的怪物。 不是真正的挖掘，只是模拟。 交互频率取决于您的级别。</td>
     </tr>
 
  </table>
@@ -230,7 +230,7 @@ While many sites live from their ads, some are also making money by offering gam
        <td><a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a></td>
        <td><a href="/freebitco.in.html">讨论</a></td>
        <td>0.00003000 BTC</td>
-       <td>0.00000040 BTC per hour, with a possibility to roll more; Lottery</td>
+       <td>每小时0.00000040 BTC，可以滚动更多;抽奖</td>
     </tr>
 
     <tr>
