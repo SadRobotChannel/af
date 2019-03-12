@@ -8,23 +8,23 @@ desc: 如果你是加密水龙头的新手，这个网站是给你的。 了解�
 URL: http://www.all-faucets.com/zh/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-<link rel="stylesheet" href="assets/css/a2.css">
+<link rel="stylesheet" href="/assets/css/a2.css">
 
 如果你是加密水龙头的新手，这个网站是给你的。 我们列出了比特币和其他经过验证的价值和声誉的数字货币龙头。 通常人们出于好奇或者作为业余爱好开始试用水龙头，但是通过一些知识和一致性，这样的爱好可以提供良好的收入。 我们的目标是分享知识，让您以符合您的兴趣和生活方式的方式赚取数字货币。
 
 ◘ 如果您不是龙头网站的新手，请进入 <a href="http://www.all-faucets.com/all/">水龙头目录</a> 页面。 <br>
 ◘ 厌倦了水龙头还是没有时间？ <a href="http://www.all-faucets.com/ourpatrons.html">成为我们的赞助人</a>，每月收到10,000个饱！
 
-**Getting started with bitcoin faucets**
+**比特币龙头入门**
 
-Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in an exchange for completing a captcha or tasks described by the websites.
+加密货币龙头是网站形式的奖励系统或分发免费硬币的应用程序。 访客可以在交换中使用比特币satoshi或其他类型的硬币来完成网站描述的验证码或任务。
 
-**Frequency of reward claim**
+**奖励申请的频率**
 
-There are several tables below that list the faucet sites. The tables split by the claim frequency or another grouping. You "claim" from a faucet by visiting a site and pressing a button dispensing free bitcoin or other tokens. And so you may prefer an hourly period, where you visit and refresh a faucet website on your device (computer, tablet or mobile), or daily, or even as frequently as every 5 minutes.
+下面有几个表列出了水龙头网站。 表格按索赔频率或其他分组进行划分。 您通过访问一个站点并按下按钮分配免费比特币或其他令牌来从水龙头“声称”。 因此，您可能更喜欢每小时一段时间，您可以访问并刷新设备（计算机，平板电脑或手机）上的水龙头网站，或者每天，甚至每5分钟更新一次。
 
 <div class="table-users">
- <div class="header">Claim every 5 minutes</div>
+ <div class="header">每5分钟一次/div>
 
  <table cellspacing="0">
     <tr>
@@ -67,14 +67,14 @@ There are several tables below that list the faucet sites. The tables split by t
 </div>
 
 <p> </p>
-**Direct vs. Indirect**
+**直接与间接**
 
-There are some faucet sites that allow a direct transfer out (withdraw) of your earned digital currency. Let's say you created a wallet on <a href="https://wallet.btc.com/" target="_blank">BTC.com</a>. Then when claiming from a direct faucet (e.g. TrustBTCFaucet), you can specify your BTC.com's withdrawal wallet. Or any other bitcoin address.
+有一些水龙头网站允许直接转出（取款）您赚取的数字货币。 假设您在<a href="https://wallet.btc.com/" target="_blank">BTC.com</a>上创建了一个钱包。 然后，当从直接龙头（例如TrustBTCFaucet）索赔时，您可以指定您的BTC.com的提款钱包。 或任何其他比特币地址。
 
-Many of the faucets sites, however, allow only a withdrawal to an account that you'd need to create with either the FaucetHub or CoinPot. Think of these two sites as transaction brokers - a middleman between you and other faucet sites. The digital wallets you generate on these websites reduce or completely eliminate the transaction fees to transfer money from a faucet to yourself. They are your friends, although you may later want to withdraw your money from FaucetHub and CoinPot to a secure hardware wallet like <a href="https://bitcoin.org/en/wallets/hardware/trezor/" target="_blank">Trezor</a>.
+但是，许多水龙头网站只允许提取您需要使用FaucetHub或CoinPot创建的帐户。 将这两个站点视为交易经纪人 - 您和其他龙头站点之间的中间人。 您在这些网站上生成的数字钱包可以减少或完全消除将资金从水龙头转移给您自己的交易费用。 他们是你的朋友，虽然你以后可能想把你的钱从FaucetHub和CoinPot提取到像<a href="https://bitcoin.org/en/wallets/hardware/trezor/" target="_blank">Trezor</a>这样的安全硬件钱包。
 
 <div class="table-users">
- <div class="header">Faucet Gateways</div>
+ <div class="header">龙头网关</div>
 
  <table cellspacing="0">
     <tr>
@@ -108,12 +108,12 @@ Many of the faucets sites, however, allow only a withdrawal to an account that y
 </div>
 
 <p> </p>
-**Amount of reward and easibility of use**
+**奖励金额和使用的便利性**
 
-Each faucet site rewards you differently. Most of the sites are able to sustain itself due to advertisement, but when the ads are excessive or try to confuse you, you end-up wasting too much time on the site, and finally never come back to it. We try to list only the "cleanest" sites, where you spend literarily 10-15 seconds per faucet claim. And these 10-15 seconds are rewarded anywhere from 10-100 satoshi, depending on the site. The information about the value of faucet sites is listed in the tables on this page, as well as under the <i>Discussion</i> pages for each site, where we try to offer some helpful hints.
+每个龙头网站都以不同的方式奖励您。 由于广告，大多数网站都能够自我维持，但是当广告过多或者试图让您感到困惑时，您最终会在网站上浪费太多时间，最后再也不会回到网站上。 我们尝试仅列出“最干净”的网站，每个水龙头索赔要花费10-15秒。 根据网站的不同，这10-15秒可以获得10-100秒的奖励。 有关龙头网站价值的信息列在本页的表格中，以及每个网站的讨论页面下，我们尝试提供一些有用的提示。
 
 <div class="table-users">
- <div class="header">Claim every 15 minutes</div>
+ <div class="header">每15分钟一次</div>
 
  <table cellspacing="0">
     <tr>
