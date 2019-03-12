@@ -24,7 +24,7 @@ URL: http://www.all-faucets.com/zh/index.html
 下面有几个表列出了水龙头网站。 表格按索赔频率或其他分组进行划分。 您通过访问一个站点并按下按钮分配免费比特币或其他令牌来从水龙头“声称”。 因此，您可能更喜欢每小时一段时间，您可以访问并刷新设备（计算机，平板电脑或手机）上的水龙头网站，或者每天，甚至每5分钟更新一次。
 
 <div class="table-users">
- <div class="header">每5分钟一次/div>
+ <div class="header">每5分钟一次</div>
 
  <table cellspacing="0">
     <tr>
