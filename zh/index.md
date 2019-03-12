@@ -29,11 +29,11 @@ URL: http://www.all-faucets.com/zh/index.html
  <table cellspacing="0">
     <tr>
        <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
+       <th><center>网站</center></th>
+       <th><center>龙头名称</center></th>
+       <th><center>信息</center></th>
+       <th><center>最低提款金额</center></th>
+       <th width="230"><center>值</center></th>
     </tr>
 
     <tr>
@@ -51,7 +51,7 @@ URL: http://www.all-faucets.com/zh/index.html
        <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a></td>
        <td><a href="/trustbtcfaucet.com.html">Discussion</a></td>
        <td>0.00015000 BTC</td>
-       <td>From 0.00000003 to 0.00000888 BTC random value; Also: Loyalty Bonus; Daily Interest</td>
+       <td>From 0.00000003 to 0.00000888 BTC random 值; Also: Loyalty Bonus; Daily Interest</td>
     </tr>
 
     <tr>
@@ -79,11 +79,11 @@ URL: http://www.all-faucets.com/zh/index.html
  <table cellspacing="0">
     <tr>
        <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
+       <th><center>网站</center></th>
+       <th><center>龙头名称</center></th>
+       <th><center>信息</center></th>
+       <th><center>最低提款金额</center></th>
+       <th width="230"><center>值</center></th>
     </tr>
 
     <tr>
@@ -118,11 +118,11 @@ URL: http://www.all-faucets.com/zh/index.html
  <table cellspacing="0">
     <tr>
        <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
+       <th><center>网站</center></th>
+       <th><center>龙头名称</center></th>
+       <th><center>信息</center></th>
+       <th><center>最低提款金额</center></th>
+       <th width="230"><center>值</center></th>
     </tr>
 
     <tr>
@@ -152,11 +152,11 @@ URL: http://www.all-faucets.com/zh/index.html
  <table cellspacing="0">
     <tr>
        <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
+       <th><center>网站</center></th>
+       <th><center>龙头名称</center></th>
+       <th><center>信息</center></th>
+       <th><center>最低提款金额</center></th>
+       <th width="230"><center>值</center></th>
     </tr>
 
     <tr>
@@ -187,10 +187,10 @@ While many sites live from their ads, some are also making money by offering gam
  <table cellspacing="0">
     <tr>
        <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
+       <th><center>网站</center></th>
+       <th><center>龙头名称</center></th>
+       <th><center>信息</center></th>
+       <th><center>最低提款金额</center></th>
        <th width="230"><center>Description</center></th>
     </tr>
 
@@ -217,11 +217,11 @@ While many sites live from their ads, some are also making money by offering gam
  <table cellspacing="0">
     <tr>
        <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
+       <th><center>网站</center></th>
+       <th><center>龙头名称</center></th>
+       <th><center>信息</center></th>
+       <th><center>最低提款金额</center></th>
+       <th width="230"><center>值</center></th>
     </tr>
 
     <tr>
@@ -283,11 +283,11 @@ While many sites live from their ads, some are also making money by offering gam
  <table cellspacing="0">
     <tr>
        <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
+       <th><center>网站</center></th>
+       <th><center>龙头名称</center></th>
+       <th><center>信息</center></th>
+       <th><center>最低提款金额</center></th>
+       <th width="230"><center>值</center></th>
     </tr>
 
     <tr>
