@@ -273,12 +273,12 @@ While many sites live from their ads, some are also making money by offering gam
 </div>
 
 <p> </p>
-**Hidden gems**
+**隐藏的宝石**
 
-Finally, here are the sites that are not typically assumed to be the faucet sites. Eobot is primarily a mining site, but you can do much more once you create your account. You can use the site as your digital wallet for a large variety of tokens. And also, the site has a free daily faucet. Similarly, MellowAds is not a faucet site but rather an ad agency, allowing you to buy and sell online ads. The site, however, gives you a free daily faucet rewarding anywhere between 500-3000 satoshi per claim. A 500 satoshi for a 10 second action -- now that's a "reward vs. effort" balance we're happy about!
+最后，这里的网站通常不被认为是水龙头网站。 Eobot主要是一个采矿网站，但您可以在创建帐户后执行更多操作。 您可以将该网站用作各种令牌的数字钱包。 此外，该网站还有一个免费的日常水龙头。 同样，MellowAds不是一个水龙头网站，而是一个广告代理商，允许您购买和销售在线广告。 然而，该网站为您提供免费的每日龙头奖励每个索赔500-3000 satoshi之间的任何地方。 一个500 satoshi 10秒的行动 - 现在这是一个“奖励与努力”的平衡我们很高兴！
 
 <div class="table-users">
- <div class="header">Claim once per day</div>
+ <div class="header">每天索赔一次</div>
 
  <table cellspacing="0">
     <tr>
