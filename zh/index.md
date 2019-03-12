@@ -24,7 +24,7 @@ URL: http://www.all-faucets.com/zh/index.html
 下面有几个表列出了水龙头网站。 表格按索赔频率或其他分组进行划分。 您通过访问一个站点并按下按钮分配免费比特币或其他令牌来从水龙头“声称”。 因此，您可能更喜欢每小时一段时间，您可以访问并刷新设备（计算机，平板电脑或手机）上的水龙头网站，或者每天，甚至每5分钟更新一次。
 
 <div class="table-users">
- <div class="header">索赔每5分钟一次</div>
+ <div class="header">每5分钟一次</div>
 
  <table cellspacing="0">
     <tr>
@@ -113,7 +113,7 @@ URL: http://www.all-faucets.com/zh/index.html
 每个龙头网站都以不同的方式奖励您。 由于广告，大多数网站都能够自我维持，但是当广告过多或者试图让您感到困惑时，您最终会在网站上浪费太多时间，最后再也不会回到网站上。 我们尝试仅列出“最干净”的网站，每个水龙头索赔要花费10-15秒。 根据网站的不同，这10-15秒可以获得10-100秒的奖励。 有关龙头网站价值的信息列在本页的表格中，以及每个网站的讨论页面下，我们尝试提供一些有用的提示。
 
 <div class="table-users">
- <div class="header">索赔每15分钟一次</div>
+ <div class="header">每15分钟一次</div>
 
  <table cellspacing="0">
     <tr>
@@ -147,7 +147,7 @@ URL: http://www.all-faucets.com/zh/index.html
 </div>
 
 <div class="table-users">
- <div class="header">Claim every 30 minutes</div>
+ <div class="header">每30分钟一次</div>
 
  <table cellspacing="0">
     <tr>
@@ -172,18 +172,17 @@ URL: http://www.all-faucets.com/zh/index.html
 </div>
 
 <p> </p>
-**Don't gamble**
+**不要赌博**
 
 While many sites live from their ads, some are also making money by offering games and gambling services. While there's a solid chance of winning when you gamble, similarly as in a casino, in the long term you'll always loose. The house always stays profitable. And so we do not discuss gambling on this site and generally do not recommend it.
 
 <p> </p>
-**The good games**
+**好游戏**
 
-There are games that do not involve betting and still reward you similarly to the faucet sites. Such faucet games are more exciting to claim from, they are usually pleasing on the eyes and you tend to level up or increase your game experience as you spend more time in the game, which in turn continuously increases your crypto rewards.
-
+有些游戏不涉及投注，仍然会像龙头网站一样奖励你。 这样的龙头游戏更令人兴奋，它们通常令人赏心悦目，并且随着您在游戏中花费更多时间，您倾向于升级或增加游戏体验，从而不断增加您的加密奖励。
 
 <div class="table-users">
- <div class="header">Games</div>
+ <div class="header">游戏</div>
 
  <table cellspacing="0">
     <tr>
@@ -208,12 +207,12 @@ There are games that do not involve betting and still reward you similarly to th
 </div>
 
 <p> </p>
-**Not just Bitcoin!**
+**不只是比特币！**
 
-The next table shows the faucets with an hourly frequency of reward. We've added two more non-bitcoin faucets here - a Doge and a Ripple (XPR) faucet. Don't put all your eggs in one basket, the old saying goes. And even if you do prefer just one currency, you can later convert between digital currencies on sites like Eobot.
+下表显示了每小时频率奖励的水龙头。 我们在这里增加了两个非比特币水龙头 - 一个Doge和一个Ripple（XPR）水龙头。 俗话说，不要把所有的鸡蛋放在一个篮子里。 即使您确实只喜欢一种货币，您也可以稍后在Eobot等网站上的数字货币之间进行转换。
 
 <div class="table-users">
- <div class="header">Claim every 60 minutes</div>
+ <div class="header">每60分钟一次</div>
 
  <table cellspacing="0">
     <tr>
