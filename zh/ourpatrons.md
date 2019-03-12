@@ -28,4 +28,4 @@ URL: http://www.all-faucets.com/zh/ourpatrons.html
 <p> </p>
 
 与往常一样，如果您有任何疑问，请通过Twitter联系CP <a target="_blank" href="https://twitter.com/CryptoPayoff">通过Twitter </a>
-或<i> cryptopayoff@gmail.com </ i>电子邮件。
+或<i>cryptopayoff@gmail.com</i>电子邮件。
