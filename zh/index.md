@@ -12,8 +12,8 @@ URL: http://www.all-faucets.com/zh/index.html
 
 如果你是加密水龙头的新手，这个网站是给你的。 我们列出了比特币和其他经过验证的价值和声誉的数字货币龙头。 通常人们出于好奇或者作为业余爱好开始试用水龙头，但是通过一些知识和一致性，这样的爱好可以提供良好的收入。 我们的目标是分享知识，让您以符合您的兴趣和生活方式的方式赚取数字货币。
 
-◘ 如果您不是龙头网站的新手，请进入 <a href="http://www.all-faucets.com/zg/all.html">水龙头目录</a> 页面。 <br>
-◘ 厌倦了水龙头还是没有时间？ <a href="http://www.all-faucets.com/ourpatrons.html">成为我们的赞助人</a>，每月收到10,000个饱！
+◘ 如果您不是龙头网站的新手，请进入 <a href="http://www.all-faucets.com/zh/all.html">水龙头目录</a> 页面。 <br>
+◘ 厌倦了水龙头还是没有时间？ <a href="http://www.all-faucets.com/zh/ourpatrons.html">成为我们的赞助人</a>，每月收到10,000个饱！
 
 **比特币龙头入门**
 
