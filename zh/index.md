@@ -313,11 +313,11 @@ Finally, here are the sites that are not typically assumed to be the faucet site
 
 
 <p> </p>
-**What is your experience with faucet sites? Are there tips you can share?**
+**您对龙头网站的体验如何？ 有可以分享的提示吗？**
 
-We'd love for you to write a blog-like article about your experience, where you can use your referral IDs for the faucets you write about. Check out the currently ongoing <a href="/march-article-contest.html">March's Faucet Article Contest</a> and submit your article to CryptoPayoff@gmail.com email.
+请在下方发表评论以分享您的体验。 此外，如果您发现任何不准确或错误的英文 - 中文翻译，请通过CryptoPayoff@gmail.com电子邮件告知我们。
 
 ---
-#### Social
+#### 社会
 
-Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms! And also, say <i>hi</i> in our <a href="https://discord.gg/rSJsUWc">Discord Chat</a>!
+请你访问这个网站。 如果您发现它有用，请在您最喜欢的社交媒体平台上与您的朋友分享！ 而且，在我们的<a href="https://discord.gg/rSJsUWc">Discord Chat</a>中打个招呼！
