@@ -239,7 +239,7 @@ URL: http://www.all-faucets.com/zh/index.html
        <td><a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a></td>
        <td><a href="/cointiply.com.html">讨论</a></td>
        <td>0.00100000 BTC</td>
-       <td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
+       <td>该网站使用自己的硬币转换为BTC，使其每小时约0.00000050 BTC，略高于其他水龙头网站的平均水平。</td>
     </tr>
 
     <tr>
@@ -248,7 +248,7 @@ URL: http://www.all-faucets.com/zh/index.html
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">FreeDoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">讨论</a></td>
        <td>50 DOGE</td>
-       <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
+       <td>每小时约0.24 DOGE，可以滚动更多;彩票。</td>
     </tr>
 
     <tr>
@@ -257,7 +257,7 @@ URL: http://www.all-faucets.com/zh/index.html
        <td><a href="http://bit.ly/www-coinfaucet" target="_blank">CoinFaucet</a></td>
        <td><a href="/coinfaucet.io.html">讨论</a></td>
        <td>1.0 XRP</td>
-       <td>Around 0.00092500 Ripple (XPR) per claim. Similar interface and functions as freebitco.in.</td>
+       <td>每个声明约为0.00092500纹波（XPR）。 与freebitco.in类似的界面和功能。</td>
     </tr>
 
     <tr>
@@ -266,7 +266,7 @@ URL: http://www.all-faucets.com/zh/index.html
        <td><a href="http://bit.ly/www-free-bcash" target="_blank">Free-Bcash</a></td>
        <td><a href="/free-bcash.com.html">讨论</a></td>
        <td>0.00100000 BCH</td>
-       <td>Around 0.00000620 Bitcoin Cash (BCH) per claim. Also: 6% interest. Very similar freebitco.in</td>
+       <td>每张索赔约0.00000620比特币现金（BCH）。 另外：6％的利息。 非常相似的freebitco.in</td>
     </tr>
 
  </table>
@@ -296,7 +296,7 @@ URL: http://www.all-faucets.com/zh/index.html
        <td><a href="http://bit.ly/www-eobot" target="_blank">eobot</a></td>
        <td><a href="/eobot.com.html">讨论</a></td>
        <td>0.00200000 BTC</td>
-       <td>Claim once per day circa 0.00000140 BTC; Primarily is an exchange and mining site</td>
+       <td>每天一次索赔约0.00000140 BTC; 主要是交换和采矿网站</td>
     </tr>
 
     <tr>
@@ -305,7 +305,7 @@ URL: http://www.all-faucets.com/zh/index.html
        <td><a href="http://bit.ly/www-mellowads" target="_blank">MellowAds</a></td>
        <td><a href="/mellowads.com.html">讨论</a></td>
        <td>n/a</td>
-       <td>Claim once per day 0.00000500-0.00003000 BTC; Is an advertising platform (buy and sell ads), but gives you a free faucet; Use funds for ads</td>
+       <td>每天索赔0.00000500-0.00003000 BTC; 是一个广告平台（买卖广告），但给你一个免费的水龙头; 将资金用于广告</td>
     </tr>
 
  </table>
