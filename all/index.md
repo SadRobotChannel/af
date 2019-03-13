@@ -36,7 +36,7 @@ Sign-up for our monthly <a href="http://www.all-faucets.com/referral.html">site 
 
 <center><a href="http://bit.ly/my-birds" target="_blank"><img src="https://my-birds.org/img/promo/728.gif" alt="My Birds"></a></center>
 
-<iframe src='tier_7.html' scrolling='no' style='width:100%; height:340px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='tier_7.html' scrolling='no' style='width:100%; height:380px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 <center><a href="http://bit.ly/www-dogegame" target="_blank"><img src="//www.all-faucets.com/assets/images/dogegame-ad.gif" alt="DogeGame"></a></center>
 
