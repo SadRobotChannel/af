@@ -9,9 +9,9 @@ URL: http://www.all-faucets.com/all/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-Each month we'll be running a referral program offering you a chance to participate. Sign up once via form below. Share our links on a monthly basis on social media. Each time you share a link you earn a point. In the end of the month we will award the top contributors!
+Each month we'll be running a referral program offering you a chance to participate. Sign up just once via form below and participate every month. Share our links on a monthly basis on social media. Each time you share a link you earn a point. In the end of the month we will award the top contributors!
 <p>
-The March will be beta run. We hope to have at least 11 people participating. As a reward for sharing, we will put <i>your</i> Ref IDs on the Faucet Directory listings. Your ranking will also indicate which faucet you'll get to own. Each person will own 5 sites, as follows:
+The March will be beta run. We hope to have at least 10 people participating. As a reward for sharing, we will put <i>your</i> Ref IDs on the Faucet Directory listings. Your ranking will also indicate which faucet you'll get to own. Each person will own 5 sites, as follows:<p>
 Rank 1: sites #1 -5<br>
 Rank 2: sites #6-10<br>
 etc...
