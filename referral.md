@@ -22,6 +22,6 @@ etc...
   <input type="text" name="name" placeholder="Full Name">
   <input type="submit" value="Join Our Referral Program">
 </form>
-<p>
+<p> </p>
 P.S.
 You don't need to put your real/full name, just the email and your first name or initials or nick name is enough! ;-)
