@@ -18,6 +18,9 @@ Rank 2: sites #6-10<br>
 etc...
 Rank 10: sites #50-55
 <p> </p>
+<img src="/assets/images/referral-win.png" alt="Example">
+<p> </p>
+The winners in March will have their Ref IDs on the site until end of April. During April a new contest will be running, and new winners will be announced in the end of of April, who will in turn have their Ref IDs placed on the site.
 
 <br>
 <form action="https://growsurf.com/c/cjns6b" method="POST" class="growsurf-form blue">
