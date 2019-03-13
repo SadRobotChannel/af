@@ -12,7 +12,12 @@ URL: http://www.all-faucets.com/all/index.html
 Faucet sites, grouped by popularity. The most popular sites (Tier 1-5) are the sites with the highest visitors visits and loyalty. <br>
 We use Alexa statistics to show the global Internet rating.
 <p>
-Also, you can preview the beta version of the <a href="http://www.all-faucets.com/dashboard.html">Claim Dashboard</a> we're making. No Ref ID on the <b>Claim</b> button!
+Share this page and have <i>your</i> referral ID/URL used on this page for 30 days! The top 11 people will have their referral IDs used for the following top 11 sites! Share today!
+<form action="https://growsurf.com/c/cjns6b" method="POST" class="growsurf-form blue">
+  <input type="email" name="email" placeholder="Email (required)" required>
+  <input type="text" name="name" placeholder="Full Name">
+  <input type="submit" value="Join Our Referral Program">
+</form>
 
 <iframe src='tier_1.html' scrolling='no' style='width:100%; height:280px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
