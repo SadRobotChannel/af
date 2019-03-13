@@ -12,16 +12,6 @@ ref2: <script src="//js.growsurf.com/v1"></script>
 
 Each month we'll be running a referral program offering you a chance to participate. Sign up just once via form below and participate every month. Share our links on a monthly basis on social media. Each time you share a link you earn a point. In the end of the month we will award the top contributors!
 <p>
-The March will be beta run. We hope to have at least 10 people participating. As a reward for sharing, we will put <i>your</i> Ref IDs on the Faucet Directory listings. Your ranking will also indicate which faucet you'll get to own. Each person will own 5 sites, as follows:<p>
-Rank 1: sites #1 -5<br>
-Rank 2: sites #6-10<br>
-etc...
-Rank 10: sites #50-55
-<p> </p>
-<img src="/assets/images/referral-win.png" alt="Example">
-<p> </p>
-The winners in March will have their Ref IDs on the site until end of April. During April a new contest will be running, and new winners will be announced in the end of of April, who will in turn have their Ref IDs placed on the site.
-
 <br>
 <form action="https://growsurf.com/c/cjns6b" method="POST" class="growsurf-form blue">
   <input type="email" name="email" placeholder="Email (required)" required>
@@ -31,3 +21,15 @@ The winners in March will have their Ref IDs on the site until end of April. Dur
 <p> </p>
 P.S.
 You don't need to put your real/full name, just the email and your first name or initials or nick name is enough! ;-)
+
+**Let's try it!**
+
+The March will be beta run. We hope to have at least 10 people participating. As a reward for sharing, we will put <i>your</i> Ref IDs on the Faucet Directory listings. Your ranking will also indicate which faucet you'll get to own. Each person will own 5 sites, as follows:<p>
+Rank 1: sites #1 -5<br>
+Rank 2: sites #6-10<br>
+etc...
+Rank 10: sites #50-55
+<p> </p>
+<img src="/assets/images/referral-win.png" alt="Example">
+<p> </p>
+The winners in March will have their Ref IDs on the site until end of April. During April a new contest will be running, and new winners will be announced in the end of of April, who will in turn have their Ref IDs placed on the site.
