@@ -9,10 +9,9 @@ URL: http://www.all-faucets.com/all/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-Faucet sites, grouped by popularity. The most popular sites (Tier 1-5) are the sites with the highest visitors visits and loyalty. <br>
-We use Alexa statistics to show the global Internet rating.
+Sign-up for our site referral program!
 <p>
-Share this page and have <i>your</i> referral ID/URL used on this page for 30 days! The top 11 people will have their referral IDs used for the following top 11 sites! Share today!
+Share this page and we'll put  <i>your</i> referral ID/URL for one of the faucet sites here for 30 days! The top 11 people will have their referral IDs used for the following top 11 sites! Sing up and share today!
 <form action="https://growsurf.com/c/cjns6b" method="POST" class="growsurf-form blue">
   <input type="email" name="email" placeholder="Email (required)" required>
   <input type="text" name="name" placeholder="Full Name">
