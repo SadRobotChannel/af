@@ -8,7 +8,7 @@ URL: http://www.all-faucets.com/all/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-The sites are shown in the order of popularity.
+The sites are shown in the order of popularity. Also, try the <a href="http://www.all-faucets.com/dashboard.html">Claim Dashboard</a> - a page you can bookmark and use for daily claiming. No Ref IDs are place on the <b>claim button</b>.
 
 <iframe src='tier_1.html' scrolling='no' style='width:100%; height:280px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
