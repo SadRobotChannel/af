@@ -24,7 +24,7 @@ Sign-up for our monthly <a href="http://www.all-faucets.com/referral.html">site 
 
 <center><a href="http://bit.ly/www-rollercoin" target="_blank"><img src="//rollercoin.com/static/img/referral/banners/ref_72890.gif" alt="Roller Coin Game"/></a></center>
 
-<iframe src='tier_4.html' scrolling='no' style='width:100%; height:570px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='tier_4.html' scrolling='no' style='width:100%; height:600px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 <center><a href="http://bit.ly/www-cryptomininggame" target="_blank"><img src="//www.all-faucets.com/assets/images/cryptomininggame-ad.gif" alt="Crypto Mining Game"></a></center>
 
