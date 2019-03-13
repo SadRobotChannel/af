@@ -10,8 +10,13 @@ URL: http://www.all-faucets.com/all/index.html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
 Sign-up for our site referral program!
+<br>
+<form action="https://growsurf.com/c/cjns6b" method="POST" class="growsurf-form blue">
+  <input type="email" name="email" placeholder="Email (required)" required>
+  <input type="text" name="name" placeholder="Full Name">
+  <input type="submit" value="Join Our Referral Program">
+</form>
 <p>
-
 
 <iframe src='tier_1.html' scrolling='no' style='width:100%; height:280px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
