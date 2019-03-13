@@ -23,7 +23,8 @@ Note: You don't need to put your real/full name, just the email and your first n
 <p> </p>
 <b>Let's try it!</b>
 <p> </p>
-The March will be beta run. We hope to have at least 10 people participating. As a reward for sharing, we will put <i>your</i> Ref IDs on the Faucet Directory listings. Your ranking will indicate which faucet you'll get to own. Each person will own 5 sites, as follows:<p>
+The March will be beta run. We hope to have at least 10 people participating. As a reward for sharing, we will put <i>your</i> Ref IDs on the Faucet Directory listings. Your ranking will indicate which faucet you'll get to own. Each person will own 5 sites, as follows:
+<br>
 Rank 1: sites #1 -5<br>
 Rank 2: sites #6-10<br>
 etc...
