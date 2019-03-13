@@ -19,8 +19,7 @@ Each month we'll be running a referral program offering you a chance to particip
   <input type="submit" value="Join Our Referral Program">
 </form>
 <p> </p>
-P.S.
-You don't need to put your real/full name, just the email and your first name or initials or nick name is enough! ;-)
+Note: You don't need to put your real/full name, just the email and your first name or initials or nick name is enough!
 
 <p> </p>
 <b>Let's try it!</b>
