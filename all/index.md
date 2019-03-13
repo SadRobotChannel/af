@@ -8,9 +8,6 @@ URL: http://www.all-faucets.com/all/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
-
 The sites are shown in the order of popularity.
 
 <iframe src='tier_1.html' scrolling='no' style='width:100%; height:280px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
@@ -29,6 +26,4 @@ The sites are shown in the order of popularity.
 
 <iframe src='tier_8.html' scrolling='no' style='width:100%; height:300px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-
 <p> </p>
-<div class="fb-comments" data-href="http://www.all-faucets.com/all/index.html" data-numposts="20"></div>
