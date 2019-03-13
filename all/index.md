@@ -9,7 +9,7 @@ URL: http://www.all-faucets.com/all/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-Sign-up for our site referral program!
+Sign-up for our monthly site referral program! When you sign-up and share this page, you are becoming a part of our team. We put <i>your</i> Ref IDs on the links below. (You don't need to put your real/full name, just the email and your first name or initials or nick name is enough.)
 <br>
 <form action="https://growsurf.com/c/cjns6b" method="POST" class="growsurf-form blue">
   <input type="email" name="email" placeholder="Email (required)" required>
