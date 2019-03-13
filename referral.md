@@ -10,7 +10,7 @@ ref2: <script src="//js.growsurf.com/v1"></script>
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-Each month we'll be running a referral program offering you a chance to participate. Sign up just once via the form below and participate every month. Share the links to our site  via social media and earn points. Each time you share your Rank is increasing. In the end of the month we will award the top contributors!
+Each month we'll be running a referral program offering you a chance to participate. Sign up just once via the form below and participate every month. Share the links to our site's <a href="http://www.all-faucets.com/all/index.html">Faucet Directory page</a> via social media and earn points. Each time you share your Rank is increasing. In the end of the month we will award the top 10 contributors!
 
 <form action="https://growsurf.com/c/cjns6b" method="POST" class="growsurf-form blue">
   <input type="email" name="email" placeholder="Email (required)" required>
@@ -21,9 +21,9 @@ Each month we'll be running a referral program offering you a chance to particip
 Note: You don't need to put your real/full name, just the email and your first name or initials or nick name is enough!
 
 <p> </p>
-<b>Let's try it!</b>
+<b>Your Reward for Sharing</b>
 <p> </p>
-The March will be beta run. We hope to have at least 10 people participating. As a reward for sharing, we will put <i>your</i> Ref IDs on the Faucet Directory listings. Your ranking will indicate which faucet you'll get to own. Each person will own 5 sites, as follows:
+The March will be beta run. We hope to have at least 10 people participating. As a reward for sharing, we will put <i>your</i> Ref IDs on the <a href="http://www.all-faucets.com/all/index.html">Faucet Directory page</a> . Your ranking number will indicate which faucet you'll get to own. Each person will own 5 sites, counting from the top, as follows:
 <br>
 Rank 1: sites #1 -5<br>
 Rank 2: sites #6-10<br>
