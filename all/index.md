@@ -11,12 +11,7 @@ URL: http://www.all-faucets.com/all/index.html
 
 Sign-up for our site referral program!
 <p>
-Share this page and we'll put  <i>your</i> referral ID/URL for one of the faucet sites here for 30 days! The top 11 people will have their referral IDs used for the following top 11 sites! Sing up and share today!
-<form action="https://growsurf.com/c/cjns6b" method="POST" class="growsurf-form blue">
-  <input type="email" name="email" placeholder="Email (required)" required>
-  <input type="text" name="name" placeholder="Full Name">
-  <input type="submit" value="Join Our Referral Program">
-</form>
+
 
 <iframe src='tier_1.html' scrolling='no' style='width:100%; height:280px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
