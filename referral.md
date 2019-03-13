@@ -10,7 +10,7 @@ ref2: <script src="//js.growsurf.com/v1"></script>
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-Each month we'll be running a referral program offering you a chance to participate. Sign up just once via form below and participate every month. Share our links on a monthly basis on social media. Each time you share a link you earn a point. In the end of the month we will award the top contributors!
+Each month we'll be running a referral program offering you a chance to participate. Sign up just once via the form below and participate every month. Share the links to our site  via social media and earn points. Each time you share your Rank is increasing. In the end of the month we will award the top contributors!
 
 <form action="https://growsurf.com/c/cjns6b" method="POST" class="growsurf-form blue">
   <input type="email" name="email" placeholder="Email (required)" required>
