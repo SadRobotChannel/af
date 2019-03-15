@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Highest Paying Bitcoin Faucets
 comments: false
 ---
 
