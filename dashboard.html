@@ -62,7 +62,19 @@
 
               <div class="row">
                   <div class="col-md-12" id="collection-heading">
-                    This is still a beta...
+
+                    <p id="timeIS"></p>
+
+                    <script>
+                    var myVar = setInterval(myTimer, 1000);
+
+                    function myTimer() {
+                      var d = new Date();
+                      var t = d.toLocaleTimeString();
+                      document.getElementById("timeIS").innerHTML = t;
+                    }
+                    </script>
+
                   </div>
               </div>
 
@@ -162,7 +174,7 @@
                                       <a href="https://cointiply.com/" target="_blank" class="btn btn-sm btn-outline-secondary" role="button" aria-pressed="true">Claim</a>
                                     </div>
                                     <small class="text-muted">
-                                    <a href="#">5 min</a> |
+                                    <a href="#">60 min</a> |
                                     <a href="#">BTC</a></small>
                                     </div>
                                 </div>
