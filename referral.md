@@ -12,12 +12,15 @@ URL: http://www.all-faucets.com/all/referral.html
 Win 30,000 satoshi (฿) just by sharing a link! Join our monthly referral program!
 
 Each month we're a running a referral program. Share the links to our site via social media and earn points. Each time you share your Rank is increasing. In the end of the month we reward the top 3 contributors with bitcoin satoshi (฿)!
-<p>
-# 1 - 30,000 satoshi (฿)
-# 2 - 20,000 satoshi (฿)
-# 3 - 20,000 satoshi (฿)
 
-Sign up just once via the form below and participate every month.
+<p> April's Rewards:<br>
+# 1 - 30,000 satoshi (฿)<br>
+# 2 - 20,000 satoshi (฿)<br>
+# 3 - 20,000 satoshi (฿)<br>
+
+<p>The winners will be announced on April 30th at 12:00 PM Paris time!</p>
+<br>
+<p>Sign up just once via the form below and participate every month.</p>
 
 <button onclick="growsurf.open('z66yel')" class="growsurf-button blue">Join Our Referral Program</button>
 <p> </p>
