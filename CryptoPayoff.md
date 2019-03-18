@@ -16,4 +16,6 @@ The experienced users will benefit by jumping directly to the <a href="/all/inde
 
 Finally, there's a unique services that we offer to our Patrons. With a monthly subscription to one of several <a target="_blank" href="https://www.patreon.com/join/CryptoPayoff">packages we provide via Patreon.com</a>, you can receive an amount of BTC ranging from 10,000 to 1,000,000 satoshi (฿) per month. This is a service we created for your convenience - you do not have to do anything during the month (asides of subscribing just once) to receive the your monthly digital currency, and you can cancel your subscription to the packages at any moment. Our rates are very competitive, and we encourage you to search Internet for similar services and compare our offer with other offers on the Internet.
 
+<div class="shareaholic-canvas" data-app="follow_buttons" data-app-id="28047450"></div>
+
 <div class="shareaholic-canvas" data-app="recommendations" data-app-id="28220878"></div>
