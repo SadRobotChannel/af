@@ -23,3 +23,11 @@ Finally, there's a unique services that we offer to our Patrons. With a monthly 
   </div>
   <div id="content" style="display: none">Time is DOne</div>
 </div>
+
+<div id="container">
+  <a href="http://blackminer.pw" target="_blank" onclick="countToShow(24)">Link</a>
+  <div id="ads" style="display: none">
+    <div id="countdown"></div>
+  </div>
+  <div id="content" style="display: none">Time is DOne</div>
+</div>
