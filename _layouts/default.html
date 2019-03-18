@@ -27,7 +27,33 @@
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
 
-<script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='1c1fdb674e923f158254712610bc923c9bcd7be61b146b1ddfa8d6c715ebf8df';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>
+    <!-- script start -->
+<script>
+function countToShow(timeInSeconds) {
+
+  var countdownElement = document.getElementById('countdown');
+  var contentElement = document.getElementById('content');
+  var adsElement = document.getElementById('ads');
+  var remainingSeconds = timeInSeconds;
+
+  adsElement.style.display = '';
+  countdownElement.innerHTML = remainingSeconds;
+
+  var interval = setInterval(function() {
+
+    countdownElement.innerHTML = --remainingSeconds;
+
+    if (remainingSeconds === 0) {
+      clearInterval(interval);
+      contentElement.style.display = '';
+      adsElement.style.display = 'none';
+    }
+
+  }, 1000);
+}
+</script>
+
+    <!-- script end -->
 
 {% if jekyll.environment == 'production' %}
 <script>
