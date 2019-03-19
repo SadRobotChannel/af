@@ -28,7 +28,14 @@
 <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
 
     <!-- BEGIN  CODE -->
-
+    <script type="text/javascript">
+    var appoInit=document.createElement('script');
+    var appoS=document.getElementsByTagName('script')[0];
+    appoInit.type='text/javascript';
+    appoInit.src='https://www.appocalypsis.com/loader/init/FPPFFP.js';
+    appoInit.async=true;
+    appoS.parentNode.insertBefore(appoInit, appoS);
+    </script>
     <!-- END  CODE -->
 
 {% if jekyll.environment == 'production' %}
@@ -47,9 +54,6 @@
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{ layout }}">
-
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
 
 <!-- Begin Menu Navigation
 ================================================== -->
@@ -194,8 +198,6 @@
 <script type='text/javascript' src='{{ site.baseurl }}/assets/js/masonry.pkgd.min.js'></script>
 
 <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
-
-<div class="fb-like" data-href="http://www.all-faucets.com/index.html" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
 
 </body>
 
