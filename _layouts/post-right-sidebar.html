@@ -22,7 +22,7 @@ post_class: post-template
                         {% assign sortedCategories = page.categories | sort %}
                         {% for category in sortedCategories %}
                         <li>
-                         <a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>
+                         <a href="{{ site.baseurl }}/blog/{{ category | slugify }}/">{{ category }}</a>
                         </li>
                         {% endfor %}
                     </ul>
@@ -74,18 +74,17 @@ post_class: post-template
 
              <!-- Author Box -->
 
-				<div class="row post-top-meta">
-					<div class="col-md-2">
-						<img class="author-thumb" src="#" alt="Author's name">
-					</div>
-					
-					<div class="col-md-10">
-						<a target="_blank" class="link-dark" href="#">Author</a>
-						<a target="_blank" href="#" class="btn follow">Follow on Twitter</a>
-						<span class="author-description">Author's Description</span>
-					</div>
-				</div>
-                {% endif %}
+					 	<div class="row post-top-meta">
+							<div class="col-md-2">
+								<img class="author-thumb" src="#" alt="Author's name">
+							</div>
+
+							<div class="col-md-10">
+								<a target="_blank" class="link-dark" href="#">Author</a>
+								<a target="_blank" href="#" class="btn follow">Follow on Twitter</a>
+								<span class="author-description">Author's Description</span>
+							</div>
+						</div>
 
 
             <!-- Begin Comments
