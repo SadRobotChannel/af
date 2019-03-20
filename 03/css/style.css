@@ -234,6 +234,12 @@ nav {
   transition: all 1s ease;
 }
 
+.copyright {  padding-top: 1.5rem; font-size:0.9em; }
+.copyright a {color:#eee;}
+.copyright a:hover {text-decoration:none;color:#fff;}
+
+
+
 @media (min-width: 480px) {
   .nav-list {
     display: block;
@@ -250,4 +256,18 @@ nav {
   .visible-xs {
     display: none;
   }
+}
+
+@media (max-width: 575px) {
+    .footer {text-align:center;}
+    .footer-widget {
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+    .sidebar {max-width:100%;}
+    .copyright .pull-left, .copyright .pull-right {float:none;}
+    .beforefooter {text-align:center;}
+    .beforefooter .footersocial { text-align: center !important;    margin-top: 1rem; }
+    .form-group .col-md-6:first-child {   margin-bottom: 1rem;}
+
 }
