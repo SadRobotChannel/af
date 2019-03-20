@@ -1,8 +1,20 @@
 ---
 layout: page
 title: Claim Dashboard
-comments: true
+comments: false
 ---
+
+<!-- Start of Survicate (www.survicate.com) code -->
+<script type="text/javascript">
+  (function (w) {
+    var s = document.createElement('script');
+    s.src = '//survey.survicate.com/workspaces/a49598e5998b0c1e3bddbaa988c71b5b/web_surveys.js';
+    s.async = true;
+    var e = document.getElementsByTagName('script')[0];
+    e.parentNode.insertBefore(s, e);
+  })(window);
+</script>
+<!-- End of Survicate code -->
 
 **What is YOUR 'claim dashboard'?**
 
