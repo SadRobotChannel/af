@@ -1,0 +1,21 @@
+h1 + form {
+  margin: 18px 0 0;
+}
+
+th > a {
+ font-weight: normal;
+}
+
+.github-ribbon {
+  display: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0;
+}
+
+@media (min-width: 900px) {
+  .github-ribbon {
+    display: block;
+  }
+}

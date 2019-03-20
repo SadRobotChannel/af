@@ -1,0 +1,47 @@
+{
+  "name": "bookmarks",
+  "description": "Searchable collection of bookmarks in a webpage",
+  "version": "0.6.0",
+  "homepage": "https://github.com/twolfson/bookmarks",
+  "author": {
+    "name": "Todd Wolfson",
+    "email": "todd@twolfson.com",
+    "url": "http://twolfson.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twolfson/bookmarks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twolfson/bookmarks/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/twolfson/bookmarks/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "copy-firefox-bookmarks": "cp  ~/.mozilla/firefox/*.default/bookmarkbackups/bookmarks-$(date +%Y-%m-%d)_*.json bookmarks.orig.json",
+    "parse-bookmarks": "npm run flatten-bookmarks && npm run minify-parsed-bookmarks",
+    "flatten-bookmarks": "firefox-bookmarks flatten bookmarks.orig.json --folders \"web dev code,web dev refs,web dev tips,web dev tools\" > bookmarks.min.json",
+    "minify-parsed-bookmarks": "underscore print --in bookmarks.min.json > bookmarks.json",
+    "test": "echo 'No tests =(' 2>&1 && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.11.0",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-watch": "~0.4.0",
+    "firefox-bookmarks": "~0.6.0",
+    "grunt-curl": "~1.2.1"
+  },
+  "keywords": [
+    "bookmarks",
+    "browsable",
+    "webpage"
+  ]
+}

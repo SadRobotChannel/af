@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+  <head>
+    <title>twolfson's bookmarks</title>
+    <!-- Load CSS -->
+    <link rel="stylesheet" href="public/css/bootstrap.css"></link>
+    <link rel="stylesheet" href="public/css/index.css"></link>
+    <!-- Load public scripts -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="public/js/bootstrap-dropdown.js"></script>
+    <script src="public/js/list.js"></script>
+    <script src="public/js/list.matchSearch.js"></script>
+    <script src="public/js/microtemplatez.js"></script>
+  </head>
+  <body>
+    <div id="bookmark-list-container" class="container">
+      <div class="row">
+        <h1 class="span6">twolfson's bookmarks</h1>
+        <form id="search-form" class="span6">
+          <div class="input-append">
+            <input type="text" id="search">
+            <div class="btn-group">
+              <button type="submit" class="btn search-btn">Search</button>
+              <button class="btn dropdown-toggle" data-toggle="dropdown">
+                <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu">
+                <li><a data-text="Search" data-search="*" href="#">Search everything</a></li>
+                <li><a data-text="Search title" data-search="title" href="#">Search by title</a></li>
+                <li><a data-text="Search URI" data-search="uri" href="#">Search by URI</a></li>
+              </ul>
+            </div>
+          </div>
+        </form>
+      </div>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>
+              <span>Title</span>
+              <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+              <a href="#" class="sort" data-sort="title">Sort by title</a>
+            </th>
+            <th>
+              <span>URI</span>
+              <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+              <a href="#" class="sort" data-sort="uri">Sort by URI</a>
+            </th>
+          </tr>
+        </thead>
+        <tbody id="bookmark-list" class="list">
+          <tr>
+            <td>Loading...</td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- GitHub ribbon -->
+    <a href="https://github.com/twolfson/bookmarks"><img class="github-ribbon" src="public/img/github-ribbon.png" alt="Fork me on GitHub"></a>
+
+    <!-- Templating for list -->
+    <script type="text/micro" id="bookmark-template">
+      <tr>
+        <td><span class="title">{{title}}</span></td>
+        <td><a href="{{uri}}" class="uri">{{uri}}</a></td>
+      </tr>
+    </script>
+
+    <!-- Load files -->
+    <script src="public/js/bookmarks.js"></script>
+    <script src="public/js/index.js"></script>
+  </body>
+</html>
