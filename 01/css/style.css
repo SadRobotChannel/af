@@ -1,0 +1,472 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+body {
+  font-family: "Open Sans", sans-serif;
+  background: #fafcfd;
+}
+
+.layout {
+  display: flex;
+  background: #fff;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 5px;
+  width: 1440px;
+  height: 1160px;
+  box-shadow: 0px 0px 15px -6px #363636;
+}
+
+.sidebar {
+  background: #252529;
+  width: 270px;
+  display: flex;
+  flex-direction: column;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.sidebar .brand {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  padding: 30px 0 30px 30px;
+  border-bottom: 0.5px solid #424447;
+}
+.sidebar .brand .icon {
+  margin-right: 10px;
+}
+.sidebar .creators {
+  margin-top: auto;
+  color: #fff;
+  font-size: 0.75em;
+}
+.sidebar .creators .owner {
+  border-bottom: 0.5px solid #424447;
+  border-top: 0.5px solid #424447;
+  display: flex;
+  align-items: center;
+  padding: 15px 30px;
+}
+.sidebar .creators .owner .owner-img {
+  border-radius: 50%;
+}
+.sidebar .creators .owner .desc {
+  margin-left: 15px;
+}
+.sidebar .creators .owner .desc h6 {
+  margin-top: 10px;
+  color: #74777b;
+}
+.sidebar .creators .owner .icon {
+  display: block;
+  margin-left: auto;
+}
+.sidebar .creators .copyright {
+  padding: 30px;
+}
+.sidebar .creators .copyright .copy-text {
+  color: #74777b;
+  margin-top: 15px;
+  font-size: 0.95em;
+  line-height: 1.5em;
+}
+
+nav.main-nav {
+  color: #fff;
+  padding: 30px 15px 0 15px;
+  box-sizing: border-box;
+}
+nav.main-nav .main-menu {
+  padding-bottom: 15px;
+  border-bottom: 0.5px solid #424447;
+}
+nav.main-nav .main-menu::before {
+  content: "MENU";
+}
+nav.main-nav .sub-menu::before {
+  content: "SUPPORT";
+}
+nav.main-nav .menu::before {
+  color: #74777b;
+  display: block;
+  padding: 0 15px 15px 15px;
+  font-size: 0.75em;
+}
+nav.main-nav .menu li.menu-item {
+  font-size: 0.75em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  padding: 15px;
+  border-radius: 2.5px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+nav.main-nav .menu li.menu-item .badge {
+  display: block;
+  color: #252529;
+  background: #fff;
+  border-radius: 50%;
+  text-align: center;
+  padding-top: 4px;
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+}
+nav.main-nav .menu li.menu-item a {
+  text-decoration: none;
+  color: #fff;
+}
+nav.main-nav .menu li.menu-item.selected, nav.main-nav .menu li.menu-item:hover {
+  background: #1765d8;
+  cursor: pointer;
+}
+nav.main-nav .menu li.menu-item:hover {
+  border: 0.5px solid #fff;
+}
+nav.main-nav .menu li.menu-item.selected:hover {
+  border: 0.5px solid #1765d8;
+}
+nav.main-nav .menu.sub-menu {
+  margin-top: 30px;
+}
+
+/*
+	Content Section (White area styles)
+*/
+.content {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+}
+.content .topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  border-bottom: 0.5px solid #ddddde;
+}
+.content .topbar h2.title {
+  font-weight: 600;
+}
+.content .topbar .user-options {
+  display: flex;
+  align-items: center;
+  padding: 2px 0;
+}
+.content .topbar .user-options .country-selector {
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+  padding: 12px 7.5px;
+  border: 0.5px solid #ddddde;
+  border-radius: 2.5px;
+  font-size: 0.75em;
+  position: relative;
+}
+.content .topbar .user-options .country-selector::before {
+  content: "";
+  display: block;
+  position: absolute;
+  border-left: 1px solid #ddddde;
+  height: 100%;
+  left: -30px;
+}
+.content .topbar .user-options .country-selector i {
+  margin: 0 10px;
+}
+.content .topbar .user-options .country-selector i:first-child {
+  font-size: 1.5em;
+}
+.content .topbar .user-options .country-selector i:last-child {
+  color: #74777b;
+  margin-left: 30px;
+}
+.content .topbar .user-options .country-selector:hover {
+  cursor: pointer;
+  background: #4ac85c;
+  color: #fff;
+}
+.content .topbar button {
+  color: #fff;
+  outline: none;
+  border: none;
+  background: #34ab45;
+  padding: 15px 15px;
+  box-shadow: 1px 2px 2px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 2.5px;
+  margin-right: 30px;
+}
+.content .topbar button:hover {
+  cursor: pointer;
+  background: #4ac85c;
+}
+
+.content .user-list .list-wrapper {
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+.content .user-list .search-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+  border-bottom: 0.5px solid #ddddde;
+  color: #8e9094;
+  font-size: 1em;
+  background: #fcfcfc;
+}
+.content .user-list .search-bar input[type="text"] {
+  border: none;
+  outline: none;
+  font-size: 0.75em;
+  background: none;
+}
+.content .user-list .list-section > label {
+  color: #8e9094;
+  display: block;
+  padding: 15px 30px;
+  border-bottom: 0.5px solid #ddddde;
+  font-size: 0.75em;
+}
+.content .user-list .list-section .list {
+  list-style: none;
+}
+.content .user-list .list-section .list li {
+  padding: 15px 30px;
+  border-bottom: 0.5px solid #ddddde;
+  border-right: 5px solid transparent;
+  display: flex;
+  align-items: center;
+}
+.content .user-list .list-section .list li:hover {
+  cursor: pointer;
+}
+.content .user-list .list-section .list li:hover, .content .user-list .list-section .list li.selected {
+  border-right-color: #1765d8;
+  background: #f7f7f7;
+}
+.content .user-list .list-section .list li > img {
+  border-radius: 50%;
+}
+.content .user-list .list-section .list li .text {
+  margin-left: 30px;
+}
+.content .user-list .list-section .list li .text h3 {
+  font-weight: 600;
+}
+.content .user-list .list-section .list li .text h5 {
+  color: #74777b;
+  margin-top: 10px;
+  font-size: 0.75em;
+}
+
+.content .container {
+  display: flex;
+  flex-grow: 1;
+}
+.content .container > section {
+  width: 50%;
+}
+.content .container .user-list {
+  border-right: 0.5px solid #ddddde;
+}
+.content .container .user-detail {
+  padding: 30px;
+  box-sizing: border-box;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+.content .container .user-detail .profile-item {
+  display: flex;
+  flex-direction: column;
+  margin: 30px 0;
+  position: relative;
+}
+.content .container .user-detail .profile-item:last-child {
+  margin-bottom: 0;
+}
+.content .container .user-detail .profile-item a.more {
+  position: absolute;
+  text-decoration: none;
+  color: red;
+  top: 0;
+  right: 0;
+  font-size: 0.625em;
+  color: #8e9094;
+}
+.content .container .user-detail .profile-item > h4 {
+  color: #74777b;
+  text-transform: uppercase;
+  font-size: 0.75em;
+  margin-bottom: 15px;
+}
+.content .container .user-detail .profile-info {
+  display: flex;
+  align-items: center;
+}
+.content .container .user-detail .profile-info > img {
+  border-radius: 50%;
+}
+.content .container .user-detail .profile-info .desc {
+  margin-left: 15px;
+}
+.content .container .user-detail .profile-info .desc h5 {
+  color: #74777b;
+  font-size: 0.75em;
+  margin-top: 10px;
+}
+.content .container .user-detail .profile-info .desc .reviews {
+  margin-top: 30px;
+  font-size: 0.75em;
+  color: #74777b;
+}
+.content .container .user-detail .profile-info .desc .reviews .count {
+  padding: 7.5px 10px;
+  color: #fff;
+  border-radius: 2.5px;
+  background: #f6ab2e;
+  margin-right: 7.5px;
+}
+.content .container .user-detail .basic-details ul.info {
+  display: flex;
+  list-style: none;
+}
+.content .container .user-detail .basic-details ul.info li {
+  color: #424447;
+  font-size: 0.75em;
+  display: flex;
+  margin-right: 30px;
+}
+.content .container .user-detail .basic-details ul.info li i {
+  color: #74777b;
+  margin-right: 10px;
+}
+.content .container .user-detail .bio-details .desc {
+  color: #5b5d61;
+  font-size: 0.75em;
+  line-height: 1.8em;
+}
+.content .container .user-detail .tags-details .info {
+  font-size: 0.75em;
+  list-style: none;
+}
+.content .container .user-detail .tags-details .info li {
+  display: inline-block;
+  background: #252529;
+  padding: 7.5px 10px;
+  border-radius: 1.6666666667px;
+  color: #fff;
+  margin-right: 7.5px;
+}
+.content .container .user-detail .tags-details .info li.high {
+  background: #34ab45;
+}
+.content .container .user-detail .tags-details .info li.medium {
+  background: #f6ab2e;
+}
+.content .container .user-detail .tags-details .info li.low {
+  background: #1765d8;
+}
+.content .container .user-detail .divider {
+  border-bottom: 0.5px solid #ddddde;
+  height: 1px;
+}
+
+.user-detail .associated .buildings {
+  list-style: none;
+  margin-top: 15px;
+  display: flex;
+}
+.user-detail .associated .buildings li {
+  display: inline-block;
+  font-size: 0.75em;
+  max-width: 65px;
+  margin: 0 15px;
+  margin-bottom: auto;
+}
+.user-detail .associated .buildings li:first-child {
+  margin-left: 0;
+}
+.user-detail .associated .buildings li img {
+  border-radius: 5px;
+}
+.user-detail .associated .buildings li h3 {
+  margin-top: 10px;
+  line-height: 1.4em;
+}
+.user-detail .associated .buildings li h4 {
+  margin-top: 10px;
+  color: #8e9094;
+  line-height: 1.4em;
+}
+.user-detail .associated .buildings li:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+.user-detail .members .owners {
+  list-style: none;
+  display: flex;
+  margin-top: 15px;
+}
+.user-detail .members .owners li {
+  color: #fff;
+  margin: 0 30px;
+  position: relative;
+  width: 165px;
+  height: 165px;
+}
+.user-detail .members .owners li:first-child {
+  margin-left: 0;
+}
+.user-detail .members .owners li > img {
+  border-radius: 5px;
+  position: absolute;
+  z-index: 0;
+}
+.user-detail .members .owners li .desc {
+  position: absolute;
+  bottom: 0;
+  transition: bottom 0.5s;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.user-detail .members .owners li .desc h3 {
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+.user-detail .members .owners li .desc h4 {
+  font-size: 0.625em;
+  color: #c2c4c6;
+}
+.user-detail .members .owners li:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+.user-detail .members .owners li:hover .desc {
+  bottom: 30px;
+}
+
+.user-detail .reviews ul.list {
+  list-style: none;
+  margin-top: 10px;
+}
+.user-detail .reviews ul.list li {
+  display: flex;
+  align-items: flex-start;
+}
+.user-detail .reviews ul.list li > img {
+  border-radius: 50%;
+  margin-right: 15px;
+}
+.user-detail .reviews ul.list li .text-content h4 {
+  font-weight: 600;
+}
+.user-detail .reviews ul.list li .text-content .text {
+  margin-top: 10px;
+  font-size: 0.75em;
+  color: #8e9094;
+  line-height: 1.35em;
+}
