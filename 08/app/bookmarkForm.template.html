@@ -1,0 +1,43 @@
+  <div class="container">
+    <div id="row">
+      <div class="col s12">
+        <div class="row">
+          <div class="input-field col s12">
+            <input id="txtTitle" [(ngModel)]="title" maxlength="50" type="text">
+            <label class="active" for="txtTitle">Title</label>
+          </div>
+        </div>
+        <div class="row">
+          <div class="input-field col s12">
+            <input id="txtUrl" [(ngModel)]="url" maxlength="200" type="text">
+            <label class="active" for="txtUrl">URL</label>
+          </div>
+        </div>
+        <div class="row">
+          <div class="input-field col s12">
+            <input id="txtTags" [(ngModel)]="tags" maxlength="100" type="text">
+            <label for="txtTags">Tags (Optional)</label>
+          </div>
+        </div>
+        <div class="row">
+          <div class="input-field col s12">
+            <input id="txtCategory" [(ngModel)]="category" maxlength="25" type="text">
+            <label for="txtCategory">Category (Optional)</label>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col s12">
+            <button id="btnSave" 
+                class="waves-effect waves-light btn blue accent-2" 
+                autocomplete="off" (click)="save()">Save Bookmark
+          </button>
+          <i class="glyphicon glyphicon-info-sign" 
+              data-toggle="popover" title="Things to Note" 
+              data-placement="top" 
+              data-content="Tags should be comma delimited. Supplying a Category will save to a markdow file with the same name.">
+          </i>
+        </div>
+      </div>
+    </div>
+  </div>
