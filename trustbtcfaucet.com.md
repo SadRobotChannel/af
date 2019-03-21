@@ -22,10 +22,6 @@ A feature different from freebitco.in is TrustBTCFaucet's <i>Loyalty Bonus</i>. 
 <p> </p>
 <p><img src="/assets/images/trustbtcfaucet.com-02.png" border="0"></p>
 
----
-#### Make it yours!
-
-<a href="https://www.patreon.com/join/CryptoPayoff?" target="_blank">Own this page!</a> Take control of this page's content, use your ref ID or customize it any other way: <a href="your-page.html">read more</a>.
 
 ---
 #### Advertisement
