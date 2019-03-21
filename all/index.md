@@ -22,7 +22,7 @@ The sites are shown in the order of popularity. Also, try the <a href="http://ww
 
 <iframe src='tier_6.html' scrolling='no' style='width:100%; height:310px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<iframe src='tier_7.html' scrolling='no' style='width:100%; height:380px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='tier_7.html' scrolling='no' style='width:100%; height:400px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 <iframe src='tier_8.html' scrolling='no' style='width:100%; height:300px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
