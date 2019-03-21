@@ -8,11 +8,11 @@ URL: http://www.all-faucets.com/all/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-The sites are shown in the order of popularity. Also, try the <a href="http://www.all-faucets.com/dashboard.html">Claim Dashboard</a> - a page you can bookmark and use for daily claiming. There are Ref IDs in place - links are "clean".
+The sites are shown in the order of popularity. Also, try the <a href="http://www.all-faucets.com/dashboard.html">Claim Dashboard</a> - a page you can bookmark and use for daily claiming. There are no Ref IDs in place - links are "clean".
 
 <iframe src='tier_1.html' scrolling='no' style='width:100%; height:280px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<iframe src='tier_2.html' scrolling='no' style='width:100%; height:600px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='tier_2.html' scrolling='no' style='width:100%; height:610px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 <iframe src='tier_3.html' scrolling='no' style='width:100%; height:260px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
