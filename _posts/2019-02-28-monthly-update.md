@@ -37,6 +37,6 @@ Finally, there's a unique services that we offer to our Patrons. With a monthly 
   })();
  </script>
 
- <div id='vuukle-emote'></div>
+Comment!
 
  <div class='vuukle-powerbar'></div>
