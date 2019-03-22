@@ -16,10 +16,9 @@ Our main service is information. We aim to maintain a directory of valuable fauc
         <li>Discussion Pages for... BitcoinsForMe, TrustBTCFaucet, Sato and several other sites</li>
       </ol>
     </li>
-    <li>A list item</li>
-    <li>A list item</li>
-    <li>A list item</li>
-    <li>A list item</li>
+    <li><a href="http://www.all-faucets.com/all/index.html">Faucets Directory</a></li>
+    <li><a href="http://www.all-faucets.com/dashboard.html">Claim Dashboard</a></li>
+
   </ol>
 
 </div>
