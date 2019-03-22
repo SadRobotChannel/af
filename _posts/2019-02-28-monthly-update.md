@@ -22,21 +22,3 @@ The experienced users will benefit by jumping directly to the <a href="http://ww
 **Our monthly service to you via Patreon**
 
 Finally, there's a unique services that we offer to our Patrons. With a monthly subscription to one of several <a target="_blank" href="https://www.patreon.com/join/CryptoPayoff">packages we provide via Patreon.com</a>, you can receive an amount of BTC ranging from 10,000 to 1,000,000 satoshi (฿) per month. This is a service we created for your convenience - you do not have to do anything during the month (asides of subscribing just once) to receive the your monthly digital currency, and you can cancel your subscription to the packages at any moment. Our rates are very competitive, and we encourage you to search Internet for similar services and compare our offer with other offers on the Internet.
-
-<script>
-  var VUUKLE_CONFIG = {
-  	apiKey: "1b04bbfb-52f6-4878-ba6f-600d59bc608a",
-  	articleId: "KspSuPAmw8MfVzdx",
-  };
-  // ⛔️ DON'T EDIT BELOW THIS LINE
-  (function() {
- 	 var d = document,
-  		s = d.createElement('script');
-	 s.src = 'https://cdn.vuukle.com/platform.js';
-	(d.head || d.body).appendChild(s);
-  })();
- </script>
-
-Comment!
-
- <div class='vuukle-powerbar'></div>
