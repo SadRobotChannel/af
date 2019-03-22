@@ -1,7 +1,6 @@
 ---
 layout: post-right-sidebar
 title:  "2019: February"
-author: sal
 categories: [ talk ]
 image: assets/images/all-faucets.com-thumb.png
 ---
