@@ -11,11 +11,9 @@ Our main service is information. We aim to maintain a directory of valuable fauc
 <div>
 
   <ol>
-    <li><a href="http://www.all-faucets.com">Main Page</a> - an introduction to cryptocurrency faucets
+    <li><a href="http://www.all-faucets.com">Main Page</a> - an introduction to cryptocurrency faucets</li>
       <ol>
-        <li>A nested list item</li>
-        <li>A nested list item</li>
-        <li>A nested list item</li>
+        <li>Discussion Pages for... BitcoinsForMe, TrustBTCFaucet, Sato and several other sites</li>
       </ol>
     </li>
     <li>A list item</li>
