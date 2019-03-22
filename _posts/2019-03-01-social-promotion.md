@@ -1,6 +1,6 @@
 ---
 layout: post-right-sidebar
-title:  "2019: February"
+title:  "Social Promotion"
 categories: [ services ]
 image: assets/images/social-promotion.png
 ---
