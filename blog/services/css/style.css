@@ -1,0 +1,28 @@
+/** Dont care about this **/
+body {
+  max-width: 30em;
+  margin: 0 auto;
+  padding: 2em;
+  background: #fcfbfa;
+}
+.snippet {
+  width: 100%;
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background: #fff;
+}
+
+/** Care about this, if you want **/
+ol {
+   list-style: none;
+	 counter-reset: item;
+}
+ol li {
+	   counter-increment: item;
+	 }
+ol li:before {
+       margin-right: 10px;
+       content: counters(item, ".") " ";
+       display: inline-block;
+     }
