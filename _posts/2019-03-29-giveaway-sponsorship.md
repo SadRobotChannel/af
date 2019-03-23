@@ -10,4 +10,4 @@ Each 24 hours we run a Bitcoin Giveaway, randomly selecting one person to receiv
 <p> </p>
 Fund our giveaway BTC wallet <b>34zUNtx8HCAgcpoEtpTbktQqSkghYE1j7Y</b> for the amount of 0.00000350 ฿ and fill-out the form below. If this sounds too complicated just talk to us!
 <p> </p>
-{% include form.html %}
+{% include  contact.html %}
