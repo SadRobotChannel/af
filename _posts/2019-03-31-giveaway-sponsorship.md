@@ -11,28 +11,21 @@ Each 24 hours we run a Bitcoin Giveaway, randomly selecting one person to receiv
 <b>Send a payment of 34zUNtx8HCAgcpoEtpTbktQqSkghYE1j7Y for the amount of 0.00000350 ฿</b>
 <p> </p>
 Here's a list of days that are open for sponsorship. As you see, there's plenty to choose from!
-<br>MM: 04 (April)
-- 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
-<br>MM: 05 (May)
-- 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+<p>MM: 04 (April)
+<br>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+<p>MM: 05 (May)
+<br>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
 
-<div id="wufoo-z1qnswux0ajizmw">
-Fill out my <a href="https://allfaucets.wufoo.com/forms/z1qnswux0ajizmw">online form</a>.
-</div>
-<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">HTML Forms powered by <a href="http://www.wufoo.com">Wufoo</a>.</div>
-<script type="text/javascript">var z1qnswux0ajizmw;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName':'allfaucets',
-'formHash':'z1qnswux0ajizmw',
-'autoResize':true,
-'height':'709',
-'async':true,
-'host':'wufoo.com',
-'header':'show',
-'ssl':true};
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'secure.wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { z1qnswux0ajizmw = new WufooForm();z1qnswux0ajizmw.initialize(options);z1qnswux0ajizmw.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script>
+<iframe height="709"
+        allowTransparency="true"
+        frameborder="0"
+        scrolling="no"
+        style="width:100%;border:none"
+        src="https://allfaucets.wufoo.com/embed/z1qnswux0ajizmw/">
+  <a href="https://allfaucets.wufoo.com/forms/z1qnswux0ajizmw/">
+    Fill out my Wufoo form!
+  </a>
+</iframe>
+                          <div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">
+
+  </div>
