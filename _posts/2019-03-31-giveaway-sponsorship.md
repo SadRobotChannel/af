@@ -8,14 +8,9 @@ image:
 
 Each 24 hours we run a Bitcoin Giveaway, randomly selecting one person to receive 333 Satoshi. With an additional administrative fee of 17 satoshi you can fully sponsor the event for a total of 350 satoshi.
 <p> </p>
-<b>Send a payment</b> to 34zUNtx8HCAgcpoEtpTbktQqSkghYE1j7Y for the amount of 0.00000350 ฿ and fill-out the form below.
+<b>Send a payment</b> to 34zUNtx8HCAgcpoEtpTbktQqSkghYE1j7Y for the amount of 0.00000350 ฿ and fill-out the form below. Too complicated? Talk to us!
 <p> </p>
-Here's a list of days that are open for sponsorship. As you see, there's plenty to choose from!
-<p>MM: 04 (April)
-<br>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
-<p>MM: 05 (May)
-<br>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
-
+<br>
 <iframe height="709"
         allowTransparency="true"
         frameborder="0"
