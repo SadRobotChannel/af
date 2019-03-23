@@ -11,21 +11,10 @@ Each 24 hours we run a Bitcoin Giveaway, randomly selecting one person to receiv
 <b>Send a payment of 34zUNtx8HCAgcpoEtpTbktQqSkghYE1j7Y for the amount of 0.00000350 ฿</b>
 <p> </p>
 Here's a list of days that are open for sponsorship. As you see, there's plenty to choose from!
-
-1-Apr
-2-Apr
-3-Apr
-4-Apr
-5-Apr
-6-Apr
-7-Apr
-8-Apr
-9-Apr
-10-Apr
-11-Apr
-12-Apr
-13-Apr
-14-Apr
+<br>MM: 04 (April)
+- 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+<br>MM: 05 (May)
+- 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
 
 <div id="wufoo-z1qnswux0ajizmw">
 Fill out my <a href="https://allfaucets.wufoo.com/forms/z1qnswux0ajizmw">online form</a>.
