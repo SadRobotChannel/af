@@ -6,8 +6,10 @@ image:
 ---
 **Sponsor the Daily Giveaway for just 350 Satoshi**
 
-Each 24 hours we run a Bitcoin Giveaway, randomly selecting one person to receive 333 Satoshi. With an additional administrative fee of 17 satoshi you can fully sponsor the event for a total of 350 satoshi.
+Each 24 hours we run a Bitcoin Giveaway, randomly selecting one person to receive 333 Satoshi. With an additional administrative fee of 17 satoshi you can fully sponsor the daily event for a total of 350 satoshi.
 <p> </p>
-Fund our giveaway BTC wallet <b>34zUNtx8HCAgcpoEtpTbktQqSkghYE1j7Y</b> for the amount of 0.00000350 ฿ and fill-out the form below. If this sounds too complicated just talk to us!
+Let us know which day(s) you'd like to sponsor and what will be your sponsorship message. We allow HTML, iframe and various other methods to ensure that your message reaches your audience. Send us the info via below form.
 <p> </p>
 {% include  contact.html %}
+<p> </p>
+We respect your privacy. There are other methods to contact us, please don't hesitate to talk to us!
