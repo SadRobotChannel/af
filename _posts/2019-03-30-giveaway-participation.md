@@ -13,4 +13,4 @@ Participation is simple, with just two clicks via Twitter!
 3. The following day we select a random winner via a fair and transparent service from TWrench (www.twren.ch)
 4. The winner is announced on Twitter and 333 satoshi are sent to the winner's wallet!
 
-This routine we plan to run daily from end of March, 2019. We also welcome sponsorship of these daily events, where the sponsor and their message will be clearly shown on our website and also on Twitter.
+This routine we plan to run daily starting from April 1st, 2019. We also welcome <a href="http://www.all-faucets.com/daily/2019/03/29/giveaway-sponsorship.html">sponsorship</a> of these daily events, where the sponsor and their message will be clearly shown on our website and also on Twitter.
