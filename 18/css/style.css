@@ -1,0 +1,143 @@
+/* popup styles */
+.popup {
+  background-color: #fff;
+  border-radius: 50%;
+  box-sizing: border-box;
+  -webkit-box-shadow: 0 0 0.25em black;
+  box-shadow: 0 0 0.25em black;
+  cursor: pointer;
+  left: 0;
+  max-width: 300px;
+  position: fixed;
+  text-align: center;
+  top: 50%;
+  -webkit-transform: translate3d(-1.5rem, -50%, 0);
+  transform: translate3d(-1.5rem, -50%, 0);
+  z-index: 100;
+}
+.popup.is-animating {
+  animation: close .3s;
+}
+.popup.is-showing {
+  border-radius: 5px;
+  cursor: auto;
+  -webkit-transform: translate3d(0, -50%, 0);
+  transform: translate3d(0, -50%, 0);
+}
+.popup.is-showing.is-animating {
+  animation: open .3s;
+}
+.popup-content {
+  box-sizing: border-box;
+  position: relative;
+}
+.popup.is-showing .popup-content {
+  padding: 1rem;
+}
+.popup-content:after {
+  border: 0.75rem solid transparent;
+  border-top-color: white;
+  position: absolute;
+  display: block;
+  height: 0;
+  width: 0;
+  top: 100%;
+  left: 50%;
+  -webkit-transform: translate3d(-50%, 0, 0);
+  transform: translate3d(-50%, 0, 0);
+}
+.popup.is-showing .popup-content:after {
+  content: "";
+}
+.popup .popup-btn-close,
+.popup .popup-text,
+.popup .popup-btn {
+  display: none;
+}
+.popup.is-showing .popup-btn-close,
+.popup.is-showing .popup-text,
+.popup.is-showing .popup-btn {
+  display: block;
+}
+.popup-btn-close {
+  background-image: url("//www.dakno.com/icons/material/close/0054a6");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  border-radius: 50%;
+  border: 2px solid;
+  box-sizing: border-box;
+  height: 30px;
+  position: absolute;
+  right: 12px;
+  text-decoration: none;
+  top: 12px;
+  width: 30px;
+  z-index: 10;
+}
+.popup-btn-close,
+.popup-btn-close:hover {
+  color: #0054a6;
+}
+.popup .popup-imgBox {
+  background-image: url("https://www.realestatebydesignnc.com/site_data/realestatebydesignnc1/layouts/clean/images/ic-question-mark.svg");
+}
+.popup.is-showing .popup-imgBox {
+  background-image: url("https://www.realestatebydesignnc.com/site_data/realestatebydesignnc1/layouts/clean/images/ic-arrow-fancy.svg");
+  margin: -50px auto 0;
+}
+.popup-imgBox {
+  background-color: #0054a6;
+  background-position: center center;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  border: 10px solid white;
+  -webkit-box-shadow: 0 0 0.25em rgba(0, 0, 0, 0.25);
+  box-shadow: 0 0 0.25em rgba(0, 0, 0, 0.25);
+  display: block;
+  height: 94px;
+  width: 94px;
+}
+.popup-text {
+  font-family: [HEADER_FONT_FAMILY];
+  font-size: 23px;
+  font-weight: 600;
+  padding-top: 0.5rem;
+}
+.popup-btn {
+  background-color: #0054a6;
+  box-sizing: border-box;
+  border-radius: 0 0 5px 5px;
+  color: white;
+  display: block;
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  padding: 2rem 1rem 1.5rem;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.popup-btn:hover {
+  color: white;
+}
+@keyframes open {
+  0% {
+    border-radius: 50%;
+    transform: translate3d(-1.5rem, -50%, 0);
+  }
+  100% {
+    border-radius: 5px;
+    transform: translate3d(0, -50%, 0);
+  }
+}
+@keyframes close {
+  0% {
+    border-radius: 5px;
+    transform: translate3d(0, -50%, 0);
+  }
+  100% {
+    border-radius: 50%;
+    transform: translate3d(-1.5rem, -50%, 0);
+  }
+}
