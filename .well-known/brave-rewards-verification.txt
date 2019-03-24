@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: all-faucets.com
-Token: 63b87b3b674a2db9819459c41e13f0c38781493f2fa49e22b63ebd7a9f21ad4b
