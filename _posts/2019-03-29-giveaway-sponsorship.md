@@ -12,4 +12,4 @@ Let us know which day(s) you'd like to sponsor and what will be your sponsorship
 <p> </p>
 {% include  contact.html %}
 <p> </p>
-We respect your privacy. There are other methods to contact us, please don't hesitate to talk to us!
+We respect your privacy. There are other methods to contact us, please don't hesitate to <a href="http://www.all-faucets.com/daily/2019/03/31/talk.html">talk to us</a>!
