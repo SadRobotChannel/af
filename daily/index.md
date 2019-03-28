@@ -94,8 +94,8 @@ body {font-family: Verdana, sans-serif;}
 
 <div class="month">      
   <ul>
-    <li class="prev">&#10094;</li>
-    <li class="next">&#10095;</li>
+    <li></li>
+    <li></li>
     <li>
       April<br>
       <span style="font-size:18px">2019</span>
@@ -144,8 +144,4 @@ body {font-family: Verdana, sans-serif;}
   <li>28</li>
   <li>29</li>
   <li>30</li>
-  <li>31</li>
 </ul>
-
-</body>
-</html>
