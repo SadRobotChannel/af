@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Daily Giveaway Calendar
-comments: true
+comments: false
 ---
 
 <style>
