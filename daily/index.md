@@ -109,33 +109,34 @@ body {font-family: Verdana, sans-serif;}
 
 <ul class="days">  
   <li><a href="http://www.all-faucets.com/daily/2019/04/01/giveaway.html">1</a></li>
-  <li>2</li>
-  <li>3</li>
-  <li>4</li>
-  <li>5</li>
-  <li>6</li>
-  <li>7</li>
-  <li>8</li>
-  <li>9</li>
-  <li>10</li>
-  <li>11</li>
-  <li>12</li>
-  <li>13</li>
-  <li>14</li>
-  <li>15</li>
-  <li>16</li>
-  <li>17</li>
-  <li>18</li>
-  <li>19</li>
-  <li>20</li>
-  <li>21</li>
-  <li>22</li>
-  <li>23</li>
-  <li>24</li>
-  <li>25</li>
-  <li>26</li>
-  <li>27</li>
-  <li>28</li>
-  <li>29</li>
-  <li>30</li>
-</ul>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/02/giveaway.html">2</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/03/giveaway.html">3</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/04/giveaway.html">4</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/05/giveaway.html">5</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/06/giveaway.html">6</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/07/giveaway.html">7</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/08/giveaway.html">8</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/09/giveaway.html">9</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/10/giveaway.html">10</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/11/giveaway.html">11</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/12/giveaway.html">12</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/13/giveaway.html">13</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/14/giveaway.html">14</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/15/giveaway.html">15</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/16/giveaway.html">16</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/17/giveaway.html">17</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/18/giveaway.html">18</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/19/giveaway.html">19</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/20/giveaway.html">20</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/21/giveaway.html">21</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/22/giveaway.html">22</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/23/giveaway.html">23</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/24/giveaway.html">24</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/25/giveaway.html">25</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/26/giveaway.html">26</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/27/giveaway.html">27</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/28/giveaway.html">28</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/29/giveaway.html">29</a></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/30/giveaway.html">30</a></li>
+
+  </ul>
