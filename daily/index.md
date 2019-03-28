@@ -4,9 +4,6 @@ title: Daily Giveaway Calendar
 comments: true
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
 <style>
 * {box-sizing: border-box;}
 ul {list-style-type: none;}
@@ -100,8 +97,8 @@ body {font-family: Verdana, sans-serif;}
     <li class="prev">&#10094;</li>
     <li class="next">&#10095;</li>
     <li>
-      August<br>
-      <span style="font-size:18px">2017</span>
+      April<br>
+      <span style="font-size:18px">2019</span>
     </li>
   </ul>
 </div>
