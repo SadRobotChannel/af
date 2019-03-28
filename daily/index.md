@@ -90,8 +90,6 @@ body {font-family: Verdana, sans-serif;}
 
 <div class="month">      
   <ul>
-    <li></li>
-    <li></li>
     <li>
       April<br>
       <span style="font-size:18px">2019</span>
