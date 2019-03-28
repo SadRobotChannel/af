@@ -87,10 +87,6 @@ body {font-family: Verdana, sans-serif;}
   .weekdays li, .days li {width: 12.2%;}
 }
 </style>
-</head>
-<body>
-
-<h1>CSS Calendar</h1>
 
 <div class="month">      
   <ul>
