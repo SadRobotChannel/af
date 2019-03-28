@@ -108,7 +108,7 @@ body {font-family: Verdana, sans-serif;}
 </ul>
 
 <ul class="days">  
-  <li><span class="active">1</span></li>
+  <li><a href="http://www.all-faucets.com/daily/2019/04/01/giveaway.html">1</a></li>
   <li>2</li>
   <li>3</li>
   <li>4</li>
