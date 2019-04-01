@@ -15,6 +15,6 @@ If you're new to crypto faucets this site is for you. We list bitcoin and other 
 Continue reading: <a href="http://www.all-faucets.com/start.html">Getting Started with Bitcoin Faucets</a>.
 
 ---
-#### Follow us on Twitter for Daily Giveaway
+#### Follow us on Twitter for the Daily Giveaway
 
-Follow <a href="https://twitter.com/intent/user?screen_name=CryptoPayoff" target="_blank">@CryptoPayoff</a>. The Daily Giveaway tweet aimed to inform you about interesting crypto faucets and services. Retweet the Daily Giveaway tweet for your chance to earn 333 satoshi, which we send on a daily basis to your <a href="http://bit.ly/www-coinbase" target="_blank">Coinbase</a> account.
+Follow <a href="https://twitter.com/intent/user?screen_name=CryptoPayoff" target="_blank">@CryptoPayoff</a>. The Daily Giveaway tweet is aimed to inform you about interesting crypto faucets and services. Retweet the Daily Giveaway tweet for your chance to earn 333 satoshi, which we'll send to your <a href="http://bit.ly/www-coinbase" target="_blank">Coinbase</a> account.
