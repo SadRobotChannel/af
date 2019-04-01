@@ -17,4 +17,4 @@ Continue reading: <a href="http://www.all-faucets.com/start.html">Getting Starte
 ---
 #### Follow us on Twitter for Daily Giveaway
 
-Follow <a href="https://twitter.com/intent/user?screen_name=CryptoPayoff" target="_blank">@CryptoPayoff</a>. The is a Daily Giveaway tweet aimed to inform you about interesting crypto faucets and services. Retweet the Daily Giveaway tweet for your chance to earn 333 satoshi, which we send on a daily basis to your <a href="http://bit.ly/www-coinbase" target="_blank">Coinbase</a> account.
+Follow <a href="https://twitter.com/intent/user?screen_name=CryptoPayoff" target="_blank">@CryptoPayoff</a>. The Daily Giveaway tweet aimed to inform you about interesting crypto faucets and services. Retweet the Daily Giveaway tweet for your chance to earn 333 satoshi, which we send on a daily basis to your <a href="http://bit.ly/www-coinbase" target="_blank">Coinbase</a> account.
