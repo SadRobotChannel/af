@@ -12,9 +12,6 @@ URL: http://www.all-faucets.com/index.html
 
 If you're new to crypto faucets this site is for you. We list bitcoin and other digital currency faucets that are verified for their value and reputation. Usually people start trying-out faucets out of curiosity, or as a hobby, but with some knowledge and consistency such hobby can offer a good income. Our goal is to share the knowledge and to enable you to earn digital currency in the way that suits your interests and your life-style.
 
-◘ If you're <i>not</i> new to faucets sites, proceed to the <a href="http://www.all-faucets.com/all/index.html">Faucets Directory</a> page.<br>
-◘ Tired of faucets or don't have time? <a href="http://www.all-faucets.com/ourpatrons.html">Become our Patron</a> and receive 10,000 satoshi every month!
-
 **Getting started with bitcoin faucets**
 
 Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in an exchange for completing a captcha or tasks described by the websites.
