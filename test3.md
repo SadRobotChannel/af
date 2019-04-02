@@ -11,4 +11,8 @@ URL: http://www.all-faucets.com/all/index.html
 A bit of text...
 
 
-<iframe src='https://allfaucets.freeflarum.com/d/7-bitcoinsfor-me' scrolling='no' style='width:100%; height:500; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<!-- begin wwww.htmlcommentbox.com -->
+ <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Box</a> is loading comments...</div>
+ <link rel="stylesheet" type="text/css" href="https://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
+ <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="https://www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24PLaiWnUkidcrBikQbCgxA%2F"+"&opts=16862&num=10&ts=1554241278862");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+<!-- end www.htmlcommentbox.com -->
