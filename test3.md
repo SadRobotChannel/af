@@ -11,4 +11,4 @@ URL: http://www.all-faucets.com/all/index.html
 A bit of text...
 
 
-<iframe src='https://allfaucets.freeflarum.com/d/7-bitcoinsfor-me' scrolling='no' style='width:100%; height:100%; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='https://allfaucets.freeflarum.com/d/7-bitcoinsfor-me' scrolling='no' style='width:100%; height:500; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
