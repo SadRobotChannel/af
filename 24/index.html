@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Table w/ Search Filter, Checkbox Filter, Alphabetical Sorting and Clickable Rows</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.0.0/css/font-awesome.min.css">
+<script src ="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<title>Epic Table </title>
+
+<!--  Search Box -->	
+<input type="text" id="le-Input-1" onkeyup="myFunction()" placeholder="Search for location.." title="Type in a location" style=" display:inline">
+
+<!--  Info -->
+<p><strong>Click the headers to sort the table.</strong></p>
+
+<!--  Checkboxes -->
+<table>
+  <tr>
+    <td>
+					<input type='checkbox' onclick='return filter_type(this);' name='filter'  id="Hike"  value= "Hike" />Hikes
+    </td>
+    <td>
+					<input type='checkbox' onclick='return filter_type(this);' name='filter'  id="Park"  value= "Park" />Parks
+      </td>
+      <td>
+					<input type='checkbox' onclick='return filter_type(this);' name='filter'  id="Place"  value= "Place" />Places
+        </td>
+    <td>
+					<input type='checkbox' onclick='return filter_type(this);' name='filter'  id="Artwork"  value= "Artwork" />Artwork
+        </td>
+  </tr>
+</table>
+
+<!--  Table -->
+<div style="overflow-x:auto; width:100%">
+<table id="le-Table-1">
+  <!--  Table Header -->
+	<thead>
+  <tr class="header">
+   <!--When a header is clicked, run the sortTable function, with a parameter, 0 for sorting by names, 1 for sorting by country:-->  
+    <th onclick="sortTable(0)">Name</th>
+    <th onclick="sortTable(1)">City</th>
+		<th onclick="sortTable(2)">Type</th>
+    <th onclick="sortTable(3)">KM</th>
+		<th onclick="sortTable(4)">HRS</th>
+     <th onclick="sortTable(5)">Difficulty</th>
+    <th onclick="sortTable(6)">Rating</th>
+  </tr>
+	</thead>
+  <!--  Table Body / Rows -->
+	<tbody>
+		  <tr class='clickable-row' data-href='#link'>
+    <td>Bowen Lookout</td>
+    <td>West Vancouver</td>
+		<td>Hike</td>
+    <td>4</td>
+		<td>1.5</td>
+    <td><text style="opacity: 0.0;">1</text>Easy</td>
+    <td><span class="stars-3-b all-rating-stars"></span></td>
+  </tr>
+  <tr class='clickable-row' data-href='#link'>
+    <td>Brandywine Falls Provincial Park</td>
+    <td>Whistler</td>
+	  <td>Hike</td>
+    <td>1</td>
+		<td>0.5</td>
+    <td><text style="opacity: 0.0;">1</text>Easy</td>
+    <td><span class="stars-4-a all-rating-stars"></span></td>
+  </tr>
+  <tr class='clickable-row' data-href='#link'>
+    <td>Cascade Falls Regional Park and Suspension Bridge</td>
+    <td>Fraser Valley</td>
+		<td>Hike</td>
+    <td>0.75</td>
+		<td>0.5</td>
+    <td><text style="opacity: 0.0;">1</text>Easy</td>
+    <td><span class="stars-3-b all-rating-stars"></span></td>
+  </tr>
+  <tr class='clickable-row' data-href='#link'>
+    <td>Cleveland Dam</td>
+    <td>North Vancouver</td>
+		<td>Hike</td>
+    <td>2.6</td>
+		<td>1</td>
+    <td><text style="opacity: 0.0;">1</text>Easy</td>
+    <td><span class="stars-3-a all-rating-stars"></span></td>
+  </tr>
+  <tr class='clickable-row' data-href='#link'>
+    <td>Coliseum Mountain</td>
+    <td>North Vancouver</td>
+		<td>Hike</td>
+    <td>23.5</td>
+		<td>10</td>
+    <td><text style="opacity: 0.0;">4</text>Difficult</td>
+    <td><span class="stars-4-b all-rating-stars"></span></td>
+  </tr>
+  <tr class='clickable-row' data-href='#link'>
+    <td>Cypress Falls</td>
+    <td>West Vancouver</td>
+		<td>Hike</td>
+    <td>3</td>
+		<td>1.5</td>
+    <td><text style="opacity: 0.0;">1</text>Easy</td>
+    <td><span class="stars-3-a all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Cypress Mountain Viewpoint</td>
+    <td>West Vancouver</td>
+		<td>Place</td>
+    <td>0</td>
+		<td>n/a</td>
+    <td><text style="opacity: 0.0;">1</text>Easy</td>
+    <td><span class="stars-5-a all-rating-stars"></span></td>
+  </tr>
+  <tr class='clickable-row' data-href='#link'>
+    <td>Crown Mountain via Hanes Valley</td>
+    <td>North Vancouver</td>
+		<td>Hike</td>
+    <td>29</td>
+		<td>16+</td>
+    <td><text style="opacity: 0.0;">4</text>Difficult</td>
+    <td><span class="stars-5-a all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Dog Mountain</td>
+    <td>North Vancouver</td>
+		<td>Hike</td>
+    <td>5</td>
+		<td>2</td>
+    <td><text style="opacity: 0.0;">1</text>Easy</td>
+    <td><span class="stars-3-a all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Elsay Lake</td>
+    <td>North Vancouver</td>
+		<td>Hike</td>
+    <td>20</td>
+		<td>10</td>
+    <td><text style="opacity: 0.0;">4</text>Difficult</td>
+     <td><span class="stars-4-a all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Joffre Lakes Provincial Park</td>
+    <td>Pemberton</td>
+		<td>Hike</td>
+    <td>10</td>
+		<td>4</td>
+    <td><text style="opacity: 0.0;">3</text>Intermediate</td>
+    <td><span class="stars-4-b all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Lighthouse Park</td>
+    <td>West Vancouver</td>
+		<td>Hike</td>
+    <td>1+</td>
+		<td>2</td>
+    <td><text style="opacity: 0.0;">1</text>Easy</td>
+    <td><span class="stars-3-a all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Lower Seymour Conservation Reserve</td>
+    <td>North Vancouver</td>
+		<td>Park</td>
+    <td>1+</td>
+		<td>0.5+</td>
+    <td><text style="opacity: 0.0;">1</text>Easy</td>
+     <td><span class="stars-4-a all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Lynn Canyon Park and Suspension Bridge</td>
+    <td>North Vancouver</td>
+		<td>Park</td>
+    <td>1+</td>
+		<td>0.5+</td>
+    <td><text style="opacity: 0.0;">1</text>Easy</td>
+    <td><span class="stars-4-a all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Lynn Headwaters Regional Park</td>
+    <td>North Vancouver</td>
+		<td>Park</td>
+    <td>1+</td>
+		<td>0.5+</td>
+    <td><text style="opacity: 0.0;">6</text>All</td>
+    <td><span class="stars-4-a all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Lynn Lake</td>
+    <td>North Vancouver</td>
+		<td>Hike</td>
+    <td>22</td>
+		<td>8+</td>
+    <td><text style="opacity: 0.0;">4</text>Difficult</td>
+    <td><span class="stars-3-a all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Lynn Peak</td>
+    <td>North Vancouver</td>
+		<td>Hike</td>
+    <td>9</td>
+		<td>4</td>
+    <td><text style="opacity: 0.0;">3</text>Intermediate</td>
+    <td><span class="stars-3-a all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Third Peak of Mount Seymour</td>
+    <td>North Vancouver</td>
+		<td>Hike</td>
+    <td>9</td>
+		<td>4-5</td>
+    <td><text style="opacity: 0.0;">3</text>Intermediate</td>
+    <td><span class="stars-5-a all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Mount Seymour Provincial Park</td>
+    <td>North Vancouver</td>
+		<td>Park</td>
+    <td>1+</td>
+		<td>0.5+</td>
+    <td><text style="opacity: 0.0;">6</text>All</td>
+    <td><span class="stars-4-b all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Norvan Falls</td>
+    <td>North Vancouver</td>
+		<td>Hike</td>
+    <td>14</td>
+		<td>4-5</td>
+    <td><text style="opacity: 0.0;">3</text>Intermediate</td>
+    <td><span class="stars-3-a all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Panorama Ridge</td>
+    <td>Whistler</td>
+		<td>Hike</td>
+    <td>30</td>
+		<td>11</td>
+    <td><text style="opacity: 0.0;">4</text>Difficult</td>
+    <td><span class="stars-5-a all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Porteau Cove Provincial Park</td>
+    <td>Squamish</td>
+		<td>Park</td>
+    <td>0.1</td>
+		<td>n/a</td>
+    <td><text style="opacity: 0.0;">1</text>Easy</td>
+    <td><span class="stars-3-a all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Quarry Rock</td>
+    <td>North Vancouver</td>
+		<td>Hike</td>
+    <td>3.8</td>
+		<td>1.5</td>
+    <td><text style="opacity: 0.0;">1</text>Easy</td>
+    <td><span class="stars-3-a all-rating-stars"></span></td>	
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Rice Lake</td>
+    <td>North Vancouver</td>
+		<td>Hike</td>
+    <td>3</td>
+		<td>1</td>
+    <td><text style="opacity: 0.0;">1</text>Easy</td>
+    <td><span class="stars-3-a all-rating-stars"></span></td>
+</tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Shannon Falls Provincial Park</td>
+    <td>Squamish</td>
+		<td>Hike</td>
+    <td>1</td>
+		<td>1</td>
+    <td><text style="opacity: 0.0;">1</text>Easy</td>
+    <td><span class="stars-3-b all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>St Mark's Summit</td>
+    <td>Greater Vancouver Area</td>
+		<td>Hike</td>
+    <td>11</td>
+		<td>5</td>
+    <td><text style="opacity: 0.0;">3</text>Intermediate</td>
+    <td><span class="stars-4-b all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Pink Alley</td>
+    <td>Vancouver</td>
+		<td>Artwork</td>
+    <td></td>
+		<td></td>
+    <td><text style="opacity: 0.0;">7</text></td>
+    <td><span class="stars-4-b all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Stawamus Chief Provincial Park</td>
+    <td>Squamish</td>
+		<td>Hike</td>
+    <td>11</td>
+		<td>6</td>
+    <td><text style="opacity: 0.0;">3</text>Intermediate</td>
+    <td><span class="stars-4-b all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Wedgemount Lake</td>
+    <td>Whistler</td>
+		<td>Hike </td>
+    <td>12</td>
+		<td>7</td>
+    <td><text style="opacity: 0.0;">4</text>Difficult</td>
+     <td><span class="stars-5-a all-rating-stars"></span></td>
+  </tr>
+		<tr class='clickable-row' data-href='#link'>
+    <td>Whytecliff Park</td>
+    <td>West Vancouver</td>
+		<td>Park</td>
+    <td>0.1</td>
+		<td>0.5</td>
+    <td><text style="opacity: 0.0;">1</text>Easy</td>
+    <td><span class="stars-3-a all-rating-stars"></span></td>
+  </tr>
+		
+	</tbody>
+</table>
+</div>
+  
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>

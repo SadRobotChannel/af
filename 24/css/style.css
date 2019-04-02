@@ -1,0 +1,88 @@
+#le-Table-1 {
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th {
+  cursor: pointer;
+}
+#le-Table-1	th:hover {
+  background-color: #e8e8e8;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+#le-Table-1 tr.header {
+background-color: #f2f2f2;
+}
+	
+	tr {
+		background-color: white;
+	}
+	
+	#le-Table-1 tr:hover{
+		background-color: #f9f9f9;
+		cursor: pointer;
+	}
+
+
+#le-Input-1 {
+  background-image: url('https://c2.staticflickr.com/8/7907/33127467968_2b7f7dd01c_o.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+	background-size: 25px 25px;
+  width: 300px;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+
+/*  star display mehtod  */
+.all-rating-stars {
+    color: gold;
+    font-size: 1em;
+    font-weight: 900;
+}
+.stars-1-a::before {
+    content:'\f005';
+    font-family: "Font Awesome 5 Free";
+}
+.stars-1-b::before {
+    content:'\f005 \f089';
+    font-family: "Font Awesome 5 Free";
+}
+.stars-2-a::before {
+    content:'\f005 \f005';
+    font-family: "Font Awesome 5 Free";
+}
+.stars-2-b::before {
+    content:'\f005 \f005 \f089';
+    font-family: "Font Awesome 5 Free";
+}
+.stars-3-a::before {
+    content:'\f005 \f005 \f005';
+    font-family: "Font Awesome 5 Free";
+}
+.stars-3-b::before {
+    content:'\f005 \f005 \f005 \f089';
+    font-family: "Font Awesome 5 Free";
+}
+.stars-4-a::before {
+    content:'\f005 \f005 \f005 \f005';
+    font-family: "Font Awesome 5 Free";
+}
+.stars-4-b::before {
+    content:'\f005 \f005 \f005 \f005 \f089';
+    font-family: "Font Awesome 5 Free";
+}
+.stars-5-a::before {
+    content:'\f005 \f005 \f005 \f005 \f005';
+    font-family: "Font Awesome 5 Free";
+}
+
