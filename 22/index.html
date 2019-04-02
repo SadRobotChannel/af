@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Isotope - Search and Checkbox Filtering</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  <div class="columns">
+
+	<div><input type="text" class="quicksearch" placeholder="Search"/></div>
+	
+	<div class="output">*</div>
+
+	<h6>Resource Types</h6>
+	<ul class="options">
+		<li class="input-all"><input class="all" type="checkbox" value=".all-resources" id="all-resources"><label for="all-resources">All Resources</label></li>
+		<li><input type="checkbox" value=".data-sheet" id="data-sheet"><label for="data-sheet">Data Sheet</label></li>
+		<li><input type="checkbox" value=".video" id="video"><label for="video">Video</label></li>
+	</ul>
+
+	<h6>Services</h6>
+	<ul class="options">
+		<li class="input-all"><input class="all" type="checkbox" value=".all-services" id="all-services"><label for="all-services">All Services L1</label></li>
+		<li><input type="checkbox" value=".ams" id="ams"><label for="ams">AMS</label></li>
+		<li><input type="checkbox" value=".fm" id="fm"><label for="fm">FM</label></li>
+	</ul>
+
+</div>
+
+<div class="columns">
+	
+	<div class="grid clearfix">
+		<div class="element-item data-sheet ams" data-category="data-sheet">DS - AMS</div>
+		<div class="element-item data-sheet ams" data-category="data-sheet">DS - AMS</div>
+		<div class="element-item data-sheet fm" data-category="data-sheet">DS - FM</div>
+		<div class="element-item data-sheet fm" data-category="data-sheet">DS - FM</div>
+		<div class="element-item video ams" data-category="video">VD - AMS</div>
+		<div class="element-item video fm" data-category="video">VD - FM</div>
+		<div class="element-item video fm" data-category="video">VD - FM</div>
+		<div class="element-item video ams" data-category="video">VD - AMS</div>
+		<div class="element-item video ams" data-category="video">VD - AMS</div>
+		<div class="element-item data-sheet fm" data-category="data-sheet">DS - FM</div>
+		<div class="element-item data-sheet fm" data-category="data-sheet">DS - FM</div>
+		<div class="element-item video fm" data-category="video">VD - FM</div>
+		<div class="element-item data-sheet ams" data-category="data-sheet">DS - AMS</div>
+		<div class="element-item video" data-category="video">VD</div>
+		<div class="element-item video" data-category="video">VD</div>
+		<div class="element-item data-sheet" data-category="data-sheet">DS</div>
+		<div class="element-item video ams" data-category="video">VD - AMS</div>
+		<div class="element-item data-sheet" data-category="data-sheet">DS</div>
+		<div class="element-item data-sheet" data-category="data-sheet">DS</div>
+		<div class="element-item data-sheet ams" data-category="data-sheet">DS - AMS</div>
+		<div class="element-item data-sheet ams" data-category="data-sheet">DS - AMS</div>
+		<div class="element-item data-sheet fm" data-category="data-sheet">DS - FM</div>
+		<div class="element-item data-sheet ams" data-category="data-sheet">DS - AMS</div>
+		<div class="element-item data-sheet ams" data-category="data-sheet">DS - AMS</div>
+	</div>
+	
+</div>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js'></script>
+
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>
