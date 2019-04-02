@@ -25,7 +25,5 @@ Have a vote on which crypto earning site you like the most. Commend why and shar
 
 <iframe src='tier_7.html' scrolling='no' style='width:100%; height:400px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<iframe src='tier_8.html' scrolling='no' style='width:100%; height:300px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
-
 <p> </p>
 {% include comment.html %}
