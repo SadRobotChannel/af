@@ -1,11 +1,146 @@
 ---
 layout: page
-title: Claim Dashboard
+title: 12
 comments: false
 ---
 
-**Powered by Tagpacker**
+<link rel="stylesheet" href="/css2/style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
 
-Create your free account at Tagpacker if you want to favorite the faucets you use regularly. Use the TAGS feature to select the criteria that match your preferences, e.g. <i>60 minutes</i> for claim frequency and <i>BTC</i> for preferred cryptocurrency. Follow <a href="https://tagpacker.com/user/cryptopayoff" target="_blank">CryptoPayoff</a> account where we update our faucet database daily.
-<p> </p>
-<iframe src='https://allfaucets.freeflarum.com/d/7-bitcoinsfor-me' scrolling='yes' style='width:100%; height:1000px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+
+  <main
+			data-ng-app="sampleApp"
+			data-ng-controller="mainController">
+	<h1>
+			AngularJS Table with Double Sorting
+	</h1>
+	<p>
+		Normal Angular table sorting does not allow you to sort by two data fields in the same column. Angular table filtering and pagination removes table rows from the DOM, resetting any actions the user makes (ex: checking a box in the row). This table hides the rows instead of removing them, preserving their states.
+	</p>
+	<p>
+		The Angular filter does not allow you to search month names within a date because a date object does not contain them. Similarly, with boolean attributes, the user can only search for 'true' or 'false'. I circumvent this by adding string data attributes. You can filter by any of the text visible in the table. Filtered rows are kept in the DOM.
+	</p>
+	<input id="filter" type="text" placeholder="Filter" class="form-control"
+				 data-ng-model="filterTable">
+	<p>
+		The table is paginated. The hidden pages are also kept in the DOM.
+	</p>
+	<uib-pagination
+							data-total-items="(peopleArray | filter:filterTable).length"
+							data-ng-model="currentPage"
+							data-ng-change="updatePageIndexes()"
+							data-max-size="maxPaginationSize"
+							data-items-per-page="itemsPerPage"
+							data-boundary-links="true"
+							data-previous-text="&lsaquo;"
+							data-next-text="&rsaquo;"
+							data-first-text="&laquo;"
+							data-last-text="&raquo;">
+	</uib-pagination>
+	<p>
+			The table has two data fields in certain columns. You can sort by either of those fields.
+	</p>
+	<table class="table table-condensed table-hover">
+		<thead>
+			<tr>
+				<th style="width: 40px">
+					&#35;
+				</th>
+				<th class="sortable" style="width: 20%"
+						data-ng-click="singleSort('birthday')">
+					Birthday
+					<span class="caret-blank"
+								data-ng-class="{'caret-down':sortDescend('birthday'), 'caret-up':sortAscend('birthday')}">
+					</span>
+				</th>
+				<th class="sortable" style="width: 15%"
+						data-ng-click="doubleSort('lastName','firstName')"
+						data-uib-tooltip="{{ sortTooltip('firstName','lastName') }}"
+						data-tooltip-append-to-body="true">
+					Name
+					<span class="caret-blank"
+								data-ng-class="{'caret-down':sortDescend('lastName','firstName'), 'caret-up':sortAscend('lastName','firstName')}">
+					</span>
+				</th>
+				<th class="sortable" style="width: 18%"
+						data-ng-click="singleSort('citizen')">
+					Citizenship
+					<span class="caret-blank"
+								data-ng-class="{'caret-down':sortDescend('citizen'), 'caret-up':sortAscend('citizen')}">
+					</span>
+				</th>
+				<th class="sortable"
+						data-ng-click="doubleSort('food','drink')"
+						data-uib-tooltip="{{ sortTooltip('food','drink') }}"
+						data-tooltip-append-to-body="true">
+					Favorite Food and Drink
+					<span class="caret-blank"
+								data-ng-class="{'caret-down':sortDescend('food','drink'), 'caret-up':sortAscend('food','drink')}">
+					</span>
+				</th>
+				<th style="width: 12%">
+					Saved State
+				</th>
+			<tr>
+		</thead>
+		<tbody>
+			<tr
+					data-ng-repeat="person in peopleArray | orderBy:[filterSort, sortType, secondSortType, thirdSortType]"
+					data-ng-show="(filterSort(person) == 1) && ($index >= firstIndex) && ($index < lastIndex)">
+				<td class="table-row-index">
+					{{ $index + 1 }}
+				</td>
+				<td class="person-birthday" date>
+					<time datetime="{{person.birthday}}">
+						{{ person.formattedBirthday }}
+					</time>
+				</td>
+				<td class="person-name">
+					{{ person.firstName }} <br>
+					{{ person.lastName }}
+				</td>
+				<td class="person-gender">
+					{{ person.citizenText }}
+				</td>
+				<td class="person-food">
+					{{ person.food }} <br>
+					{{ person.drink }}
+				</td>
+				<td class="person-save">
+					<input type="checkbox">
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<h4>
+		Notes
+	</h4>
+	<p>
+		Because all of the table rows remain the DOM, this technique does not perform well with large amounts of data. It may be possible to reduce the impact with better performing code, or even tweaking Angular.
+	</p>
+	<p>
+		This demo was built with:
+	</p>
+	<ul>
+		<li>
+			AngularJS 1.4.9
+		</li>
+		<li>
+			Angular UI Bootstrap 0.4.0
+		</li>
+		<li>
+			Bootstrap CSS 3.3.5
+		</li>
+	</ul>
+	<p>
+		An original pen by <a href="https://codepen.io/ejsado/">Eric</a>.
+	</p>
+</main>
+  <script src='https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/angular-ui/0.4.0/angular-ui.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.0.0/ui-bootstrap-tpls.min.js'></script>
+
+
+
+    <script  src="js2/index.js"></script>
