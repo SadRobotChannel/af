@@ -8,6 +8,9 @@ desc: If you're new to crypto faucets this site is for you. Learn how to maximiz
 URL: http://www.all-faucets.com/directory.html
 ---
 Which crypto-earning site are the best? Have your vote! Comment why you like the site, and share your tips on how to best use it! We will reward the users with the highest forum reputation with free satoshi. Let's work together to build a community!
+<p> </p>
+Showing 15 Faucet Sites per Directory Page:
+  <a class="nav-link" href="http://www.all-faucets.com/directory.html">Daily Giveaway</a>Page 1<a/> | Page 2 | Page 3 | Page 4 | Page 5
 
 <p> </p>
 {% include comment.html %}
