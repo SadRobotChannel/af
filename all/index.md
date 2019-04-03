@@ -9,7 +9,7 @@ URL: http://www.all-faucets.com/all/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-Have a vote on which crypto earning site you like the most. Commend why and share your experience!
+Have a vote on which crypto earning site you like the most. Comment why you like the site, and share your tips on how to use it best!
 
 <iframe src='tier_1.html' scrolling='no' style='width:100%; height:280px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
