@@ -156,7 +156,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
        <td>8</td>
        <td><a href="http://bit.ly/www-bitnyx" target="_blank"><img src="/assets/images/bitnyx.com-thumb.png" alt="Bitnyx"/></a></td>
        <td><a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a></td>
-       <td><a href="/bitnyx.com.html">Discussion</a></td>
+       <td><a href="http://www.all-faucets.com/faucets/2019/01/04/bitnyx.com.html">Discussion</a></td>
        <td>0.00025000 BTC</td>
        <td>Up to 0.00000030 BTC randomized; Possibility to win 0.00100000 BTC weekly</td>
     </tr>
