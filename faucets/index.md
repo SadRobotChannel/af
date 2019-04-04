@@ -110,7 +110,6 @@ comments: false
     <span class="cell" data-label="Withdrawal">no min</span>
   </div>
   <div class="row">
-  <input type="radio" name="expand">
     <span class="cell primary" data-label="Faucet">13 - <a href="http://bit.ly/www-moondoge" target="_blank">Moon Dogecoin</a></span>
     <span class="cell" data-label="Coins">DOGE</span>
      <span class="cell" data-label="Hub">CoinPot</span>
