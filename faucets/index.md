@@ -1,0 +1,59 @@
+---
+layout: page
+title: Faucets Directory
+comments: false
+---
+
+<div class="caption">Tier 1 Sites (Alexa Global Ranking 1 - 5,000)</div>
+<div id="table">
+
+	<div class="header-row row">
+    <span class="cell primary">Faucet</span>
+    <span class="cell">Coins</span>
+     <span class="cell">Hub</span>
+    <span class="cell">Frequency</span>
+    <span class="cell">Withdrawal</span>
+  </div>
+  <div class="row">
+    <input type="radio" name="expand">
+      <span class="cell primary" data-label="Faucet">1 - <a href="http://bit.ly/www-cryptobrowser" target="_blank">CryptoTab Browser</a></span>
+      <span class="cell" data-label="Coins">BTC</span>
+       <span class="cell" data-label="Hub">direct</span>
+       <span class="cell" data-label="Frequency">continues</span>
+       <span class="cell" data-label="Withdrawal">0.00001000 BTC</span>
+    </div>
+  <div class="row">
+    <input type="radio" name="expand">
+      <span class="cell primary" data-label="Faucet">2 - <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a></span>
+      <span class="cell" data-label="Coins">BTC</span>
+       <span class="cell" data-label="Hub">direct</span>
+       <span class="cell" data-label="Frequency">60 min</span>
+       <span class="cell" data-label="Withdrawal">0.00003000 BTC</span>
+    </div>
+    <div class="row">
+      <input type="radio" name="expand">
+        <span class="cell primary" data-label="Faucet">3 - <a href="http://bit.ly/www-mellowads" target="_blank">MellowAds</a></span>
+        <span class="cell" data-label="Coins">BTC</span>
+         <span class="cell" data-label="Hub">direct</span>
+         <span class="cell" data-label="Frequency">1 day</span>
+         <span class="cell" data-label="Withdrawal">n/a</span>
+      </div>
+  <div class="row">
+  <input type="radio" name="expand">
+    <span class="cell primary" data-label="Faucet">4 - <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a></span>
+    <span class="cell" data-label="Coins">BTC</span>
+     <span class="cell" data-label="Hub">FaucetHub</span>
+     <span class="cell" data-label="Frequency">1 min</span>
+     <span class="cell" data-label="Withdrawal">0.00005000 BTC</span>
+  </div>
+  <div class="row">
+  <input type="radio" name="expand">
+    <span class="cell primary" data-label="Faucet">5 - <a href="http://coinpot.co" target="_blank">CoinPot</a></span>
+    <span class="cell" data-label="Coins">BTC, BCH, DOGE, LTC, DASH</span>
+     <span class="cell" data-label="Hub">direct</span>
+     <span class="cell" data-label="Frequency">reward claim is done via <i>Moon</i>* faucets (see below)</span>
+     <span class="cell" data-label="Withdrawal">0.00010000 BTC</span>
+  </div>
+
+
+</div>
