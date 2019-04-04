@@ -4,7 +4,6 @@ title: Faucets Directory
 comments: false
 ---
 
-<div class="caption">Tier 1 Sites (Alexa Global Ranking 1 - 5,000)</div>
 <div id="table">
 
 	<div class="header-row row">
