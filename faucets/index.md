@@ -3,9 +3,6 @@ layout: page
 title: Faucets Directory
 comments: false
 ---
-2
-
-<link rel="stylesheet" href="/css/style.css">
 
 <div class="caption">Tier 1 Sites (Alexa Global Ranking 1 - 5,000)</div>
 <div id="table">
@@ -18,7 +15,6 @@ comments: false
     <span class="cell">Withdrawal</span>
   </div>
   <div class="row">
-    <input type="radio" name="expand">
       <span class="cell primary" data-label="Faucet">1 - <a href="http://bit.ly/www-cryptobrowser" target="_blank">CryptoTab Browser</a></span>
       <span class="cell" data-label="Coins">BTC</span>
        <span class="cell" data-label="Hub">direct</span>
@@ -26,7 +22,6 @@ comments: false
        <span class="cell" data-label="Withdrawal">0.00001000 BTC</span>
     </div>
   <div class="row">
-    <input type="radio" name="expand">
       <span class="cell primary" data-label="Faucet">2 - <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a></span>
       <span class="cell" data-label="Coins">BTC</span>
        <span class="cell" data-label="Hub">direct</span>
@@ -34,7 +29,6 @@ comments: false
        <span class="cell" data-label="Withdrawal">0.00003000 BTC</span>
     </div>
     <div class="row">
-      <input type="radio" name="expand">
         <span class="cell primary" data-label="Faucet">3 - <a href="http://bit.ly/www-mellowads" target="_blank">MellowAds</a></span>
         <span class="cell" data-label="Coins">BTC</span>
          <span class="cell" data-label="Hub">direct</span>
@@ -42,7 +36,6 @@ comments: false
          <span class="cell" data-label="Withdrawal">n/a</span>
       </div>
   <div class="row">
-  <input type="radio" name="expand">
     <span class="cell primary" data-label="Faucet">4 - <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a></span>
     <span class="cell" data-label="Coins">BTC</span>
      <span class="cell" data-label="Hub">FaucetHub</span>
@@ -50,7 +43,6 @@ comments: false
      <span class="cell" data-label="Withdrawal">0.00005000 BTC</span>
   </div>
   <div class="row">
-  <input type="radio" name="expand">
     <span class="cell primary" data-label="Faucet">5 - <a href="http://coinpot.co" target="_blank">CoinPot</a></span>
     <span class="cell" data-label="Coins">BTC, BCH, DOGE, LTC, DASH</span>
      <span class="cell" data-label="Hub">direct</span>
