@@ -51,9 +51,9 @@ There are several tables below that list the faucet sites. The tables split by t
        <td>3</td>
        <td><a href="http://bit.ly/sato-host" target="_blank"><img src="/assets/images/sato.host-thumb.png" alt="Sato"/></a></td>
        <td><a href="http://bit.ly/sato-host" target="_blank">Sato</a></td>
-       <td><a href="/sato.host.html">Discussion</a></td>
+       <td><a href="http://www.all-faucets.com/faucets/2019/01/03/sato.host.html">Discussion</a></td>
        <td>no min</td>
-       <td>0.00000020 BTC per claim; Wait for "Login" button! Read more on <a href="/sato.host.html">discussion</a> page</td>
+       <td>0.00000020 BTC per claim; Wait for "Login" button! Read more on <a href="http://www.all-faucets.com/faucets/2019/01/03/sato.host.html">discussion</a> page</td>
     </tr>
 
  </table>
