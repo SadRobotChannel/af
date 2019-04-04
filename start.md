@@ -222,7 +222,7 @@ The next table shows the faucets with an hourly frequency of reward. We've added
        <td>10</td>
        <td><a href="http://bit.ly/www-freebitcoin" target="_blank"><img src="/assets/images/freebitco.in-thumb.png" alt="FreeBitco.in"/></a></td>
        <td><a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a></td>
-       <td><a href="/freebitco.in.html">Discussion</a></td>
+       <td><a href="http://www.all-faucets.com/faucets/2019/01/05/freebitco.in.html">Discussion</a></td>
        <td>0.00003000 BTC</td>
        <td>0.00000040 BTC per hour, with a possibility to roll more; Lottery</td>
     </tr>
