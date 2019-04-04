@@ -92,7 +92,7 @@ Many of the faucets sites, however, allow only a withdrawal to an account that y
        <td>5</td>
        <td><a href="http://coinpot.co" target="_blank"><img src="/assets/images/coinpot.co-thumb.png" alt="CoinPot"/></a></td>
        <td><a href="http://coinpot.co" target="_blank">CoinPot</a></td>
-       <td><a href="/coinpot.com.html">Discussion</a></td>
+       <td><a href="http://www.all-faucets.com/faucets/2019/01/06/bonusbitcoin.co.html">Discussion</a></td>
        <td>0.00010000 BTC</td>
        <td>You will not be able to claim directly on this site, but rather on the site's affiliate, such as BonusBitcoin.</td>
     </tr>
