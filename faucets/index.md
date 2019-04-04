@@ -4,6 +4,8 @@ title: Faucets Directory
 comments: false
 ---
 
+<link rel="stylesheet" href="/css/style.css">
+
 <div class="caption">Tier 1 Sites (Alexa Global Ranking 1 - 5,000)</div>
 <div id="table">
 
@@ -54,6 +56,5 @@ comments: false
      <span class="cell" data-label="Frequency">reward claim is done via <i>Moon</i>* faucets (see below)</span>
      <span class="cell" data-label="Withdrawal">0.00010000 BTC</span>
   </div>
-
 
 </div>
