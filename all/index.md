@@ -17,7 +17,7 @@ The sites are shown in the order of popularity.
 
 <iframe src='tier_3.html' scrolling='no' style='width:100%; height:260px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
-<iframe src='tier_4.html' scrolling='no' style='width:100%; height:620px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
+<iframe src='tier_4.html' scrolling='no' style='width:100%; height:640px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
 <iframe src='tier_5.html' scrolling='no' style='width:100%; height:280px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
 
