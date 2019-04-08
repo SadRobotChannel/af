@@ -39,3 +39,12 @@ It takes a lot of patience, but as you master these games you earn a decent amou
 		 <p> </p>
 		 <center><a href="http://bit.ly/www-rollercoin" target="_blank"><img src="http://www.all-faucets.com/assets/images/rollercoin-ad.gif" alt="RollerCoin - An online virtual bitcoin mining game"/></a></center>
 </div>
+
+<div class="sidebar-section" style="background-color:#fbf4ff">
+     <h5><span>Bits-Pays - Miner Game</span></h5>
+     Free Miner Game is one of the unique services provided by <a href="http://bit.ly/www-bits-pays" target="_blank">Bits-Pays</a>.
+		 Play for free, but earn real bitcoin satoshi. Up to 40 levels currently available, where miner of each higher levels can earn more (e.g. a miner of 20lvl will mine about 15,000 satoshi per day).
+		 Upgrade your mining tools and increase your miner's efficiency. Explore 6 levels of maps for higher mining. Paid options are available for higher profits!
+		 <p> </p>
+		 <center><a href="http://bit.ly/www-bits-pays" target="_blank"><img src="http://www.all-faucets.com/assets/images/bits-pays.com-miner.png" alt="Bits-Pays - Miner Game"/></a></center>
+</div>
