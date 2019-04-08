@@ -48,5 +48,5 @@ It takes a lot of patience, but as you master these games you earn a decent amou
 		 - Upgrade your mining tools and increase your miner's efficiency.<br>
 		 - Paid options are available for higher profits!
 		 <p> </p>
-		 <center><a href="http://bit.ly/www-bits-pays" target="_blank"><img src="http://www.all-faucets.com/assets/images/bits-pays.com-miner.png" alt="Bits-Pays - Miner Game"/></a></center>
+		 <center><a href="http://bit.ly/www-bits-pays" target="_blank"><img src="http://www.all-faucets.com/assets/images/bits-pays.com-miner.gif" alt="Bits-Pays - Miner Game"/></a></center>
 </div>
