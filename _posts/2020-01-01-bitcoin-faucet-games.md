@@ -19,6 +19,8 @@ It takes a lot of patience, but as you master these games you earn a decent amou
      <h5><span>Crypto Mining Game</span></h5>
      <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a> is a new kind of Bitcoin, Litecoin and Doge Auto-Faucet where you can simulate mining and earn real cryptocurrency. Increase the amounts you mine as your level grows!
 		 <p> </p>
+		 You increase your miner's level by completing missions and daily quests, as a result of which not only you earn XP but find treasure chests filled with exciting crypto loot. Stay patient with the antibot verification by clicking those ad links! Your reward will be a capable miner earning bitcoin for hours without your involvement.
+		 <p> </p>
      <center><a href="http://bit.ly/www-cryptomininggame" target="_blank"><img src="http://www.all-faucets.com/assets/images/cryptomininggame-ad.gif" alt="Crypto Mining Gam"/></a></center>
 </div>
 
