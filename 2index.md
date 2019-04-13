@@ -1,0 +1,481 @@
+---
+layout: page
+title: Best Cryptocurrency Faucets
+comments: false
+img: http://www.all-faucets.com/assets/images/all-faucets.com-thumb.png
+alt: Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins.
+desc: If you're new to crypto faucets this site is for you. Learn how to maximize the value of your time and effort while claiming from free bitcoin faucet sites.
+URL: http://www.all-faucets.com/index.html
+---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+
+tyle>
+/* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
+body {
+font-family: Helvetica, Arial, sans-serif;
+font-size: 16px;
+
+-webkit-font-smoothing		: antialiased
+}
+
+.grid {
+margin: 0 auto;
+padding: 0;
+width: 100%;
+max-width: 1000px;
+}
+
+.grid li {
+width: 10%;
+background: #000000;
+float: left;
+position: relative;
+overflow: hidden;
+}
+
+.grid img {
+float: left;
+width: 100%;
+height: auto;
+position: relative;
+
+-webkit-transform-style: preserve-3d;
+-webkit-backface-visibility: hidden;
+-webkit-transform: translate3d(0,0,0);
+}
+
+.grid .info {
+position: absolute;
+width: 100%;
+height: 100%;
+padding: 15px;
+background: #DC584C;
+display: none;
+z-index: 2;
+
+-webkit-transform-style: preserve-3d;
+-webkit-backface-visibility: hidden;
+-webkit-transform: translate3d(0,0,0);
+}
+
+.grid p {
+font-size: 14px;
+font-weight: bold;
+color: #FFF;
+}
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+
+</head>
+
+<body>
+
+<ul class="grid">
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=1" alt="" />
+<div class="info">
+  <p>Kitty 1</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=2" alt="" />
+<div class="info">
+  <p>Kitty 2</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=3" alt="" />
+<div class="info">
+  <p>Kitty 3</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=4" alt="" />
+<div class="info">
+  <p>Kitty 4</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=5" alt="" />
+<div class="info">
+  <p>Kitty 5</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=6" alt="" />
+<div class="info">
+  <p>Kitty 6</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=7" alt="" />
+<div class="info">
+  <p>Kitty 7</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=8" alt="" />
+<div class="info">
+  <p>Kitty 8</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=9" alt="" />
+<div class="info">
+  <p>Kitty 9</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=10" alt="" />
+<div class="info">
+  <p>Kitty 10</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=11" alt="" />
+<div class="info">
+  <p>Kitty 11</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=12" alt="" />
+<div class="info">
+  <p>Kitty 12</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=13" alt="" />
+<div class="info">
+  <p>Kitty 13</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=14" alt="" />
+<div class="info">
+  <p>Kitty 14</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=15" alt="" />
+<div class="info">
+  <p>Kitty 15</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=1" alt="" />
+<div class="info">
+  <p>Kitty 16</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=2" alt="" />
+<div class="info">
+  <p>Kitty 17</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=3" alt="" />
+<div class="info">
+  <p>Kitty 18</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=4" alt="" />
+<div class="info">
+  <p>Kitty 19</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=5" alt="" />
+<div class="info">
+  <p>Kitty 20</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=6" alt="" />
+<div class="info">
+  <p>Kitty 21</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=7" alt="" />
+<div class="info">
+  <p>Kitty 22</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=8" alt="" />
+<div class="info">
+  <p>Kitty 23</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=9" alt="" />
+<div class="info">
+  <p>Kitty 24</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=10" alt="" />
+<div class="info">
+  <p>Kitty 25</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=11" alt="" />
+<div class="info">
+  <p>Kitty 26</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=12" alt="" />
+<div class="info">
+  <p>Kitty 27</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=13" alt="" />
+<div class="info">
+  <p>Kitty 28</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=14" alt="" />
+<div class="info">
+  <p>Kitty 29</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=15" alt="" />
+<div class="info">
+  <p>Kitty 30</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=1" alt="" />
+<div class="info">
+  <p>Kitty 31</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=2" alt="" />
+<div class="info">
+  <p>Kitty 32</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=3" alt="" />
+<div class="info">
+  <p>Kitty 33</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=4" alt="" />
+<div class="info">
+  <p>Kitty 34</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=5" alt="" />
+<div class="info">
+  <p>Kitty 35</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=6" alt="" />
+<div class="info">
+  <p>Kitty 36</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=7" alt="" />
+<div class="info">
+  <p>Kitty 37</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=8" alt="" />
+<div class="info">
+  <p>Kitty 38</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=9" alt="" />
+<div class="info">
+  <p>Kitty 39</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=10" alt="" />
+<div class="info">
+  <p>Kitty 40</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=11" alt="" />
+<div class="info">
+  <p>Kitty 41</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=12" alt="" />
+<div class="info">
+  <p>Kitty 42</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=13" alt="" />
+<div class="info">
+  <p>Kitty 43</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=14" alt="" />
+<div class="info">
+  <p>Kitty 44</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=15" alt="" />
+<div class="info">
+  <p>Kitty 45</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=1" alt="" />
+<div class="info">
+  <p>Kitty 46</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=2" alt="" />
+<div class="info">
+  <p>Kitty 47</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=3" alt="" />
+<div class="info">
+  <p>Kitty 48</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=4" alt="" />
+<div class="info">
+  <p>Kitty 49</p>
+</div>
+</a>
+</li>
+<li>
+<a href="#">
+<img src="http://placekitten.com/200/200?image=5" alt="" />
+<div class="info">
+  <p>Kitty 50</p>
+</div>
+</a>
+</li>
+</ul>
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.transit/0.9.9/jquery.transit.min.js'></script>
+
+
+
+<script  src="js/index.js"></script>
