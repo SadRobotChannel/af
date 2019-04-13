@@ -1,10 +1,10 @@
 ---
 layout: post-right-sidebar-fr
-title: "Bitcoin Faucet Games You Should Try"
+title: "Jeux de robinet Bitcoin à essayer"
 img: http://www.all-faucets.com/assets/images/bitcoin-games.png
-alt: Best paying bitcoin faucet games you should try today. No investment is required - just your time, skills and patience! Play online, withdraw the earned crypto to your wallet.
-desc: Best paying bitcoin faucet games you should try today. No investment is required - just your time, skills and patience! Play online, withdraw the earned crypto to your wallet.
-URL: http://www.all-faucets.com/2020/01/01/bitcoin-faucet-games.html
+alt: Les meilleurs jeux de robinet bitcoin que vous devriez essayer aujourd'hui. Aucun investissement n'est requis - juste votre temps, vos compétences et votre patience! Jouez en ligne, retirez le crypto gagné dans votre portefeuille.
+desc: Les meilleurs jeux de robinet bitcoin que vous devriez essayer aujourd'hui. Aucun investissement n'est requis - juste votre temps, vos compétences et votre patience! Jouez en ligne, retirez le crypto gagné dans votre portefeuille.
+URL: http://www.all-faucets.com/2020/05/01/jeux-de-robinet-bitcoin.html
 ---
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -13,7 +13,7 @@ URL: http://www.all-faucets.com/2020/01/01/bitcoin-faucet-games.html
 
 </style>
 
-It takes a lot of patience, but as you master these games you earn a decent amount of bitcoin that you can regularly withdraw. Have you tried any of them? Leave a comment below to share your experience!
+Cela prend beaucoup de patience, mais en maîtrisant ces jeux, vous gagnez une quantité décente de bitcoins que vous pouvez régulièrement retirer. Avez-vous essayé l'un d'eux? Laissez un commentaire ci-dessous pour partager votre expérience!
 
 <div class="sidebar-section" style="background-color:#fbf4ff">
      <h5><span>Crypto Mining Game</span></h5>
