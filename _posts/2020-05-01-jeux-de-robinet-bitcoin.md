@@ -43,14 +43,14 @@ Cela prend beaucoup de patience, mais en maîtrisant ces jeux, vous gagnez une q
 </div>
 
 <div class="sidebar-section" style="background-color:#fbf4ff">
-     <h5><span>Bits-Pays - Miner Game</span></h5>
-     Free Miner Game is one of the unique services provided by <a href="http://bit.ly/www-bits-pays" target="_blank">Bits-Pays</a>.
-		 Play for free and earn real bitcoin satoshi. There are up to 40 levels currently available, where miner of each higher levels can earn more (e.g. a miner of 20-lvl will mine about 15,000 satoshi per day).<br>
-		 - Explore 6 levels of maps for higher mining.<br>
-		 - Upgrade your mining tools and increase your miner's efficiency.<br>
-		 - Paid options are available for higher profits!
+     <h5><span>Bits-Pays - Jeu de mineur</span></h5>
+     Free Miner Game est l'un des services uniques fournis par <a href="http://bit.ly/www-bits-pays" target="_blank">Bits-Pays</a>.
+		 Jouez gratuitement et gagnez du vrai bitcoin satoshi. Il existe actuellement jusqu'à 40 niveaux disponibles, où les mineurs de chaque niveau supérieur peuvent gagner plus (par exemple, un mineur de 20 niveaux extraira environ 15 000 satoshi par jour).<br>
+		 - Explorez 6 niveaux de cartes pour une exploitation minière supérieure.<br>
+		 - Mettez à niveau vos outils d'exploitation et augmentez l'efficacité de votre mineur.<br>
+		 - Des options payantes sont disponibles pour des profits plus élevés!
 		 <p> </p>
-		 <center><a href="http://bit.ly/www-bits-pays" target="_blank"><img src="http://www.all-faucets.com/assets/images/bits-pays.com-miner.gif" alt="Bits-Pays - Miner Game"/></a></center>
+		 <center><a href="http://bit.ly/www-bits-pays" target="_blank"><img src="http://www.all-faucets.com/assets/images/bits-pays.com-miner.gif" alt="Bits-Pays - Jeu de mineur"/></a></center>
 </div>
 
 <div class="sidebar-section" style="background-color:#fbf4ff">
