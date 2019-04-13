@@ -55,12 +55,12 @@ Cela prend beaucoup de patience, mais en maîtrisant ces jeux, vous gagnez une q
 
 <div class="sidebar-section" style="background-color:#fbf4ff">
      <h5><span>Crypto Farmer</span></h5>
-     <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a> allows players to build their virtual farm by selecting key infrastructure components.
-		 By customizing and reinvesting your earned digital currency to buy more powerful hardware, you increase your hourly earnings.
+     <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a> permet aux joueurs de créer leur ferme virtuelle en sélectionnant des composants d'infrastructure clés.
+En personnalisant et en réinvestissant votre devise numérique acquise pour acheter un matériel plus puissant, vous augmentez vos gains horaires.
 		 <p> </p>
-		 You'll get started with no initial investment. The start-up bonus of 500 credits will be sufficient to buy the basic mining equipment.
-		 The clean and visually pleasing interface will keep you coming back each day to collect your accumulated wealth.
-		 Decide if you want to withdraw your crypto or reinvest, and most importantly, have fun!
+		 Vous commencerez sans aucun investissement initial. La prime de démarrage de 5000 crédits sera suffisante pour acheter l'équipement minier de base.
+		 L'interface épurée et visuellement agréable vous incitera à revenir chaque jour pour collecter votre richesse accumulée.
+		 Décidez si vous souhaitez retirer votre crypto ou réinvestir, et surtout, amusez-vous!
 		 <p> </p>
 		 <center><a href="http://bit.ly/www-cryptofarmer" target="_blank"><img src="http://www.all-faucets.com/assets/images/cryptofarmer.com-ad.gif" alt="cryptofarmer.com"/></a></center>
 </div>
