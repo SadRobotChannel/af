@@ -1,5 +1,5 @@
 ---
-layout: post-right-sidebar-en
+layout: post-right-sidebar-fr
 title: "Bitcoin Faucet Games You Should Try"
 img: http://www.all-faucets.com/assets/images/bitcoin-games.png
 alt: Best paying bitcoin faucet games you should try today. No investment is required - just your time, skills and patience! Play online, withdraw the earned crypto to your wallet.
