@@ -33,13 +33,13 @@ Cela prend beaucoup de patience, mais en maîtrisant ces jeux, vous gagnez une q
 </div>
 
 <div class="sidebar-section" style="background-color:#fbf4ff">
-     <h5><span>RollerCoin - An online virtual bitcoin mining game</span></h5>
-     One of the first online bitcoin mining simulator games is <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>.
-		 Your virtual mining power depends on the scores you reach playing flash games such as match-three puzzle games.
-		 The more you play the higher your virtual mining power. Want to earn passively? No problem, buy a virtual mining unit at the in-game shop.
-		 One way or another you get real satoshi which you can continue to reinvest or withdraw!
+     <h5><span>RollerCoin - Un jeu d'extraction de bitcoin virtuel en ligne</span></h5>
+     <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>  est l’un des premiers jeux de simulateur d’exploitation minière en ligne Bitcoin.
+		 Votre puissance d’exploitation virtuelle dépend des scores que vous atteignez en jouant à des jeux flash tels que les jeux de match-trois.
+		 Plus vous jouez, plus votre puissance d'extraction virtuelle est élevée. Voulez-vous gagner passivement? Pas de problème, achetez une unité d'extraction virtuelle dans la boutique du jeu.
+		 D'une manière ou d'une autre, vous obtenez de vrais satoshi que vous pouvez continuer à réinvestir ou à retirer!
 		 <p> </p>
-		 <center><a href="http://bit.ly/www-rollercoin" target="_blank"><img src="http://www.all-faucets.com/assets/images/rollercoin-ad.gif" alt="RollerCoin - An online virtual bitcoin mining game"/></a></center>
+		 <center><a href="http://bit.ly/www-rollercoin" target="_blank"><img src="http://www.all-faucets.com/assets/images/rollercoin-ad.gif" alt="RollerCoin - Un jeu d'extraction de bitcoin virtuel en ligne"/></a></center>
 </div>
 
 <div class="sidebar-section" style="background-color:#fbf4ff">
