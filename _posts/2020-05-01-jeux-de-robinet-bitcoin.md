@@ -16,12 +16,12 @@ URL: http://www.all-faucets.com/2020/05/01/jeux-de-robinet-bitcoin.html
 Cela prend beaucoup de patience, mais en maîtrisant ces jeux, vous gagnez une quantité décente de bitcoins que vous pouvez régulièrement retirer. Avez-vous essayé l'un d'eux? Laissez un commentaire ci-dessous pour partager votre expérience!
 
 <div class="sidebar-section" style="background-color:#fbf4ff">
-     <h5><span>Crypto Mining Game</span></h5>
-     <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a> is a new kind of Bitcoin, Litecoin and Doge Auto-Faucet where you can simulate mining and earn real cryptocurrency. Increase the amounts you mine as your level grows!
+     <h5><span>Jeu de Crypto Minier</span></h5>
+     <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a> est un nouveau type de robinet automatique Bitcoin, Litecoin et Doge où vous pouvez simuler l'extraction et gagner de la vraie crypto-monnaie. Augmentez les montants que vous minez à mesure que votre niveau augmente!
 		 <p> </p>
-		 You increase your miner's level by completing missions and daily quests, as a result of which not only you earn XP but find treasure chests filled with exciting crypto loot. Stay patient with the antibot verification by clicking those ad links! Your reward will be a capable miner earning bitcoin for hours without your involvement.
+		 Vous augmentez le niveau de votre mineur en accomplissant des missions et des quêtes journalières, ce qui vous permet non seulement de gagner de l'expérience, mais également de trouver des coffres au trésor remplis de butin de crypto excitant. Restez patient avec la vérification antibot en cliquant sur ces liens publicitaires! Votre récompense sera un mineur capable gagnant des bitcoins pendant des heures sans votre participation.
 		 <p> </p>
-     <center><a href="http://bit.ly/www-cryptomininggame" target="_blank"><img src="http://www.all-faucets.com/assets/images/cryptomininggame-ad.gif" alt="Crypto Mining Gam"/></a></center>
+     <center><a href="http://bit.ly/www-cryptomininggame" target="_blank"><img src="http://www.all-faucets.com/assets/images/cryptomininggame-ad.gif" alt="Jeu de Crypto Minier"/></a></center>
 </div>
 
 
