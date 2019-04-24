@@ -299,7 +299,7 @@ In summary and on average, you and up with about 25 satoshi per minute as a rewa
 
     <tr>
        <td>16</td>
-       <td><a href="http://bit.ly/www-bittube" target="_blank"><img src="http://www.all-faucets.com/assets/images/adbtc.top-ad.png" alt="BitTube"/></a></td>
+       <td><a href="http://bit.ly/www-bittube" target="_blank"><img src="http://www.all-faucets.com/assets/images/bittube.me-site.png" alt="BitTube"/></a></td>
        <td><a href="http://bit.ly/www-bittube" target="_blank">BitTube</a></td>
        <td><a href="#">Discussion</a></td>
        <td>n/a</td>
