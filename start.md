@@ -228,15 +228,6 @@ The next table shows the faucets with an hourly frequency of reward. We've added
     </tr>
 
     <tr>
-       <td>11</td>
-       <td><a href="http://bit.ly/www-cointiply" target="_blank"><img src="/assets/images/cointiply.com-thumb.png" alt="Cointiply"/></a></td>
-       <td><a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a></td>
-       <td><a href="/cointiply.com.html">Discussion</a></td>
-       <td>0.00100000 BTC</td>
-       <td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
-    </tr>
-
-    <tr>
        <td>12</td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="FreeDoge.co.in"/></a></td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">FreeDoge.co.in</a></td>
