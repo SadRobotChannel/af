@@ -1,5 +1,5 @@
 ---
-layout: post-right-sidebar-faucet
+layout: post-right-sidebar
 title: "bonusbitcoin.co"
 categories: [ faucets ]
 img: http://www.all-faucets.com/assets/images/bonusbitcoin.co-01.png

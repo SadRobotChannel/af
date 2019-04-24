@@ -1,5 +1,5 @@
 ---
-layout: post-right-sidebar-faucet
+layout: post-right-sidebar
 title: trustbtcfaucet.com
 categories: [ faucets ]
 img: http://www.all-faucets.com/assets/images/trustbtcfaucet.com-01.png

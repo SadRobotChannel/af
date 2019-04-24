@@ -1,5 +1,5 @@
 ---
-layout: post-right-sidebar-faucet
+layout: post-right-sidebar
 title: "freebitco.in"
 categories: [ faucets ]
 img: http://www.all-faucets.com/assets/images/freebitco.in-thumb.png
