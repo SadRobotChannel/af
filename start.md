@@ -203,7 +203,7 @@ There are games that do not involve betting and still reward you similarly to th
 <p> </p>
 **Not just Bitcoin!**
 
-The next table shows the faucets with an hourly frequency of reward. We've added two more non-bitcoin faucets here - a Doge and a Ripple (XPR) faucet. Don't put all your eggs in one basket, the old saying goes. And even if you do prefer just one currency, you can later convert between digital currencies on sites like Eobot.
+The next table shows the faucets with an hourly frequency of reward. We've added two more non-bitcoin faucets here - a Doge and a Ripple (XPR) faucet. Don't put all your eggs in one basket, the old saying goes. And even if you do prefer just one currency, you can later convert between digital currencies on sites like Coinbase.
 
 <div class="table-users">
  <div class="header">Claim every 60 minutes</div>
@@ -312,9 +312,43 @@ In summary and on average, you and up with about 25 satoshi per minute as a rewa
 <p> </p>
 **All-in-One Portals**
 
-We'd love for you to write a blog-like article about your experience, where you can use your referral IDs for the faucets you write about. Check out the currently ongoing <a href="/march-article-contest.html">March's Faucet Article Contest</a> and submit your article to CryptoPayoff@gmail.com email.
+Finally, there are several portals that offer multiple services mentioned above offering a unique all-inclusive experience.
+
+<div class="table-users">
+ <div class="header">All-in-One</div>
+
+ <table cellspacing="0">
+    <tr>
+       <th><center>#</center></th>
+       <th><center>Site</center></th>
+       <th><center>Faucet Name</center></th>
+       <th><center>Info</center></th>
+       <th><center>Min. Withdrawal</center></th>
+       <th width="230"><center>Value</center></th>
+    </tr>
+
+    <tr>
+       <td>11</td>
+       <td><a href="http://bit.ly/www-cointiply" target="_blank"><img src="/assets/images/cointiply.com-thumb.png" alt="Cointiply"/></a></td>
+       <td><a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a></td>
+       <td><a href="/cointiply.com.html">Discussion</a></td>
+       <td>0.00100000 BTC</td>
+       <td>The site uses its own coins which translate into BTC, making it about 0.00000050 BTC per hour, being a bit above average of other faucet sites.</td>
+    </tr>
+
+    <tr>
+       <td>12</td>
+       <td><a href="http://bit.ly/www-bits-pays" target="_blank"><img src="http://www.all-faucets.com/assets/images/bits-pays.com-site.png" alt="Bits-Pays"/></a></td>
+       <td><a href="http://bit.ly/www-bits-pays" target="_blank">Bits-Pay</a></td>
+       <td><a href="http://www.all-faucets.com/daily/2019/04/22/giveaway.html">Discussion</a></td>
+       <td>TBD</td>
+       <td>TBD</td>
+    </tr>
+
+ </table>
+</div>
 
 ---
 #### Follow us on Twitter for the Daily Giveaway
 
-Follow <a href="https://twitter.com/intent/user?screen_name=CryptoPayoff" target="_blank">us</a> for our Daily Bitcoin Giveaway. We reward our followers daily for following and retweeting a simple daily tweet. Our goal is to increase the awareness of good crypto faucets and we are happy to give back for your support!
+<a href="https://twitter.com/intent/user?screen_name=CryptoPayoff" target="_blank">Follow us</a> for our Daily Bitcoin Giveaway. We reward our followers daily for retweeting a simple daily tweet. Our goal is to increase the awareness of good crypto faucets and we are happy to give back for your support!
