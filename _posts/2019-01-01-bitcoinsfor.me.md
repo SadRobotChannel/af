@@ -1,5 +1,5 @@
 ---
-layout: post-right-sidebar-faucet
+layout: post-right-sidebar
 title:  "bitcoinsfor.me"
 categories: [ faucets ]
 img: http://www.all-faucets.com/assets/images/bitcoinsfor.me-thumb.png
