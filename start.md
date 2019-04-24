@@ -310,11 +310,11 @@ In summary and on average, you and up with about 25 satoshi per minute as a rewa
 </div>
 
 <p> </p>
-**What is your experience with faucet sites? Are there tips you can share?**
+**All-in-One Portals**
 
 We'd love for you to write a blog-like article about your experience, where you can use your referral IDs for the faucets you write about. Check out the currently ongoing <a href="/march-article-contest.html">March's Faucet Article Contest</a> and submit your article to CryptoPayoff@gmail.com email.
 
 ---
-#### Social
+#### Follow us on Twitter for the Daily Giveaway
 
-Thank you for visiting this site. If you found it helpful, please share it with your friends on your favorite social media platforms! And also, say <i>hi</i> in our <a href="https://discord.gg/rSJsUWc">Discord Chat</a>!
+Follow <a href="https://twitter.com/intent/user?screen_name=CryptoPayoff" target="_blank">us</a> for our Daily Bitcoin Giveaway. We reward our followers daily for following and retweeting a simple daily tweet. Our goal is to increase the awareness of good crypto faucets and we are happy to give back for your support!
