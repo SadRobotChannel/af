@@ -276,7 +276,7 @@ A good Paid to Click (PTC) or Paid to Surf (PTS) is usually much cleaner than a 
 In summary and on average, you and up with about 25 satoshi per minute as a reward for watching ads or sites that will be shown to you. The most known such site is adBTC and there are many clones and imitations of such service. BitTube, listed below, has a similar concept, and you are rewarded for watching YouTube videos.
 
 <div class="table-users">
- <div class="header">Claim once per day</div>
+ <div class="header">PTC and PTS</div>
 
  <table cellspacing="0">
     <tr>
@@ -290,10 +290,10 @@ In summary and on average, you and up with about 25 satoshi per minute as a rewa
 
     <tr>
        <td>15</td>
-       <td><a href="http://bit.ly/www-eobot" target="_blank"><img src="/assets/images/eobot.com-thumb.png" alt="adBTC"/></a></td>
+       <td><a href="http://bit.ly/www-eobot" target="_blank"><img src="http://www.all-faucets.com/assets/images/adbtc.top-ad.png" alt="adBTC"/></a></td>
        <td><a href="http://bit.ly/www-eobot" target="_blank">adBTC</a></td>
-       <td><a href="/eobot.com.html">Discussion</a></td>
-       <td>0.00200000 BTC</td>
+       <td><a href="http://www.all-faucets.com/daily/2019/04/24/giveaway.html">Discussion</a></td>
+       <td>0.00005000 BTC</td>
        <td>Claim once per day circa 0.00000140 BTC; Primarily is an exchange and mining site</td>
     </tr>
 
