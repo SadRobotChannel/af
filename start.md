@@ -269,7 +269,7 @@ The next table shows the faucets with an hourly frequency of reward. We've added
 <p> </p>
 **Paid to Click (PTC) and Paid to Surf (PTS)**
 
-Additionally, there are sites that are not typically assumed to be the faucet sites, however offer free rewards. You should be aware of these types of sites, since many of them can be much more profitable than a typical 60-minute interval faucet. The below table lists two such sites as an example - adBTC and BitTube.
+Additionally, there are sites that are not typically assumed to be faucet sites, however offer free rewards. You should be aware of these types of sites, since many of them can be much more profitable than a typical 60-minute interval faucet. The below table lists two such sites as an example - adBTC and BitTube.
 
 A good Paid to Click (PTC) or Paid to Surf (PTS) is usually much cleaner than a faucet site, since it aims to show you only the targeted ads (unlike a faucet portal which is often filled with many ads in a hope that you'd click or mis-click on some). On PTC/PTS portals you are typically rewarded anywhere from 5 to 100 satoshi per one click, and required to view an ad or a website that the marketer has prepared for you. You may be required not to switch the your screen for a period of time, anywhere from 15 to 60 seconds, and in the end of the time period, you are asked again to press a button or solve a CAPTCHA to confirm that you have finished watching the ad.
 
@@ -290,25 +290,24 @@ In summary and on average, you and up with about 25 satoshi per minute as a rewa
 
     <tr>
        <td>15</td>
-       <td><a href="http://bit.ly/www-eobot" target="_blank"><img src="http://www.all-faucets.com/assets/images/adbtc.top-ad.png" alt="adBTC"/></a></td>
-       <td><a href="http://bit.ly/www-eobot" target="_blank">adBTC</a></td>
+       <td><a href="http://bit.ly/www-adbtc" target="_blank"><img src="http://www.all-faucets.com/assets/images/adbtc.top-ad.png" alt="adBTC"/></a></td>
+       <td><a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a></td>
        <td><a href="http://www.all-faucets.com/daily/2019/04/24/giveaway.html">Discussion</a></td>
        <td>0.00005000 BTC</td>
-       <td>Claim once per day circa 0.00000140 BTC; Primarily is an exchange and mining site</td>
+       <td>TBD</td>
     </tr>
 
     <tr>
        <td>16</td>
-       <td><a href="http://bit.ly/www-mellowads" target="_blank"><img src="/assets/images/mellowads.com-thumb.png" alt="MellowAds"/></a></td>
-       <td><a href="http://bit.ly/www-mellowads" target="_blank">MellowAds</a></td>
-       <td><a href="/mellowads.com.html">Discussion</a></td>
+       <td><a href="http://bit.ly/www-bittube" target="_blank"><img src="http://www.all-faucets.com/assets/images/adbtc.top-ad.png" alt="BitTube"/></a></td>
+       <td><a href="http://bit.ly/www-bittube" target="_blank">BitTube</a></td>
+       <td><a href="#">Discussion</a></td>
        <td>n/a</td>
-       <td>Claim once per day 0.00000500-0.00003000 BTC; Is an advertising platform (buy and sell ads), but gives you a free faucet; Use funds for ads</td>
+       <td>TBD</td>
     </tr>
 
  </table>
 </div>
-
 
 <p> </p>
 **What is your experience with faucet sites? Are there tips you can share?**
