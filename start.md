@@ -267,9 +267,13 @@ The next table shows the faucets with an hourly frequency of reward. We've added
 </div>
 
 <p> </p>
-**Hidden gems**
+**Paid to Click (PTC) and Paid to Surf (PTS)**
 
-Finally, here are the sites that are not typically assumed to be the faucet sites. Eobot is primarily a mining site, but you can do much more once you create your account. You can use the site as your digital wallet for a large variety of tokens. And also, the site has a free daily faucet. Similarly, MellowAds is not a faucet site but rather an ad agency, allowing you to buy and sell online ads. The site, however, gives you a free daily faucet rewarding anywhere between 500-3000 satoshi per claim. A 500 satoshi for a 10 second action -- now that's a "reward vs. effort" balance we're happy about!
+Additionally, here are the sites that are not typically assumed to be the faucet sites. You should be aware of these types of sites, since many of them can be much more profitable than a typical 60-minute interval faucet. The below table lists two such sites as an example - adBTC and BitTube.
+
+A good Paid to Click (PTC) or Paid to Surf (PTS) is usually much cleaner than a faucet site, since it aims to show you only the targeted sites. On such portal you are typically rewarded anywhere from 5 to 100 satoshi per one click, and required to view an ad or a website that the marketer has prepared for you. You may be required not to switch the your screen for a period of time, anywhere from 15 to 60 seconds, and in the end of the time period, you are asked again to press a button or solve a CAPTCHA to confirm that you have finished watching the ad.
+
+In summary and on average, you and up with about 25 satoshi per minute as a reward for watching ads or sites that will be shown to you. The most known such site is adBTC and there are many clones and imitations of such service. BitTube, listed below, has a similar concept, and you are rewarded for watching YouTube videos.
 
 <div class="table-users">
  <div class="header">Claim once per day</div>
@@ -286,8 +290,8 @@ Finally, here are the sites that are not typically assumed to be the faucet site
 
     <tr>
        <td>15</td>
-       <td><a href="http://bit.ly/www-eobot" target="_blank"><img src="/assets/images/eobot.com-thumb.png" alt="eobot"/></a></td>
-       <td><a href="http://bit.ly/www-eobot" target="_blank">eobot</a></td>
+       <td><a href="http://bit.ly/www-eobot" target="_blank"><img src="/assets/images/eobot.com-thumb.png" alt="adBTC"/></a></td>
+       <td><a href="http://bit.ly/www-eobot" target="_blank">adBTC</a></td>
        <td><a href="/eobot.com.html">Discussion</a></td>
        <td>0.00200000 BTC</td>
        <td>Claim once per day circa 0.00000140 BTC; Primarily is an exchange and mining site</td>
