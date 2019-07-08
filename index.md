@@ -16,4 +16,4 @@ Continue reading: <a href="http://www.all-faucets.com/start.html">Getting Starte
 ---
 #### New: Invest in Alt Coins!
 
-Stay tuned for a new section of our website!
+Stay tuned for a new section of our website, coming live on weekend of July 13th!
