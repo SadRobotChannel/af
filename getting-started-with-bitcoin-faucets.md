@@ -280,5 +280,9 @@ In summary and on average, you and up with about 25 satoshi per minute as a rewa
 
 We'd love to hear from you. Post a comment or give us a LIKE!
 
+<div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.3"></script>
+
+<div class="fb-like" data-href="http://www.all-faucets.com/getting-started-with-bitcoin-faucets.html" data-width="" data-layout="button" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+
 <div class="fb-comments" data-href="http://www.all-faucets.com/getting-started-with-bitcoin-faucets.html" data-width="" data-numposts="5"></div>
