@@ -106,7 +106,7 @@ Many of the faucets sites, however, allow only a withdrawal to an account that y
 Each faucet site rewards you differently. Most of the sites are able to sustain itself due to advertisement, but when the ads are excessive or try to confuse you, you end-up wasting too much time on the site, and finally never come back to it. We try to list only the "cleanest" sites, where you spend literarily 10-15 seconds per faucet claim. And these 10-15 seconds are rewarded anywhere from 10-100 satoshi, depending on the site. The information about the value of faucet sites is listed in the tables on this page, as well as under the <i>Discussion</i> pages for each site, where we try to offer some helpful hints.
 
 <div class="table-users">
- <div class="header">Claim every 15 minutes</div>
+ <div class="header">Claim every 60 minutes</div>
 
  <table cellspacing="0">
     <tr>
@@ -119,37 +119,12 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
     </tr>
 
     <tr>
-       <td>6</td>
-       <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank"><img src="/assets/images/bonusbitcoin.co-thumb.png" alt="BonusBitcoin"/></a></td>
-       <td><a href="http://bonusbitcoin.co/?ref=4999B8EC3FD3" target="_blank">BonusBitcoin</a></td>
-       <td><a href="/bonusbitcoin.co.html">Discussion</a></td>
-       <td>0.00010000 BTC</td>
-       <td>Random reward up-to 0.00005000 BTC, actual average is 0.00000050 BTC, which is very good for a 15 min interval.</td>
-    </tr>
-
-    <tr>
-       <td>7</td>
-       <td><a href="http://bit.ly/www-allcoins" target="_blank"><img src="/assets/images/allcoins.pw-thumb.png" alt="Allcoins"/></a></td>
-       <td><a href="http://bit.ly/www-allcoins" target="_blank">Allcoins</a></td>
-       <td><a href="/allcoins.pw.html">Discussion</a></td>
-       <td>no min</td>
-       <td>0.00000005 BTC; Also: Games; Mining; Offers; Multicurrency support</td>
-    </tr>
-
- </table>
-</div>
-
-<div class="table-users">
- <div class="header">Claim every 30 minutes</div>
-
- <table cellspacing="0">
-    <tr>
-       <th><center>#</center></th>
-       <th><center>Site</center></th>
-       <th><center>Faucet Name</center></th>
-       <th><center>Info</center></th>
-       <th><center>Min. Withdrawal</center></th>
-       <th width="230"><center>Value</center></th>
+       <td>10</td>
+       <td><a href="http://bit.ly/www-freebitcoin" target="_blank"><img src="/assets/images/freebitco.in-thumb.png" alt="FreeBitco.in"/></a></td>
+       <td><a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a></td>
+       <td><a href="http://www.all-faucets.com/faucets/2019/01/05/freebitco.in.html">Discussion</a></td>
+       <td>0.00003000 BTC</td>
+       <td>Between 0.00000005 and 0.00000040 BTC per hour, with a possibility to roll more; Lottery</td>
     </tr>
 
     <tr>
@@ -216,15 +191,6 @@ The next table shows the faucets with an hourly frequency of reward. We've added
        <th><center>Info</center></th>
        <th><center>Min. Withdrawal</center></th>
        <th width="230"><center>Value</center></th>
-    </tr>
-
-    <tr>
-       <td>10</td>
-       <td><a href="http://bit.ly/www-freebitcoin" target="_blank"><img src="/assets/images/freebitco.in-thumb.png" alt="FreeBitco.in"/></a></td>
-       <td><a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a></td>
-       <td><a href="http://www.all-faucets.com/faucets/2019/01/05/freebitco.in.html">Discussion</a></td>
-       <td>0.00003000 BTC</td>
-       <td>0.00000040 BTC per hour, with a possibility to roll more; Lottery</td>
     </tr>
 
     <tr>
