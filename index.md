@@ -21,6 +21,6 @@ Dogecoin (DOGE) has made a lot of news recently as a fun <i>alternative</i> to b
 Should you invest in Alt Coins and which coins should you collect? Continue reading our <a href="http://www.all-faucets.com/start.html">Alt Coins that Pay Dividends</a> article.
 
 ---
-#### New: Invest in Alt Coins!
+#### New: Learn to Trade (While You Sleep)
 
 Stay tuned for a new section of our website, coming live on weekend of July 20th!
