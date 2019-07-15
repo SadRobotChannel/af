@@ -14,6 +14,13 @@ If you're new to crypto faucets this site is for you. We list bitcoin and other 
 Continue reading: <a href="http://www.all-faucets.com/start.html">Getting Started with Bitcoin Faucets</a>.
 
 ---
+#### Invest in Alt Coins!
+
+Dogecoin (DOGE) has made a lot of news recently as a <i>alternative</i> coin to bitcoin. (By the way, our favorite faucet to earn Dogecoin is <a href="https://free-dogecoin.com/?referer=49511" target="_blank">Free-Dogecoin</a> - try it, you won't find a better one!) But DOGE is one out of thousands of Alt Coins available for you to trade and collect. As of today, coinmarketcap.com lists over 2,300 different cryto coins and tokens. Many had a tremendous growth since their initial release to public, but some turned out to be worthless.
+
+Should you invest in Alt Coins and which coins should you collect? Continue reading our <a href="http://www.all-faucets.com/start.html">Alt Coins that Pay Dividends</a> article.
+
+---
 #### New: Invest in Alt Coins!
 
-Stay tuned for a new section of our website, coming live on weekend of July 13th!
+Stay tuned for a new section of our website, coming live on weekend of July 20th!
