@@ -40,11 +40,11 @@ There are several tables below that list the faucet sites. The tables split by t
 
     <tr>
        <td>2</td>
-       <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank"><img src="/assets/images/trustbtcfaucet.com-thumb.png" alt="TrustBTCFaucet"/></a></td>
-       <td><a href="http://bit.ly/www-trustbtcfaucet" target="_blank">TrustBTCFaucet</a></td>
-       <td><a href="http://www.all-faucets.com/faucets/2019/01/02/trustbtcfaucet.com.html">Discussion</a></td>
-       <td>0.00015000 BTC</td>
-       <td>From 0.00000003 to 0.00000888 BTC random value; Also: Loyalty Bonus; Daily Interest</td>
+       <td><a href="http://bit.ly/www-bithunt" target="_blank"><img src="/assets/images/bithunt.win-thumb.png" alt="BitHunt"/></a></td>
+       <td><a href="http://bit.ly/www-bithunt" target="_blank">BitHunt</a></td>
+       <td><Discussion</td>
+       <td>0.00000100 BTC</td>
+       <td>From 0.00000005 per claim; Supports Bitcoin and many Alt Coins!/td>
     </tr>
 
     <tr>
