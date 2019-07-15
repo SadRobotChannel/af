@@ -42,7 +42,7 @@ There are several tables below that list the faucet sites. The tables split by t
        <td>2</td>
        <td><a href="http://bit.ly/www-bithunt" target="_blank"><img src="/assets/images/bithunt.win-thumb.png" alt="BitHunt"/></a></td>
        <td><a href="http://bit.ly/www-bithunt" target="_blank">BitHunt</a></td>
-       <td><Discussion</td>
+       <td>Discussion</td>
        <td>0.00000100 BTC</td>
        <td>From 0.00000005 per claim; Supports Bitcoin and many Alt Coins!</td>
     </tr>
