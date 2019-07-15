@@ -285,4 +285,6 @@ We'd love to hear from you. Post a comment or give us a LIKE!
 
 <div class="fb-like" data-href="http://www.all-faucets.com/getting-started-with-bitcoin-faucets.html" data-width="" data-layout="button" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
 
+<p> </p>
+
 <div class="fb-comments" data-href="http://www.all-faucets.com/getting-started-with-bitcoin-faucets.html" data-width="" data-numposts="5"></div>
