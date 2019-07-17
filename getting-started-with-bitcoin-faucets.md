@@ -35,7 +35,7 @@ There are several tables below that list the faucet sites. The tables split by t
        <td><a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">BitcoinsForMe</a></td>
        <td><a href="http://www.all-faucets.com/faucets/2019/01/01/bitcoinsfor.me.html">Discussion</a></td>
        <td>0.00000500 BTC</td>
-       <td>0.00000010 BTC; Also: Free hourly Slots Roll; Offer Wall, etc</td>
+       <td>0.00000005 BTC; Also: Free hourly Slots Roll; Offer Wall, etc</td>
     </tr>
 
     <tr>
@@ -62,7 +62,7 @@ There are several tables below that list the faucet sites. The tables split by t
 <p> </p>
 **Direct vs. Indirect**
 
-There are some faucet sites that allow a direct transfer out (withdraw) of your earned digital currency. Let's say you created a wallet on <a href="https://wallet.btc.com/" target="_blank">BTC.com</a>. Then when claiming from a direct faucet (e.g. TrustBTCFaucet), you can specify your BTC.com's withdrawal wallet. Or any other bitcoin address.
+There are some faucet sites that allow a direct transfer out (withdraw) of your earned digital currency. Let's say you created a wallet on <a href="https://wallet.btc.com/" target="_blank">BTC.com</a>. Then when claiming from a direct faucet, you can specify your BTC.com's withdrawal wallet. Or any other bitcoin address.
 
 Many of the faucets sites, however, allow only a withdrawal to an account that you'd need to create with either the FaucetHub or CoinPot. Think of these two sites as transaction brokers - a middleman between you and other faucet sites. The digital wallets you generate on these websites reduce or completely eliminate the transaction fees to transfer money from a faucet to yourself. They are your friends, although you may later want to withdraw your money from FaucetHub and CoinPot to a secure hardware wallet like <a href="https://bitcoin.org/en/wallets/hardware/trezor/" target="_blank">Trezor</a>.
 
@@ -119,7 +119,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
     </tr>
 
     <tr>
-       <td>10</td>
+       <td>6</td>
        <td><a href="http://bit.ly/www-freebitcoin" target="_blank"><img src="/assets/images/freebitco.in-thumb.png" alt="FreeBitco.in"/></a></td>
        <td><a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a></td>
        <td><a href="http://www.all-faucets.com/faucets/2019/01/05/freebitco.in.html">Discussion</a></td>
@@ -128,7 +128,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
     </tr>
 
     <tr>
-       <td>8</td>
+       <td>7</td>
        <td><a href="http://bit.ly/www-bitnyx" target="_blank"><img src="/assets/images/bitnyx.com-thumb.png" alt="Bitnyx"/></a></td>
        <td><a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a></td>
        <td><a href="http://www.all-faucets.com/faucets/2019/01/04/bitnyx.com.html">Discussion</a></td>
@@ -137,7 +137,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
     </tr>
 
     <tr>
-       <td>11</td>
+       <td>8</td>
        <td><a href="http://bit.ly/www-cointiply" target="_blank"><img src="/assets/images/cointiply.com-thumb.png" alt="Cointiply"/></a></td>
        <td><a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a></td>
        <td><a href="/cointiply.com.html">Discussion</a></td>
@@ -151,7 +151,7 @@ Each faucet site rewards you differently. Most of the sites are able to sustain 
 <p> </p>
 **Don't gamble**
 
-While many sites live from their ads, some are also making money by offering games and gambling services. While there's a solid chance of winning when you gamble, similarly as in a casino, in the long term you'll always loose. The house always stays profitable. And so we do not discuss gambling on this site and generally do not recommend it.
+While many sites profit from their ads, some are also making money by offering games and gambling services. While there's a solid chance of winning when you gamble, similarly as in a casino, in the long term you'll always loose. The house always stays profitable. And so we do not discuss gambling and generally do not recommend it.
 
 <p> </p>
 **The good games**
@@ -170,6 +170,24 @@ There are games that do not involve betting and still reward you similarly to th
        <th><center>Info</center></th>
        <th><center>Min. Withdrawal</center></th>
        <th width="230"><center>Description</center></th>
+    </tr>
+
+    <tr>
+       <td>9</td>
+       <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/febbit.com-thumb.png" alt="Febbit"/></a></td>
+       <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a></td>
+       <td><a href="/febbit.com.html">Discussion</a></td>
+       <td>0.00001000 BTC</td>
+       <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. Interaction frequency depends on your level.</td>
+    </tr>
+
+    <tr>
+       <td>9</td>
+       <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/febbit.com-thumb.png" alt="Febbit"/></a></td>
+       <td><a href="http://bit.ly/www-febbit" target="_blank">Febbit</a></td>
+       <td><a href="/febbit.com.html">Discussion</a></td>
+       <td>0.00001000 BTC</td>
+       <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. Interaction frequency depends on your level.</td>
     </tr>
 
     <tr>
@@ -203,7 +221,7 @@ The next table shows the faucets with an hourly frequency of reward. We've added
     </tr>
 
     <tr>
-       <td>12</td>
+       <td>6</td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="FreeDoge.co.in"/></a></td>
        <td><a href="http://bit.ly/www-freedogecoin" target="_blank">FreeDoge.co.in</a></td>
        <td><a href="/freedoge.co.in.html">Discussion</a></td>
