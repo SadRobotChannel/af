@@ -183,20 +183,20 @@ There are games that do not involve betting and still reward you similarly to th
 
     <tr>
        <td>10</td>
-       <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/febbit.com-thumb.png" alt="Crypto Mining Game"/></a></td>
-       <td><a href="http://bit.ly/www-febbit" target="_blank">Crypto Mining Game</a></td>
+       <td><a href="http://bit.ly/www-cryptomininggame" target="_blank"><img src="/assets/images/cryptomininggame.com-thumb.png" alt="Crypto Mining Game"/></a></td>
+       <td><a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a></td>
        <td><a href="">Discussion</a></td>
        <td>0.00001000 BTC</td>
-       <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. Interaction frequency depends on your level.</td>
+       <td>TBD</td>
     </tr>
 
     <tr>
        <td>11</td>
-       <td><a href="http://bit.ly/www-febbit" target="_blank"><img src="/assets/images/febbit.com-thumb.png" alt="Crypto Farmer"/></a></td>
-       <td><a href="http://bit.ly/www-febbit" target="_blank">Crypto Farmer</a></td>
+       <td><a href="http://bit.ly/www-cryptofarmer" target="_blank"><img src="/assets/images/cryptofarmer.com-site.png" alt="Crypto Farmer"/></a></td>
+       <td><a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a></td>
        <td><a href="">Discussion</a></td>
        <td>0.00001000 BTC</td>
-       <td>A browser-based game. You level-up a monster who mines bitcoins. Not real mining, just simulation. Interaction frequency depends on your level.</td>
+       <td>TBD</td>
     </tr>
 
  </table>
