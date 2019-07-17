@@ -255,11 +255,11 @@ There are much more Alt Coins that you can collect, read our Alt Coins that Pay 
 <p> </p>
 **Paid to Click (PTC) and Paid to Surf (PTS)**
 
-Additionally, there are sites that are not typically assumed to be faucet sites, however offer free rewards. You should be aware of these types of sites, since many of them can be much more profitable than a typical 60-minute interval faucet. The below table lists two such sites as an example - adBTC and BitTube.
+Additionally, there are sites that are not typically assumed to be faucet sites, however offer free rewards. You should be aware of these types of sites, since many of them can be much more profitable than a typical 60-minute interval faucet.
 
 A good Paid to Click (PTC) or Paid to Surf (PTS) is usually much cleaner than a faucet site, since it aims to show you only the targeted ads (unlike a faucet portal which is often filled with many ads in a hope that you'd click or mis-click on some). On PTC/PTS portals you are typically rewarded anywhere from 5 to 100 satoshi per one click, and required to view an ad or a website that the marketer has prepared for you. You may be required not to switch the your screen for a period of time, anywhere from 15 to 60 seconds, and in the end of the time period, you are asked again to press a button or solve a CAPTCHA to confirm that you have finished watching the ad.
 
-In summary and on average, you and up with about 25 satoshi per minute as a reward for watching ads or sites that will be shown to you. The most known such site is adBTC and there are many clones and imitations of such service. BitTube, listed below, has a similar concept, and you are rewarded for watching YouTube videos.
+In summary and on average, you end up with about 25 satoshi per minute as a reward for watching ads or sites that will be shown to you. The most popular example of such a site is adBTC and there are many clones and imitations of such service.
 
 <div class="table-users">
  <div class="header">PTC and PTS</div>
@@ -280,15 +280,6 @@ In summary and on average, you and up with about 25 satoshi per minute as a rewa
        <td><a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a></td>
        <td><a href="http://www.all-faucets.com/daily/2019/04/24/giveaway.html">Discussion</a></td>
        <td>0.00005000 BTC</td>
-       <td>TBD</td>
-    </tr>
-
-    <tr>
-       <td>16</td>
-       <td><a href="http://bit.ly/www-bittube" target="_blank"><img src="http://www.all-faucets.com/assets/images/bittube.me-site.png" alt="BitTube"/></a></td>
-       <td><a href="http://bit.ly/www-bittube" target="_blank">BitTube</a></td>
-       <td><a href="#">Discussion</a></td>
-       <td>n/a</td>
        <td>TBD</td>
     </tr>
 
