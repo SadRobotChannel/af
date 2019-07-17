@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta property="og:url" content="{{ page.URL }}" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:description" content="{{ page.desc }}"/>
+<meta property="og:image" content="{{ page.img }}" />
+<meta property="og:image:alt" content="{{ page.alt }}" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="{{ page.img }}" />
+    <meta name="twitter:image:alt" content="{{ page.alt }}" />
+    <meta name="twitter:description" content="{{ page.desc }}" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png">
+<title>{{ page.title }} | {{site.name}}</title>
+{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i,700,700i" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <script> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-5246610548435920", enable_page_level_ads: true }); </script>
+
+{% if jekyll.environment == 'production' %}
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '{{site.google_analytics}}', 'auto');
+  ga('send', 'pageview');
+</script>
+{% endif %}
+
+</head>
+
+{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+<body class="{{ layout }}">
+
+<!-- Begin Menu Navigation
+================================================== -->
+<header class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsWow" aria-controls="navbarsWow" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="container">
+
+      <!-- Begin Logo -->
+      <a class="navbar-brand" href="{{ site.baseurl }}/index.html">
+      <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+      </a>
+      <!-- End Logo -->
+
+      <!-- Begin Menu -->
+      <div class="collapse navbar-collapse" id="navbarsWow">
+
+          <!-- Begin Menu -->
+          <ul class="navbar-nav ml-auto">
+
+            <li class="nav-item">
+              <a class="nav-link" href="http://www.all-faucets.com/daily/2019/07/08/index.html">Favorite Faucets</a>
+            </li>
+
+          </ul>
+          <!-- End Menu -->
+        </div>
+    </div>
+
+</header>
+
+<!-- End Menu Navigation
+================================================== -->
+
+
+<div class="site-content">
+
+    <div class="container">
+
+    <!-- Site Title
+    ================================================== -->
+
+    <div class="mainheading" style="display:none;">
+        <h1 class="sitetitle">{{ site.name }}</h1>
+        <p class="lead">
+             {{ site.description }}
+        </p>
+    </div>
+
+
+    <!-- Content
+    ================================================== -->
+    <div class="main-content">
+        {{ content }}
+    </div>
+
+    </div><!-- /.container -->
+
+    <!-- Begin Footer
+    ================================================== -->
+    <footer class="footer">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-sm-3">
+                <div class="footer-widget">
+                  <a href="http://bit.ly/www-freebitcoin" target="_blank"><img src="http://www.all-faucets.com/assets/images/freebitco.in-ad03.jpg" alt="FreeBitco.in"/></a>
+                </div>
+                </div>
+
+                <div class="col-sm-3">
+                <div class="footer-widget">
+                <h5 class="title"><a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a></h5>
+                <ul>
+                <li>- richest free hourly faucet</li>
+                <li>- over 19 million registered users</li>
+                <li>- 179,450 Bitcoin given away</li>
+                <li>- farn interest on your holdings</li>
+                <li>- read more on our <a href="http://www.all-faucets.com/faucets/2019/01/05/freebitco.in.html">discussion page</a></li>
+                </ul>
+                </div>
+                </div>
+
+                <div class="col-sm-3">
+                <div class="footer-widget">
+                  <a href="http://bit.ly/www-rollercoin"><img src="//rollercoin.com/static/img/referral/banners/ref_336280.gif" alt="RollerCoin"/></a>
+                  </div>
+                </div>
+
+                <div class="col-sm-3">
+                <div class="footer-widget">
+                <h5 class="title"><a href="http://bit.ly/www-rollercoin" target="_blank">Roller Coin</a></h5>
+                One of the first online bitcoin mining simulator games is <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>.
+                Your virtual mining power depends on the scores you reach playing flash games such as match-three puzzle games.
+                The more you play the higher your virtual mining power.
+                </div>
+                </div>
+
+            </div>
+
+            <div class="copyright">
+                <p class="pull-left">
+                This site uses cookies to enhance your experience.
+                </p>
+                <p class="pull-right">
+                Copyright © 2019 All Faucets. Template by <a target="_blank" href="https://www.wowthemes.net/free-jekyll-template-affiliates/">WowThemes.net</a>
+                </p>
+                <div class="clearfix">
+                </div>
+            </div>
+        </div>
+
+    </footer>
+    <!-- End Footer -->
+
+</div> <!-- /.site-content>
+
+<!-- JavaScript
+================================================== -->
+
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+<script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+<script type='text/javascript' src='{{ site.baseurl }}/assets/js/masonry.pkgd.min.js'></script>
+
+<script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+
+</body>
+</html>
