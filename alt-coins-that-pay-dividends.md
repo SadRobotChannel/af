@@ -9,12 +9,15 @@ URL: http://www.all-faucets.com/alt-coins-that-pay-dividends.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-This is a placeholder for an article describing Alt Coin investment. In the future article we will describe the following services:
+This is a placeholder for an article describing Alt Coin investment. In the  article we will describe the following services:
 
-1.
-2.
-3.
-4.
+1. <a href="http://bit.ly/www-stakecube" target="_blank">StakeCube</a><br>
+2. <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a><br>
+3. <a href="https://stakingrewards.com" target="_blank">StakeCube</a><br>
+4. <a href="https://insane.exchange/Faucet" target="_blank">Insane Exchange</a><br>
+5. <a href="https://tradesatoshi.com/Faucet" target="_blank">Trade Stradesatoshiatoshi</a><br>
+
+Please stay tune for the content.
 
 ---
 #### Staking in POT Wallet
