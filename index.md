@@ -26,6 +26,6 @@ Should you invest in Alt Coins and which coins should you collect? Continue read
 You may have heard of trading bots. After trying several of them, we have settled on Bitsgap. Below we will explain why.
 First, you'll need to create an account on one of major cryto exchanges such as <a href="http://bit.ly/www-binance" target="_blank">Binance</a>. Then, sign up for a free trial at <a href="http://bit.ly/www-bitsgap" target="_blank">Binance</a>.
 
-In the following article we'll describe how Bitsgap auto-trades without your involvement and doubles or triples your investment within a month.
+In the following article we'll describe how Bitsgap auto-trades without your involvement and doubles or triples your investment within a month. Continue reading: <a href="http://www.all-faucets.com/bitsgap-cryptocurrency-trading-bot.html">Bitsgap - Cryptocurrency Trading Bot</a>.
 
 <a href="http://bit.ly/www-bitsgap" target="_blank"><img src="http://www.all-faucets.com/assets/images/bitsgap-01.jpg" alt="Bitsgap - Cryptocurrency Trading Bot"/></a>
