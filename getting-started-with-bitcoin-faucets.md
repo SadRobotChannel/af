@@ -205,7 +205,7 @@ There are games that do not involve betting and still reward you similarly to th
 <p> </p>
 **Not just Bitcoin!**
 
-The next table shows the faucets with an hourly frequency of reward. We've added two more non-bitcoin faucets here - a Doge and a Ripple (XPR) faucet. Don't put all your eggs in one basket, the old saying goes. And even if you do prefer just one currency, you can later convert between digital currencies on sites like Coinbase.
+The next table shows the faucets with an hourly frequency of reward. We've added two more non-bitcoin faucets here - a Doge and a Ripple (XPR) faucet. Don't put all your eggs in one basket, the old saying goes. And even if you do prefer just one currency, you can later convert between digital currencies on many free exchange sites.
 
 <div class="table-users">
  <div class="header">Claim every 60 minutes</div>
@@ -221,10 +221,10 @@ The next table shows the faucets with an hourly frequency of reward. We've added
     </tr>
 
     <tr>
-       <td>6</td>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="FreeDoge.co.in"/></a></td>
-       <td><a href="http://bit.ly/www-freedogecoin" target="_blank">FreeDoge.co.in</a></td>
-       <td><a href="/freedoge.co.in.html">Discussion</a></td>
+       <td>12</td>
+       <td><a href="http://bit.ly/www-free-dogecoin" target="_blank"><img src="/assets/images/freedoge.co.in-thumb.png" alt="Free-Dogecoin"/></a></td>
+       <td><a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a></td>
+       <td><a href="">Discussion</a></td>
        <td>50 DOGE</td>
        <td>Around 0.24 DOGE per hour, with a possibility to roll more; Lottery.</td>
     </tr>
@@ -249,6 +249,8 @@ The next table shows the faucets with an hourly frequency of reward. We've added
 
  </table>
 </div>
+
+There are much more Alt Coins that you can collect, read our Alt Coins that Pay Dividends article.
 
 <p> </p>
 **Paid to Click (PTC) and Paid to Surf (PTS)**
