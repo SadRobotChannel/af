@@ -11,10 +11,10 @@ URL: http://www.all-faucets.com/alt-coins-that-pay-dividends.md
 
 This is a placeholder for an article describing Alt Coin investment. In the future article we will describe the following services:
 
--
--
--
--
+1.
+2.
+3.
+4.
 
 ---
 #### Staking in POT Wallet
