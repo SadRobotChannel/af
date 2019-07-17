@@ -15,7 +15,7 @@ This is a placeholder for an article describing Alt Coin investment. In the  art
 2. <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a><br>
 3. <a href="https://stakingrewards.com" target="_blank">StakeCube</a><br>
 4. <a href="https://insane.exchange/Faucet" target="_blank">Insane Exchange</a><br>
-5. <a href="https://tradesatoshi.com/Faucet" target="_blank">Trade Stradesatoshiatoshi</a><br>
+5. <a href="https://tradesatoshi.com/Faucet" target="_blank">Trade Satoshi</a><br>
 
 Please stay tune for the content.
 

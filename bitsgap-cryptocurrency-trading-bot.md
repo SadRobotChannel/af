@@ -9,7 +9,7 @@ URL: http://www.all-faucets.com/bitsgap-cryptocurrency-trading-bot.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-This is a placeholder for a future article on Bitsgap, explaining why this is currently the safest and the most profitable trading bot on the market. Stay tuned, please for a few days.
+This is a placeholder for a future article on <a href="http://bit.ly/www-bitsgap" target="_blank">Bitsgap</a>, explaining why this is currently the safest and the most profitable trading bot on the market. Stay tuned, please for a few days.
 
 ---
 #### Examples of our past trading with Bitsgap
