@@ -14,7 +14,7 @@ If you’re new to crypto faucets this site is for you. We list bitcoin and othe
 
 Also, this is a community website. We invite you to join and contribute!
 
-** Getting Started
+**Getting Started
 
 Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in an exchange for completing a captcha or tasks described by the websites.
 
@@ -34,7 +34,7 @@ Many of the faucets sites, however, allow only a withdrawal to an account that y
 
 Think of these two sites as transaction brokers - a middleman between you and other faucet sites. The digital wallets you generate on these websites reduce or completely eliminate the transaction fees to transfer money from a faucet to yourself. They are your friends, although you may later want to withdraw your money from FaucetHub and CoinPot to a secure hardware wallet like Trezor.
 
-** Amount of reward and ease of use
+**Amount of reward and ease of use
 
 Each faucet site rewards you differently. Most of the sites are able to sustain itself due to advertisement, but when the ads are excessive or try to confuse you, you end-up wasting too much time on the site, and finally never come back to it. We try to list only the “cleanest” sites, where you spend literarily 10-15 seconds per faucet claim. And these 10-15 seconds are rewarded anywhere from 10-50 satoshi, depending on the site.
 
@@ -44,7 +44,7 @@ We try to provide some information about the value of faucet sites on various di
 
 While many sites profit from their ads, some are also making money by offering games and gambling services. While there’s a solid chance of winning when you gamble, similarly as in a casino, in the long term you’ll always loose. The house always stays profitable. And so we do not discuss gambling and generally do not recommend it.
 
-** The good games
+**The good games
 
 There are games that do not involve betting and still reward you similarly to the faucet sites. Such faucet games are more exciting to claim from, they are usually pleasing on the eyes and you tend to level up or increase your game experience as you spend more time in the game, which in turn continuously increases your crypto rewards.
 
@@ -64,7 +64,7 @@ A good Paid to Click (PTC) or Paid to Surf (PTS) is usually much cleaner than a 
 
 An example of PTC site is <a href="http://bit.ly/www-adbtc" target="_blank" alt="adBTC"/></a>.
 
-** In Summary…
+**In Summary…
 
 Faucet sites come and go, some change their owners, format or frequency of payment as well as the payout amounts. This blog entry introduces the key concepts of the faucet websites. Within the pages and posts of this community you will see the actual faucet site links, tips and tricks as well as the feedback to these faucet sites.
 
