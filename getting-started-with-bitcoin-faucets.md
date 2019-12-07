@@ -62,7 +62,7 @@ Additionally, there are sites that are not typically assumed to be faucet sites,
 
 A good Paid to Click (PTC) or Paid to Surf (PTS) is usually much cleaner than a faucet site, since it aims to show you only the targeted ads (unlike a faucet portal which is often filled with many ads in a hope that you’d click or mis-click on some). On PTC/PTS portals you are typically rewarded anywhere from 5 to 100 satoshi per one click, and required to view an ad or a website that the marketer has prepared for you. You may be required not to switch the your screen for a period of time, anywhere from 15 to 60 seconds, and in the end of the time period, you are asked again to press a button or solve a CAPTCHA to confirm that you have finished watching the ad.
 
-An example of PTC site is <a href="http://bit.ly/www-adbtc" target="_blank" alt="adBTC"/>adBTC</a>.
+An example of PTC site is <a href="http://bit.ly/www-adbtc" target="_blank" alt="adBTC">adBTC</a>.
 
 <b>In Summary…</b>
 
