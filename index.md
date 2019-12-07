@@ -14,16 +14,24 @@ If you're new to crypto faucets this site is for you. We list bitcoin and other 
 Continue reading: <a href="http://www.all-faucets.com/getting-started-with-bitcoin-faucets.html">Getting Started with Bitcoin Faucets</a>.
 
 ---
-#### Invest in Alt Coins
+#### 2019's Favorite Faucets
 
-Dogecoin (DOGE) has made a lot of news recently as a fun <i>alternative</i> to bitcoin. (By the way, our favorite faucet to earn Dogecoin is <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a> - try it, you won't find a better one!) DOGE, however, is one out of thousands of Alt Coins available for you to trade and collect. As of today, coinmarketcap.com lists over 2,300 different cryto coins and tokens. Many had tremendous growth since their initial release to public, but some turned out to be worthless.
+A lot had changed since we first published this website. One, the price of the Bitcoin went up from circa 3,500 USD to over 10,000 USD occasionally reaching up to 12 or 13 thousands of US dollars. Such an increase in value had put many of the faucet websites out of business, as they could not afford giving away the promised rewards. Many have gone offline without distributing the amounts in your wallets, thus simply stealing your money. These are the risks that you need to be aware of and accept when investing your time or your money in cryptocurrency related services.
 
-Should you invest in Alt Coins and which coins should you collect? Continue reading our <a href="http://www.all-faucets.com/alt-coins-that-pay-dividends.html">Alt Coins that Pay Dividends</a> article.
+Still, the following faucets that remain loyal to their members, continuing dispensing free satoshi:
 
----
-#### New: Learn to Trade (While You Sleep)
-
-You may have heard of trading bots. After trying several of them, we have settled on Bitsgap. Below we will explain why.
-First, you'll need to create an account on one of major cryto exchanges such as <a href="http://bit.ly/www-binance" target="_blank">Binance</a>. Then, sign up for a free trial at <a href="http://bit.ly/www-bitsgap" target="_blank">Bitsgap</a>.
-
-In the following article we'll describe how Bitsgap auto-trades without your involvement and doubles or triples your investment within a month. Continue reading: <a href="http://www.all-faucets.com/bitsgap-cryptocurrency-trading-bot.html">Bitsgap - Cryptocurrency Trading Bot</a>.
+- <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a>
+- <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a>
+- <a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">Bitcoins For Me</a>
+- <a href="http://bit.ly/www-bithunt" target="_blank">BitHunt</a>
+- <a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a>
+- <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a>
+- <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a>
+- <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a>
+- <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a>
+- <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a>
+- <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a>
+- <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a>
+- <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>
+- <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>
+- <a href="http://bit.ly/sato-host" target="_blank">Sato</a>
