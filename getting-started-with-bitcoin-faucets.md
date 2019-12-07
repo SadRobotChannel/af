@@ -14,17 +14,17 @@ If you’re new to crypto faucets this site is for you. We list bitcoin and othe
 
 Also, this is a community website. We invite you to join and contribute!
 
-**Getting Started
+<b>Getting Started</b>
 
 Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins. Visitors can claim bitcoin satoshi or other types of coins in an exchange for completing a captcha or tasks described by the websites.
 
 You “claim” from a faucet by visiting a site and pressing a button dispensing free bitcoin or other tokens.
 
-**Frequency of reward claim
+<b>Frequency of reward claim</b>
 
 You may prefer an hourly period, where you visit and refresh a faucet website on your device (computer, tablet or mobile), or daily, or even as frequently as every 5 minutes. Different sites offer different frequency of claim.
 
-** Direct vs. Indirect
+<b>Direct vs. Indirect</b>
 
 There are some faucet sites that allow a direct transfer out (withdraw) of your earned digital currency. Let’s say you created a wallet on BTC.com. Then when claiming from a direct faucet, you can specify your BTC.com’s withdrawal wallet. Or any other bitcoin address.
 
@@ -34,29 +34,29 @@ Many of the faucets sites, however, allow only a withdrawal to an account that y
 
 Think of these two sites as transaction brokers - a middleman between you and other faucet sites. The digital wallets you generate on these websites reduce or completely eliminate the transaction fees to transfer money from a faucet to yourself. They are your friends, although you may later want to withdraw your money from FaucetHub and CoinPot to a secure hardware wallet like Trezor.
 
-**Amount of reward and ease of use
+<b>Amount of reward and ease of use</b>
 
 Each faucet site rewards you differently. Most of the sites are able to sustain itself due to advertisement, but when the ads are excessive or try to confuse you, you end-up wasting too much time on the site, and finally never come back to it. We try to list only the “cleanest” sites, where you spend literarily 10-15 seconds per faucet claim. And these 10-15 seconds are rewarded anywhere from 10-50 satoshi, depending on the site.
 
 We try to provide some information about the value of faucet sites on various discussion pages within this community.
 
-** Don’t gamble
+<b>Don’t gamble</b>
 
 While many sites profit from their ads, some are also making money by offering games and gambling services. While there’s a solid chance of winning when you gamble, similarly as in a casino, in the long term you’ll always loose. The house always stays profitable. And so we do not discuss gambling and generally do not recommend it.
 
-**The good games
+<b>The good games</b>
 
 There are games that do not involve betting and still reward you similarly to the faucet sites. Such faucet games are more exciting to claim from, they are usually pleasing on the eyes and you tend to level up or increase your game experience as you spend more time in the game, which in turn continuously increases your crypto rewards.
 
 Example of a faucet sites with good games is <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a>.
 
-**Not just Bitcoin
+<b>Not just Bitcoin</b>
 
 Don’t put all your eggs in one basket, the old saying goes. And even if you do prefer just one currency, you can later convert between digital currencies on many free exchange sites. There are many AltCoins that you can collect. Check out posts with #altcoins tag for more tips.
 
 Our favorite Dogecoin faucet site is <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>.
 
-**Paid to Click (PTC) and Paid to Surf (PTS)
+<b>Paid to Click (PTC) and Paid to Surf (PTS)</b>
 
 Additionally, there are sites that are not typically assumed to be faucet sites, however offer free rewards. You should be aware of these types of sites, since many of them can be much more profitable than a typical 60-minute interval faucet.
 
@@ -64,7 +64,7 @@ A good Paid to Click (PTC) or Paid to Surf (PTS) is usually much cleaner than a 
 
 An example of PTC site is <a href="http://bit.ly/www-adbtc" target="_blank" alt="adBTC"/></a>.
 
-**In Summary…
+<b>In Summary…</b>
 
 Faucet sites come and go, some change their owners, format or frequency of payment as well as the payout amounts. This blog entry introduces the key concepts of the faucet websites. Within the pages and posts of this community you will see the actual faucet site links, tips and tricks as well as the feedback to these faucet sites.
 
