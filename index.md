@@ -18,13 +18,10 @@ Continue reading: <a href="http://www.all-faucets.com/getting-started-with-bitco
 
 A lot had changed since we first published this website. One, the price of the Bitcoin went up from circa 3,500 USD to over 10,000 USD occasionally reaching up to 12 or 13 thousands of US dollars. Such an increase in value had put many of the faucet websites out of business, as they could not afford giving away the promised rewards. Many have gone offline without distributing the amounts in your wallets, thus simply stealing your money. These are the risks that you need to be aware of and accept when investing your time or your money in cryptocurrency related services.
 
-Still, the following faucets that remain loyal to their members, continuing dispensing free satoshi:
+Still, the following faucets sites remain loyal to their members and continue dispensing free satoshi:
 
 - <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a>
 - <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a>
-- <a href="http://bit.ly/www-bitcoinsfor-me" target="_blank">Bitcoins For Me</a>
-- <a href="http://bit.ly/www-bithunt" target="_blank">BitHunt</a>
-- <a href="http://bit.ly/www-bitnyx" target="_blank">Bitnyx</a>
 - <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a>
 - <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a>
 - <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a>
@@ -34,4 +31,3 @@ Still, the following faucets that remain loyal to their members, continuing disp
 - <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a>
 - <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>
 - <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>
-- <a href="http://bit.ly/sato-host" target="_blank">Sato</a>
