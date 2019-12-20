@@ -38,7 +38,7 @@ What is your experience with crypto faucets? Have you tried any of them? Do you 
 <script src="https://cdn.commento.io/js/commento.js"></script>
 
 ---
-#### Join our Crypto-Community opens on December 20th, 2019
+#### Join our new Crypto-Community
 
 This site, all-faucets.com is focused specifically on cryptocurrency faucets. And while the domain name implies that we'll list "all" faucets, in reality there is only a handful of good faucets that are worth your time and effort. However, there are many other ways how you can earn cryptocurrency - mining, staking, IPOs and airdrops, cryto jobs and so on. There are a lot of opportunities, but you need quality information in order to use these opportunities for your advantage.
 
