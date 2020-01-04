@@ -32,7 +32,7 @@ We recommend the following 5 faucets sites, as they remain loyal to their member
 5. <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a> - Crypto faucet game
 6. <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a> - Crypto faucet game
 7. <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a> - Crypto faucet game
-8 <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a> - An autofaucet
+8. <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a> - An autofaucet
 9. <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a> - An hourly faucet with an interest
 10. <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a> - An hourly faucet with an interest
 11. <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a> - Crypto faucet game
