@@ -49,7 +49,7 @@ I love to develop new products. This site, wwww.all-faucets.com, is ready! It's 
 
 <b>Why to buy:</b>
 - Everything written on this site is original, there are no copy/paste from other sites.
-- Google front-page when searching for for <a href="https://www.google.com/search?q=best+cryptocurrency+faucets&oq=best&aqs=chrome.0.69i59j69i57j69i59j69i61l2j69i60j69i65l2.1070j0j7&sourceid=chrome&ie=UTF-8" target="_blank">best cryptocurrency faucets</a> and similar keywords.
+- We are on the Google front-page when searching for for <a href="https://www.google.com/search?q=best+cryptocurrency+faucets&oq=best&aqs=chrome.0.69i59j69i57j69i59j69i61l2j69i60j69i65l2.1070j0j7&sourceid=chrome&ie=UTF-8" target="_blank">best cryptocurrency faucets</a> and similar keywords.
 - Extremely easy to update and to use even for a beginner. Continue to expand this website, add your own ref. links, more faucet sites, etc
 - Evolve it further into a crypto blog or anything crypto related. There's a healthy organic traffic of people who are interested in cryptocurrency!
 
