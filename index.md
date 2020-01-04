@@ -59,7 +59,7 @@ I love to develop new products. This site, wwww.all-faucets.com, is ready! It's 
 
 <b>What you'll get:</b>
 - Domain name (www.all-faucets.com)
-- All of the content you're see on this web
+- All of the content you see on this web
 - My support to help you have it transferred and set up on your accounts
 - Free hosting. I will show you how to host this in a same way as I am hosting it for free. Your operational costs is only a yearly cost of a domain name.
 
