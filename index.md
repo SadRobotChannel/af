@@ -23,7 +23,7 @@ An increase in cryptovalue that we saw in the mid of 2019 value had put many of 
 ---
 #### Crypto Faucets that still work in 2020
 
-We recommend the following 5 faucets sites, as they remain loyal to their members and continue dispensing free satoshi:
+We recommend the following 11 faucets sites, as they remain loyal to their members and continue dispensing free satoshi:
 
 1. <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a> - Paid 2 Surf site
 2. <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a> - An hourly faucet with an interest
