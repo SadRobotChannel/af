@@ -16,14 +16,14 @@ Continue reading: <a href="https://www.all-faucets.com/daily/2019/12/12/index.ht
 ---
 #### 2019 in Summary
 
-Year 2019 had a devastating effect on cryptocurrency faucets. Hundreds of faucets sites appeared on the Internet, as the year started with the bitcoin price in a range of 3,500 USD. Then, with a BTC price spiked to over 10,000 USD occasionally reaching up to 12 or 13 thousands of US dollars, most of the sites closed down or made their interfaces unusuable (overloading with clicks and ads).
+Year 2019 had a devastating effect on cryptocurrency faucets. Hundreds of faucets sites appeared on the Internet, as the year started with the bitcoin price in a range of 3,500 USD. Then, with a BTC price spiked to over 10,000 USD occasionally reaching up to 12 or 13 thousands of US dollars, most of the sites closed down or made their interfaces unusable (overloading with clicks and ads).
 
-An increase in cryptovalue that we saw in the mid of 2019 value had put many of the faucet websites out of business, as they could not afford giving away the promised rewards. Many went offline without distributing the amounts in your wallets, thus simply stealing your earned money. These are the risks that you need to be aware of and accept when investing your time in faucet related services.
+An increase in crypto value that we saw in the mid of 2019 value had put many of the faucet websites out of business, as they could not afford giving away the promised rewards. Many went offline without distributing the amounts in your wallets, thus simply stealing your earned money. These are the risks that you need to be aware of and accept when investing your time in faucet related services.
 
 ---
 #### Crypto Faucets that still work in 2020
 
-We recommend the following 11 faucets sites, as they remain loyal to their members and continue dispensing free satoshi:
+We recommend the following 11 faucets sites. They remain loyal to their members and continue to dispense free satoshi:
 
 1. <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a> - Paid 2 Surf site
 2. <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a> - An hourly faucet with an interest
