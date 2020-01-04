@@ -16,18 +16,18 @@ Continue reading: <a href="https://www.all-faucets.com/daily/2019/12/12/index.ht
 ---
 #### 2019 in Summary
 
-Year 2019 had a devastating effect on cryptocurrency faucets. Hundreds of faucets sites appeared on the Internet, as the year started with the bitcoin price in a range of 3,500 USD. Then, with a BTC price spiked to over 10,000 USD occasionally reaching up to 12 or 13 thousands of US dollars, most of the sites closed down or made their interfaces unusable (overloading with clicks and ads).
+Year 2019 had a devastating effect on cryptocurrency faucets. Hundreds of faucets sites appeared on the Internet, as the year started with the bitcoin price in a range of 3,500 USD. Then, with a BTC price spiking to over 10,000 USD occasionally reaching up to 12 or 13 thousands of US dollars, most of the sites closed down or made their interfaces unusable (overloading with clicks and ads).
 
 An increase in crypto value that we saw in the mid of 2019 value had put many of the faucet websites out of business, as they could not afford giving away the promised rewards. Many went offline without distributing the amounts in your wallets, thus simply stealing your earned money. These are the risks that you need to be aware of and accept when investing your time in faucet related services.
 
 ---
 #### Crypto Faucets that still work in 2020
 
-We recommend the following 11 faucets sites. They remain loyal to their members and continue to dispense free satoshi:
+We recommend the following 11 faucets sites. They remain loyal to their members and continue to dispense free coins:
 
 1. <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a> - Paid 2 Surf site
 2. <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a> - An hourly faucet with an interest
-3. <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a> - Claim every 30 minutes, Altcoins mostly
+3. <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a> - Claim every 30 minutes, Altcoins mostly, staking
 4. <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a> - An hourly faucet with an interest
 5. <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a> - Crypto faucet game
 6. <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a> - Crypto faucet game
@@ -45,8 +45,22 @@ What is your experience with crypto faucets? Have you tried any of them? Do you 
 ---
 #### This website is for sale
 
-We love to develop new products. This site, wwww.all-faucets.com, is ready! It's simple, functional and it appears on the first page of <a href="https://www.google.com/search?q=best+cryptocurrency+faucets&oq=best&aqs=chrome.0.69i59j69i57j69i59j69i61l2j69i60j69i65l2.1070j0j7&sourceid=chrome&ie=UTF-8" target="_blank">Google</a>!
+I love to develop new products. This site, wwww.all-faucets.com, is ready! It's simple, functional and it appears on the first page of Google. This took over 1 year and a lot of hours.
 
-There's a <a href="https://uk.auctions.godaddy.com/trpItemListing.aspx?&miid=309518444" target="_blank">7-day auction</a> running now at GoDaddy, with a starting price of $100. Bid, win and own this site within a week! We will transfer the domain name and the full content of this website to you.
+<b>Why to buy:</b>
+- Google front-page when searching for for <a href="https://www.google.com/search?q=best+cryptocurrency+faucets&oq=best&aqs=chrome.0.69i59j69i57j69i59j69i61l2j69i60j69i65l2.1070j0j7&sourceid=chrome&ie=UTF-8" target="_blank">best cryptocurrency faucets</a> and similar keywords.
+- Extremely easy to update and to use even for a beginner. Continue to expand this website, add your own ref. links, more faucets sites, etc
+- Evolve it further into a crypto blog or anything crypto related. There's a healthy organic traffic of people who are interested in cryptocurrency!
 
-As a bonus, we will also show you how we host this site for free. Yes, secure and reliable hosting without a monthly charge. Happy to answer your questions via email at <i>internalizer@protonmail.com</i>
+<b>How to buy:</b>
+- There's a <a href="https://uk.auctions.godaddy.com/trpItemListing.aspx?&miid=309578665" target="_blank">7-day auction</a> running now at GoDaddy, with a starting price of $100.
+- If you prefer to buy via flippa.com, I will consider moving the auction from godaddy.com to flippa, as long as there are 0 bids. Please email me.
+
+<b>What you'll get:</b>
+- Domain name (www.all-faucets.com)
+- All of the content you're see on this web
+- My support to help you have it transferred and set up on your accounts
+- Free hosting. I will show you how to host this in a same way as I am hosting it for free. Your operational costs is only a yearly cost of a domain name.
+
+
+I am happy to answer your questions via email at <i>internalizer@protonmail.com</i>
