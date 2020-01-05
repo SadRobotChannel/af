@@ -41,27 +41,3 @@ What is your experience with crypto faucets? Have you tried any of them? Do you 
 
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
-
----
-#### This website is for sale
-
-I love to develop new products. This site, wwww.all-faucets.com, is ready! It's simple, functional and it appears on the first page of Google. This took over 1 year and a lot of hours.
-
-<b>Why to buy:</b>
-- Everything written on this site is original, there are no copy/paste from other sites.
-- We are on the Google front-page when searching for for <a href="https://www.google.com/search?q=best+cryptocurrency+faucets&oq=best&aqs=chrome.0.69i59j69i57j69i59j69i61l2j69i60j69i65l2.1070j0j7&sourceid=chrome&ie=UTF-8" target="_blank">best cryptocurrency faucets</a> and similar keywords.
-- Extremely easy to update and to use even for a beginner. Continue to expand this website, add your own ref. links, more faucet sites, etc
-- Evolve it further into a crypto blog or anything crypto related. There's a healthy organic traffic of people who are interested in cryptocurrency!
-
-<b>How to buy:</b>
-- There's a <a href="https://uk.auctions.godaddy.com/trpItemListing.aspx?&miid=309578665" target="_blank">7-day auction</a> running now at GoDaddy, with a starting price of $100. Please bid on the ongoing auction.
-- If you prefer to buy via flippa.com, I will consider moving the auction from godaddy.com to flippa, as long as there are 0 bids. Please email me.
-
-<b>What you'll get:</b>
-- Domain name (www.all-faucets.com)
-- All of the content you see on this site
-- My support to help you have it transferred and set up on your accounts
-- Free hosting. I will show you how to host this in a same way as I am hosting it for free. Your operational costs is only a yearly cost of a domain name.
-
-
-I am happy to answer your questions via email at <i>internalizer@protonmail.com</i>
