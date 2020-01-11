@@ -1,5 +1,5 @@
 ---
-layout: post-right-sidebar
+layout: post-right-sidebar-2
 title: Getting Started with Bitcoin Faucets
 comments: true
 img: http://www.all-faucets.com/assets/images/all-faucets.com-thumb.png
