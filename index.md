@@ -47,3 +47,14 @@ To comment, login with your email address or via a secure connection using one o
 
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
+
+<div class='wrap'>
+  <div class='content'>
+    <h2>Well Hello!</h2>
+    <iframe data-aa="1309543" src="//ad.a-ads.com/1309543?size=990x90" scrolling="no" style="width:990px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
+
+  </div>
+</div>
+<a class='button glyphicon glyphicon-plus' href='#'></a>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="./script.js"></script>
