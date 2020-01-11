@@ -11,7 +11,7 @@ URL: https://www.all-faucets.com/index.html
 
 If you're new to crypto faucets this site is for you. We list bitcoin and other digital currency faucets that are verified for their value and reputation. Usually people start trying-out faucets out of curiosity, or as a hobby, but with some knowledge and consistency such hobby can offer a good income. Our goal is to share the knowledge and to enable you to earn digital currency in the way that suits your interests and your life-style.
 
-Continue reading: <a href="https://www.all-faucets.com/daily/2019/12/12/index.html">Getting Started with Bitcoin Faucets</a>.
+Continue reading: <a href="/getting-started-with-bitcoin-faucets">Getting Started with Bitcoin Faucets</a>.
 
 ---
 #### 2019 in Summary
