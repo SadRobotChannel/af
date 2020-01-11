@@ -1,0 +1,67 @@
+---
+layout: default
+disqus: false
+archive: false
+post_class: post-template
+---
+
+<!-- Begin Article
+================================================== -->
+
+	<div class="row">
+
+		<!-- Post -->
+        {% assign author = site.authors[page.author] %}
+
+		<div class="col-md-8 col-lg-8">
+			<div class="mainheading">
+
+                <!-- Post Title -->
+				<h1 class="posttitle">{{ page.title }}</h1>
+
+			</div>
+
+			<!-- Post Featured Image -->
+			{% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
+			<!-- End Featured Image -->
+
+			<!-- Post Content -->
+			<div class="article-post">
+				{{content}}
+                <div class="clearfix"></div>
+			</div>
+
+            <!-- Post Date -->
+            <p>
+            <small>
+                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
+                {% if page.last_modified_at %}
+                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                {% endif %}
+                </small>
+            </p>
+
+            <!-- Begin Comments
+            ================================================== -->
+            <section>
+            <div id="comments">
+                {% include comments.html %}
+            </div>
+            </section>
+            <!--End Comments
+            ================================================== -->
+
+		</div>
+		<!-- End Post -->
+
+        <!-- Right Sidebar -->
+        <div class="col-md-4 col-lg-4">
+        <div class="sidebar-right">
+        {% include sidebar-2.html %}
+        </div>
+        </div>
+
+	</div>
+
+<!-- End Article
+================================================== -->
