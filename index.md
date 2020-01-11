@@ -21,6 +21,13 @@ Year 2019 had a devastating effect on cryptocurrency faucets. Hundreds of faucet
 An increase in crypto value that we saw in the mid of 2019 had put many of the faucet websites out of business, as they could not afford giving away the promised rewards. Many went offline without distributing the amounts in your wallets, thus simply stealing your earned money. These are the risks that you need to be aware of and accept when investing your time in faucet related services.
 
 ---
+#### Sponsored Ad
+
+We use <a href="http://a-ads.com?partner=1309540">A-Ads</a> to bring to you relevant crypto ads.
+
+<iframe data-aa="1309540" src="//ad.a-ads.com/1309540?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
+
+---
 #### Crypto Faucets that still work in 2020
 
 We recommend the following 11 faucets sites. They remain loyal to their members and continue to dispense free coins:
