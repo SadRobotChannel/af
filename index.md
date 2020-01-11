@@ -16,7 +16,7 @@ Continue reading: <a href="/getting-started-with-bitcoin-faucets">Getting Starte
 ---
 #### 2019 in Summary
 
-Year 2019 had a devastating effect on cryptocurrency faucets. Hundreds of faucets sites appeared on the Internet, as the year started with the bitcoin price in a range of 3,500 USD. Then, with a BTC price spiking to over 10,000 USD occasionally reaching up to 12 or 13 thousands of US dollars, most of the sites closed down or made their interfaces unusable (overloaded with clicks and ads).
+Year 2019 had a devastating effect on cryptocurrency faucets. Hundreds of faucets sites appeared on the Internet, as the year started with the bitcoin price in a range of 3,500 USD. Then, with a BTC price spiking to over 10,000 USD occasionally reaching up to 12 or 13 thousands of US dollars, most of the sites closed down or made their interfaces unusable (overloaded with clicks and ads). 
 
 An increase in crypto value that we saw in the mid of 2019 had put many of the faucet websites out of business, as they could not afford giving away the promised rewards. Many went offline without distributing the amounts in your wallets, thus simply stealing your earned money. These are the risks that you need to be aware of and accept when investing your time in faucet related services.
 
