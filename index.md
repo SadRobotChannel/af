@@ -43,5 +43,7 @@ We recommend the following 11 faucets sites. They remain loyal to their members 
 What is your experience with crypto faucets? Have you tried any of them? Do you have a favorite site?<br>
 Add your faucets via the comment section below!
 
+To comment, login with your email address or via a secure connection using one of your existing accounts with Google, Twitter, Github or Gitlab.
+
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
