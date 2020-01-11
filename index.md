@@ -37,7 +37,10 @@ We recommend the following 11 faucets sites. They remain loyal to their members 
 10. <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a> - An hourly faucet with an interest
 11. <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a> - Crypto faucet game
 
-What is your experience with crypto faucets? Have you tried any of them? Do you have a favorite site?
+---
+#### Crypto Discussion
+
+What is your experience with crypto faucets? Have you tried any of them? Do you have a favorite site? Add your faucets via the comment section below!
 
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
