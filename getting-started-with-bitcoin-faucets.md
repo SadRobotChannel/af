@@ -1,6 +1,6 @@
 ---
-layout: post-right-sidebar-2
-title: What is a Bitcoin?
+layout: post-right-sidebar
+title: Getting Started with Bitcoin Faucets
 comments: true
 img: http://www.all-faucets.com/assets/images/all-faucets.com-thumb.png
 alt: Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins.
