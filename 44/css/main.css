@@ -1,0 +1,242 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: 14px/150% 'Merriweather Sans', sans-serif;
+    background-color: white;
+    color: #222;
+}
+
+nav {
+    background-color: #333;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 0 2rem;
+}
+
+nav ul {
+    max-width: 72rem;
+    margin: auto;
+    font-size: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    font-size: 14px;
+}
+
+nav ul li .title {
+    margin-right: 2rem;
+    color: #eee;
+    line-height: 1.5rem;
+    display: inline-block;
+    vertical-align: bottom;
+    font-size: 1.5rem;
+}
+
+nav ul li a {
+    display: inline-block;
+    padding: 0.5rem 0.8rem;
+    color: #eee;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #555;
+}
+
+nav ul li.active a,
+nav ul li.active a:hover {
+    background-color: #666;
+}
+
+.main {
+    max-width: 72rem;
+    margin: auto;
+    padding: 3rem 1rem;
+}
+
+h1 {
+    margin-bottom: 1rem;
+    font-size: 5rem;
+    font-weight: normal;
+    line-height: 5rem;
+}
+
+h1 + p {
+    position: relative;
+    top: -1.5rem;
+    left: 10.25rem;
+    color: #666;
+    font-size: 1.2rem;
+}
+
+h1 + p em {
+    font-style: normal;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+hr {
+    margin: 2rem 0;
+    border-top: 1px solid #888;
+    border-bottom: none;
+}
+
+p {
+    margin-bottom: 0.5rem;
+}
+
+.grid:after {
+    display: table;
+    content: '';
+    clear: both;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.column:first-child .column-content {
+    padding-right: 1rem;
+}
+
+.column:last-child .column-content {
+    padding-left: 1rem;
+}
+
+.panel {
+    border: 1px solid #aaa;
+    border-radius: 2px;
+    background-color: #f4f4f4;
+    padding: 2rem 1rem;
+}
+
+.alert {
+    margin-bottom: 1rem;
+    border: 1px solid;
+    border-left-width: 6px;
+    border-radius: 2px;
+    padding: 0.5rem 1rem;
+    color: #18f;
+}
+
+.alert.error {
+    color: #f31;
+}
+
+.alert.success {
+    color: #4a2;
+}
+
+.home-panel h3 {
+    font-size: 1.8rem;
+    text-align: center;
+    font-weight: normal;
+    margin-bottom: 1rem;
+}
+
+.home-panel .content {
+    padding-left: 6rem;
+}
+
+.home-panel ul {
+    margin-left: 1rem;
+}
+
+.home-panel .avatar.centered {
+    float: none;
+    display: block;
+    margin: 1rem auto 0;
+}
+
+footer {
+    max-width: 72rem;
+    margin: 2rem auto 0;
+    border-top: 1px solid #aaa;
+    padding-top: 1rem;
+    padding-bottom: 6rem;
+}
+
+footer p {
+    text-align: center;
+    color: #aaa;
+    font-size: 0.8rem;
+}
+
+.visible-with-js {
+    display: none !important;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.narrow {
+    max-width: 48rem;
+    margin: auto;
+}
+
+.empty {
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.relative-time {
+    border-bottom: 1px dotted;
+}
+
+.pagination {
+    margin: 1rem 0 2rem;
+    list-style-type: none;
+    font-size: 0;
+    text-align: center;
+}
+
+.pagination li {
+    display: inline-block;
+    margin: 0 -1px 0 0;
+    font-size: 1rem;
+}
+
+.pagination li.elision {
+    padding: 0.6rem;
+}
+
+.pagination li a {
+    display: inline-block;
+    border: 1px solid #888;
+    background-color: white;
+    padding: 0.4rem 0.8rem;
+    color: #222;
+    text-decoration: none;
+}
+
+.pagination li:first-child a {
+    border-radius: 3px 0 0 3px;
+}
+
+.pagination li:last-child a {
+    border-radius: 0 3px 3px 0;
+}
+
+.pagination li a:hover {
+    background-color: #ddd;
+}
+
+.pagination li.selected a,
+.pagination li.selected a:hover {
+    background-color: #888;
+    color: white;
+    font-weight: bold;
+}
