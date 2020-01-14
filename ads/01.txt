@@ -1,2 +1,0 @@
-
-BtcFox is free hourly BTC faucet. It pays you dividends for keeping BTC in your account. From 0.00003500 balance you get 0.00000001 hourly! And, there's no minimum balance, so you'll start earning interest as soon as you open an account and have at least 0.00000010 satoshi.
